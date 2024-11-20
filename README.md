@@ -1,7 +1,7 @@
-# Projecttitel
+# BRIQ
 *Omschrijving van je concept in 1 zin* 
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: Kasper Stas, Joachim Waeyaert*
 
 Datum
 
