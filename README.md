@@ -12,7 +12,8 @@ Om deze motivatie te stimuleren, werd onderzocht hoe deze geïntegreerd kan word
 
 Door deze drie aspecten te combineren met een multisensorische aanpak, kan dementie bij gezonde 65-plussers mogelijk worden uitgesteld. Dit benadrukt het belang van preventieve maatregelen die zowel stimulerend als toegankelijk zijn voor ouderen.
 
-- Hero sketch/render/image
+![render briq](https://github.com/user-attachments/assets/1d121868-5181-4ddf-a905-46d9f2fb26c1)
+
 
 ## Introductie
 Max 300 woorden.
