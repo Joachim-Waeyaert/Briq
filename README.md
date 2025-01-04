@@ -35,7 +35,7 @@ Een duidelijke ‘how might we’ bekomen
 ### Resultaten
 #### User Interviews (N=4)
 Tijdens de gebruikersinterviews werden voornamelijk algemene aspecten besproken, die werden aangestuurd door concrete vragen. Wanneer bepaalde vragen bij specifieke respondenten meer relevant bleken, werd daar dieper op ingegaan. Uit de interviews kwam naar voren dat de ene respondent het uitstellen of voorkomen van dementie als een belangrijke motivatie beschouwde, terwijl anderen zich daar minder zorgen over maakten. Voor deze laatste groep werd duidelijk dat hun motivatie vaak voortkwam uit persoonlijke interesses en hobby’s. Wanneer deze interesses aanwezig waren, gaven ze aan gemotiveerd te zijn om deel te nemen aan “Aging Young”. Er werd verder onderzocht welke andere factoren, naast persoonlijke interesses, als belangrijke motiverende elementen zouden kunnen dienen.
-Een van de belangrijke factoren die naar voren kwam, is het sociale aspect. Een respondent gaf aan dat veel kennissen die hij kent van 65 jaar en ouder zich regelmatig eenzaam voelen. Voor hen zou het sociale aspect een sterke motivatie zijn om deel te nemen aan "Aging Young". Onderzoek ondersteunt dit, aangezien het blijkt dat ouderen die regelmatig in contact staan met vrienden of kennissen beter presteren op cognitieve tests dan degenen die minder sociale interactie ervaren.
+Een van de belangrijke factoren die naar voren kwam, is het sociale aspect. Een respondent gaf aan dat veel kennissen die hij kent van 65 jaar en ouder zich regelmatig eenzaam voelen. Voor hen zou het sociale aspect een sterke motivatie zijn om deel te nemen aan "Aging Young". Onderzoek[^1] ondersteunt dit, aangezien het blijkt dat ouderen die regelmatig in contact staan met vrienden of kennissen beter presteren op cognitieve tests dan degenen die minder sociale interactie ervaren.
 Daarnaast werd het belang van de gebruiksvriendelijkheid van de technologie benadrukt. De moderne, vaak complexe digitale wereld wordt door deze doelgroep als frustrerend ervaren. Respondenten gaven aan dat ze behoefte hadden aan producten die herkenbare, nostalgische elementen bevatten – producten die ze kunnen gebruiken of eenvoudig kunnen leren bedienen. De hedendaagse technologie wordt vaak als te ingewikkeld en te vernieuwend ervaren, wat leidt tot frustratie en afkeer bij deze groep.
 
 #### Benchmarks (N=10)
@@ -91,3 +91,4 @@ Max. 500 woorden
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
+[^1]: Pennsylvania State University. (2021, April 1). Socializing may improve older adults’ cognitive function in daily life. Penn State News.  https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
