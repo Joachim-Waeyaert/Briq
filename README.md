@@ -44,7 +44,7 @@ Het viel op dat er veel cognitieve en fysieke oefeningen beschikbaar zijn, maar 
 Een ander opvallend aspect was dat er vaak geen aandacht wordt besteed aan de motivatie van gebruikers om regelmatig met de producten of oefeningen te blijven werken, vooral wanneer er niemand aanwezig is om hen aan te moedigen of te begeleiden. Om hier meer inzicht in te krijgen, werd er tijdens de interviews (zie ‘user interviews’) verder onderzocht wat de drijvende kracht is achter de motivatie van gebruikers om actief betrokken te blijven bij deze producten.
 <p align="center">
   <img src="/Benchmarking-1.jpg" width="55%">
-  <img src="/Benchmarking-2.jpg" width="55%">
+  <img src="/Benchmarking-2.jpg" width="45%">
 </p>
 
   
