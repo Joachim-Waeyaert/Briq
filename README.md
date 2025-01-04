@@ -49,9 +49,6 @@ Een ander opvallend aspect was dat er vaak geen aandacht wordt besteed aan de mo
 
   
 
-
-
-
 ### Conclusies & implicaties
 Een product kan zo ontworpen worden dat het zowel cognitieve als fysieke activiteit bevordert, wat kan bijdragen aan het uitstellen of voorkomen van dementie. Maar zal het product daadwerkelijk gebruikt worden? Uit het onderzoek in de discovery-fase blijkt duidelijk dat, wanneer de interesses van de gebruiker niet worden aangesproken, het gebruik van het product waarschijnlijk beperkt zal zijn, waardoor de effectiviteit ervan vermindert. Om ervoor te zorgen dat het product aanspreekt, is het dus belangrijk om verschillende interesses binnen één product te integreren.
 Een deel van de 65-plussers is alleenstaand, waardoor het sociale aspect een belangrijke motiverende factor kan zijn. Veel sportieve hobby’s bieden al dit sociale aspect, zoals tennis, badminton en pingpong.
@@ -61,9 +58,9 @@ Daarnaast is het algemeen bekend dat frustraties veel zwaarder wegen dan positie
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D1.1 Het product dient in een sociale omgeving gebruikt te worden.
+> - D1.1 Het product dient in een sociale omgeving te kunnen gebruikt worden.
 > - D2.1 Het product dient een tutorial te bevatten.
-> - D2.2 Er moeten herkenbare kenmerken aanwezig zijn in het product.
+> - D2.2 Er moeten herkenbare kenmerken voor de gebruiker aanwezig zijn in het product.
 
 ## Definition
 Max. 1000 woorden
