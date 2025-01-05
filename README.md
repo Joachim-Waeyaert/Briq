@@ -107,7 +107,15 @@ Max. 500 woorden
 
 
 ## Bijlagen
-
+- Discovery
+  - User interview
+      - [protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/Eccp6-tuJ7RIgDxTFJafTsUBjha0G01C07kuwLYuzL_5hg?e=EyJoAE)
+      - [report respondent 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/ETShPN_411NNuFoKcluLLloBlKvgK6anIf66xyKFr2YVYA?e=tGJIf9)
+      - [report respondent 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/EX9dlNEBjz9Ep7ALpzGcafgBQYQuzKDekljJ-uAmMbQE1Q?e=86iySw)
+      - [report respondent 3,4](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/EcoTCGuhVb5BuJcO8Id6Z2MB8CgIEz0BB_kHVZi0qELf9w?e=ZP3wUn)
+  - Benchmarking
+      - [protocol + report](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/EVxuGJCil6NKqp4rx4swli4Bz6NNofoWt0LyqeWuUlmu3w?e=z1qCuJ)
+- Definition
 
 ## Bronnen
 [^1]: Pennsylvania State University. (2021, April 1). Socializing may improve older adults’ cognitive function in daily life. Penn State News.  https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
