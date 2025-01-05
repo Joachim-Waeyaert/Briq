@@ -105,9 +105,13 @@ Definieer de belangrijkste designbeslissingen
 ## Kritische reflectie
 Max. 500 woorden
 
+
+## Bijlagen
+
+
 ## Bronnen
 [^1]: Pennsylvania State University. (2021, April 1). Socializing may improve older adults’ cognitive function in daily life. Penn State News.  https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
 [^2]: Venesson, J. (2023, 19 december). Les myokines : l'hormone de jouvence produite par nos muscles. https://www.julienvenesson.fr/myokines-jouvence/
 
-## Bijlagen
+
 
