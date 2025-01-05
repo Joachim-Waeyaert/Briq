@@ -3,7 +3,7 @@ Hoe kan ik 65-plussers samenkrijgen om aan multisensoriële oefeningen te doen?
 
 *Projectteam: Kasper Stas, Joachim Waeyaert*
 
-Datum
+Datum 08/01/2022
 
 ## Samenvatting
 Dementie wordt vaak behandeld in plaats van te worden voorkomen, terwijl preventie juist essentieel is. Uit wetenschappelijk onderzoek blijkt dat een combinatie van cognitieve en fysieke stimulatie kan bijdragen aan het uitstellen van dementie. Daarnaast toont onderzoek aan dat sociale interactie een positieve invloed heeft op de cognitieve vaardigheden. Wanneer dergelijke onderzoeken zijn uitgevoerd binnen de doelgroep, werd duidelijk dat motivatie een cruciale rol speelt. Regelmatig gebruik blijkt namelijk moeilijk zonder een sterke drijfveer.
@@ -16,9 +16,25 @@ Door deze drie aspecten te combineren met een multisensorische aanpak, kan demen
 
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
+Het project ‘Briq’ is ontstaan vanuit het thema ‘Healthy Aging’, waarbij gezocht wordt naar manieren om zowel fysiek als mentaal gezond ouder te worden. Dit thema is geïnspireerd door Ronnie Gardiner, een jazzdrummer die merkte dat drummen niet alleen zijn stemming verbeterde, maar ook zijn motoriek en cognitieve vaardigheden stimuleerde. Deze inzichten leidden tot de ontwikkeling van de Ronnie Gardiner Methode (RGM), een oefenmethode die ritme en muziek gebruikt om meerdere hersengebieden tegelijk te activeren. De methode stimuleert motoriek, spraak en cognitie, en wordt momenteel toegepast in klinische omgevingen, bijvoorbeeld bij revalidatie van neurologische aandoeningen.
+Onderzoek[^2] wijst uit dat een combinatie van fysieke en cognitieve uitdagingen elkaar versterkt. In 2023 benadrukte Julien Venesson dit met zijn onderzoek naar myokines – hormonen die vrijkomen door spieractiviteit en bijdragen aan de vorming van nieuwe hersencellen. Dit bevestigt de kracht van beweging in combinatie met mentale stimulatie, zoals toegepast in de RGM-methode.
+
+> "Myokines: het verjongende hormoon dat door onze spieren wordt geproduceerd"
+
+De design challenge binnen het project Briq is om een slim product te ontwikkelen dat de RGM-methode op een vernieuwende en toegankelijke manier implementeert. Het doel is om een product te ontwerpen dat niet alleen geschikt is voor klinische toepassingen, maar ook gezonde ouderen stimuleert om mentaal en fysiek actief te blijven. 
+
+> [!IMPORTANT]
+> Randvoorwaarden:
+> - Het product moet fysieke en digitale componenten bevatten.
+> - Het product moet zowel het fysiek als het cognitieve prikkelen.
+> - Het product moet zelfstandig kunnen gebruikt worden door ouderen.
+
+Het betrekken van verschillende stakeholders, naast de eindgebruiker, is een cruciaal onderdeel om dit project tot een goed einde te brengen. De belangen van deze stakeholders zijn in kaart gebracht met een stakeholder map en waarbij de twee belangrijkste partijen verder zijn geanalyseerd met behulp van de Innovatrix.
+<p align="center">
+  <img src="/images/RGM-Methode - Innovatrix.jpg" width="49%">
+  <img src="/images/RGM-Methode - Stakeholders.jpg" width="49%">
+</p>
+
 
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
@@ -88,7 +104,8 @@ Definieer de belangrijkste designbeslissingen
 Max. 500 woorden
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+[^1]: Pennsylvania State University. (2021, April 1). Socializing may improve older adults’ cognitive function in daily life. Penn State News.  https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
+[^2]: Venesson, J. (2023, 19 december). Les myokines : l'hormone de jouvence produite par nos muscles. https://www.julienvenesson.fr/myokines-jouvence/
 
 ## Bijlagen
-[^1]: Pennsylvania State University. (2021, April 1). Socializing may improve older adults’ cognitive function in daily life. Penn State News.  https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
+
