@@ -39,7 +39,17 @@ Het betrekken van verschillende stakeholders, naast de eindgebruiker, is een cru
 
 
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+Om structuur aan te brengen in het ontwerpproces werd er gebruik gemaakt van een duidelijke methodologie, die het eerste semester opdelen in twee grote fasen. De focus lag hierbij altijd op de gebruiker. De opzet van deze methodologie was ontworpen om zo veel mogelijk inzichten te verkrijgen om het ontwerp te verbeteren en verder te ontwikkelen.
+
+  <img src="/images/quadruple_diamond.svg" width="100%">
+  
+### Discovery
+De eerste fase werd gestart door een heldere probleemstelling te formuleren. Dit was noodzakelijk om het probleem goed af te bakenen en gerichte stappen te kunnen zetten. Tijdens deze fase werden benchmarks uitgevoerd om te onderzoeken wat er al op de markt beschikbaar was. Dit gaf een overzicht van de bestaande oplossingen en liet zien waar verbeteringen mogelijk waren. Daarnaast werden er ook user interviews gehouden om de gebruiker beter te begrijpen. Deze gesprekken gaven inzicht in de problemen en uitdagingen die zij ondervonden, wat essentieel was om de problemen goed te kunnen definiëren. Door deze aanpak kreeg het ontwerpproces meteen een gerichte focus, wat cruciaal was voor de volgende fasen.
+
+### Definition
+In de daaropvolgende fase werd het concept ontwikkeld op basis van de resultaten uit de Discovery fase. Dit concept was bedoeld om in te spelen op de geïdentificeerde problemen en een oplossing te bieden. Het concept werd vervolgens onderworpen aan verschillende concepttesten om te valideren of het daadwerkelijk effectief was. Deze testen gaven waardevolle feedback die het mogelijk maakte het concept verder te verfijnen en te verbeteren. Door iteratief aanpassingen te maken, werd het ontwerp steeds meer afgestemd op de behoeften van de gebruiker. Het resultaat van deze fase was een lijst van design requirements, die de basis vormde voor de verdere ontwikkeling van het product.
+
+  <img src="/images/quadruple_diamond.svg" width="100%">
 
 ## Discovery
 In dit onderdeel wordt onderzocht wat zich binnen de probleemruimte bevindt en of er mogelijke oplossingen voor deze kwesties gevonden kunnen worden. Om inzicht te krijgen in de probleemruimte worden enerzijds interviews afgenomen om te begrijpen hoe mensen het probleem ervaren, en anderzijds wordt gekeken naar bestaande oplossingen op de markt en de hiaten die benut kunnen worden.
