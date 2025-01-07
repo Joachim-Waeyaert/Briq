@@ -87,7 +87,7 @@ In deze fase werd er verder gewerkt op de conclusies uit de discovery fase. Aan 
 In dit deel van het ontwikkelingsproces de concepten verfijnen. Dit werd gedaan aan de hand van twee _Wizard of Oz_ testen. Dit resulteert in een duidelijke _"How can we"_ om verder mee aan de slag te gaan in het tweede semester.
 
 ### Materiaal & methoden
-Dit concept werd getest door twee keer een gebruikerstest af te leggen. Deze testen werden afgelegd terwijl de respondenten aan het tennissen of badmintonnen waren. De rode draad doorheen deze testen was om het in de _Wizard of Oz_ stijl te doen gepaard met het _think aloud protocol_ (TAP). Om zoveel mogelijk data uit deze testen te capteren werden deze uitgevoerd door twee onderzoekers. Zij vervulden tijdens de tet ofwel de rol van _Wizard_ of die van de observator. Na beide testen werd de verzamelde data geanalyseerd om zo conclusies op te bouwen.
+Dit concept werd getest door twee keer een gebruikerstest af te leggen. Deze testen werden afgelegd terwijl de respondenten aan het tennissen of badmintonnen waren om zo een hoge ecologische validiteit te bekomen. De rode draad doorheen deze testen was om het in de _Wizard of Oz_ stijl te doen gepaard met het _think aloud protocol_ (TAP). Om zoveel mogelijk data uit deze testen te capteren werden deze uitgevoerd door twee onderzoekers. Zij vervulden tijdens de tet ofwel de rol van _Wizard_ of die van de observator. Na beide testen werd de verzamelde data geanalyseerd om zo conclusies op te bouwen.
 
 De eerste concepttest onderzocht of het concept voldoende sterk was om verder mee aan de slag te gaan. Dit was echter een rudimentaire test. Hiervoor werden de kleuren weergeven doordat de _Wizard_ gekleurd papier omhoog stak. Om het vragengedeelte van het concept te testen was er een quiz opgesteld die de _Wizard_ richting de respondenten riep. Simultaan werd er door de observator notities genomen die zowel de gedachten en de handelingen van de respondenten neerschreef. Achteraf werden er nog enkele vragen gesteld aan de respondenten
 
@@ -95,8 +95,23 @@ Eens de eerste wave was doorlopen en het concept was bevestigd werd er verder op
 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+#### Wave 1
+In het begin van de eerste testwave werden er tijdens de test zelf al enkele zaken duidelijk. In het begin stond de _Wizard_ aan het net (figuur x) om zo afwisselend de vragen aan de teams te stellen en de kleuren met de gekoppelde straf te weergeven. Tijdens het voorlezen van de vragen werd er bijna elke keer gevraagd om de zin te herhalen. Hierdoor is de _Wizard_ zich beginnen verplaatsen om telkens aan de kant van de spelers te staan die de vraag gesteld kregen (figuur y). Er werd toen maar sporadisch gevraagd om de vraag te herhalen. Na deze test werd dit bevestigd door de respondenten. Zij gaven ook aan dat ze er voor open stonden om op deze manier te spelen maar niet als de vragen niet luid en duidelijk genoeg aankwamen. 
+
+Bij het testen van de kleuren werden er al snel enkele problemen ervaren. De respondenten keken niet weg van de bal om te zien welke kleur er opgestoken werd. Bij de vragenlijst achteraf vermelden ze dat de onderlinge competitie de oorzaak is. Zelfs al spelen zij voor het plezier vinden ze het belangrijk dat de competitie niet verhinderd wordt. Ook hadden de respondenten vaak moeite met het toepassen van de juiste straf bij de juiste kleur. Dit leidde tot het gevolg dat de straffen of niet, of pas een ronde te laat werden uitgevoerd. Ook mochten de straffen niet te hinderend zijn. Dit verhinderd ook de competitie en heeft een zware impact op het plezier tijdens het spelen.
+
+Bij deze testwave stonden de respondenten open voor het idee, maar er waren ook wel frustraties. Doordat het concept een zeer rudimentair prototype was heeft dit waarschijnlijk ook een invloed op het enthousiasme van de respondenten
+
+#### Wave 2
+Bij deze testwave werd het probleem ondervonden dat de groep waarmee de test afgelegd ging worden net ervoor had afgezegd omwille van ziekte. Door de feestdagen, waardoor de respondenten enkele weken niet tenniste, en aankomende examens was het niet meer mogelijk om nog binnen de deadline een nieuwe datum af te spreken. Dit heeft ertoe geleidt dat de deze testwave is afgenomen met respondenten 18 en 23 jaar. Om tegen te gaan dat de invloed op de resultaten te groot is werd er gevraagd om oorstopjes in te steken zodat ze minder goed hoorden. Dit simuleerde de hardhorigheid die in de eerste testwave werd ervaren.
+
+Uit deze testen is gebleken dat er maar een miniem verschil is tussen de hoorbaarbaarheid van de verschillende posities van de luidsprekers. Dit komt omdat de box luid genoeg kon en ook een helder geluid had. Ondanks het kleine verschil gaat de voorkeur wel naar de frontale positie van de box. 
+Bij de vragen is er ook gemerkt dat er een frustratie is bij de spelers indien deze niet snel genoeg achter elkaar kwamen. Dit was onder andere te merken wanneer er een probleem was met de verbinding. Deze problemen traden vooral ook op wanneer de luidspreker aan de achterkant van het veld stond. Dit is een extra reden om de voorkeur te geven naar de frontale positie. 
+
+Op gebied van het weergeven van de kleuren waren er tijdens de testen enkele implicaties opgedoken. Dit element zorgt namelijk voor veel afleiding van het spel. Toch komt uit de testen voort dat, indien de intensiteit van de ledstrip hoger zou zijn, de kleuren makkelijk te observeren zijn mits de ledstrip aan de bovenkant van het net hangt. De respondenten deelden mee dat op deze manier de kleur te zien is wanneer het pluimpje ter hoogte van het net is. Dit zorgde ervoor dat de aandacht niet te veel van het spel werd afgenomen wat een vereiste uit testwave 1 is. Ook deelden de respondenten mee dat de kleur in een interactief deel van het spel, zoals het pluimpje of badmintonraket, geïntegreerd kan worden. Deze elementen krijgen tijdens het spelen altijd de meeste aandacht. 
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Dankzij deze twee gebruikerstesten is er 
 
 ## Bill of materials
 - Welk
