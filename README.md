@@ -49,8 +49,6 @@ De eerste fase werd gestart door een heldere probleemstelling te formuleren. Dit
 ### Definition
 In de daaropvolgende fase werd het concept ontwikkeld op basis van de resultaten uit de Discovery fase. Dit concept was bedoeld om in te spelen op de geïdentificeerde problemen en een oplossing te bieden. Het concept werd vervolgens onderworpen aan verschillende concepttesten om te valideren of het daadwerkelijk effectief was. Deze testen gaven waardevolle feedback die het mogelijk maakte het concept verder te verfijnen en te verbeteren. Door iteratief aanpassingen te maken, werd het ontwerp steeds meer afgestemd op de behoeften van de gebruiker. Het resultaat van deze fase was een lijst van design requirements, die de basis vormde voor de verdere ontwikkeling van het product.
 
-  <img src="/images/quadruple_diamond.svg" width="100%">
-
 ## Discovery
 In dit onderdeel wordt onderzocht wat zich binnen de probleemruimte bevindt en of er mogelijke oplossingen voor deze kwesties gevonden kunnen worden. Om inzicht te krijgen in de probleemruimte worden enerzijds interviews afgenomen om te begrijpen hoe mensen het probleem ervaren, en anderzijds wordt gekeken naar bestaande oplossingen op de markt en de hiaten die benut kunnen worden.
 ### Doestellingen
@@ -91,6 +89,7 @@ Op de markt zijn er veel multisensorische producten waarbij de intensiteit van d
 > - D2.2 Er moeten herkenbare kenmerken voor de gebruiker aanwezig zijn in het product.
 
 ## Definition
+<img src="/images/storyboard.svg" width="40%" align="right">
 In deze fase werd er verder gewerkt op de conclusies uit de discovery fase. Aan de hand van deze inzichten begon de ontwikkeling van de eerste conceptuele prototypes die vervolgens enkele test waves ondervonden.
 
 ### Doestellingen
@@ -141,19 +140,17 @@ De reden dat er niet voor het pluimpje gekozen wordt is omdat dit universeel ook
 > - D4.3 De intensiteit van het licht moet duidelijk zichtbaar zijn in een goed verlichte omgeving.
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+1. Hardware: LED-strips, speakers, microcontroller (arduino), voeding, basis arduino kit
+2. Prototype-materiaal: karton, hout, PLA (3d-printen)
 
 ## Kritische reflectie
-Max. 500 woorden
+Sinds het samenstellen van de groepen is het project in een constante stroomversnelling terechtgekomen. Dankzij een gezamenlijke, kritische benadering heeft het gekozen concept doorlopend verfijning en verbetering ondergaan. Elk idee werd zorgvuldig geanalyseerd en getest, wat leidde tot een sterke basis voor verdere ontwikkeling. Ondanks onverwachte obstakels, zoals het last-minute afzeggen van de testgroep in een cruciale fase, is er adequaat en snel geschakeld naar een alternatief plan. Dit getuigt van een pragmatische houding en een flexibele werkwijze binnen het team.
 
+Hoewel het alternatief niet direct de beoogde doelgroep betrof, werden de resultaten zorgvuldig en met een kritische blik geëvalueerd. Deze aanpak benadrukt het belang van een wetenschappelijke en methodische werkwijze, waarbij zelfs in moeilijke omstandigheden gefocust blijft op de kern van het project. Het efficiënte samenwerken en het vermogen om obstakels snel te overwinnen, hebben ertoe bijgedragen dat het project soepel en doelgericht kon blijven verlopen.
+
+Een belangrijk inzicht dat naar voren is gekomen, is dat de veelzijdigheid van BRIQ – bedoeld voor alle netsporten – niet betekent dat testresultaten eenvoudigweg van de ene naar de andere sport overgezet kunnen worden. Zo brengt de kleinere omvang van een badmintonveld vergeleken met een tennisveld significante verschillen met zich mee in het testproces. Dit vraagt om een diepgaande analyse en een zorgvuldige benadering bij het trekken van conclusies en het formuleren van ontwerpvereisten. Het team moet blijven waken over de toepasbaarheid van deze eisen op meerdere netsporten en ervoor zorgen dat het uiteindelijke ontwerp robuust en veelzijdig genoeg is om aan de behoeften van verschillende doelgroepen te voldoen.
+
+Kortom, deze reflectie benadrukt niet alleen de kracht van samenwerking en flexibiliteit binnen het project, maar ook het belang van een kritische en toekomstgerichte benadering bij de ontwikkeling van een innovatief product als BRIQ.
 
 ## Bijlagen
 - Discovery
