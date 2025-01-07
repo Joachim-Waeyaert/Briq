@@ -94,14 +94,14 @@ De eerste test evalueerde of het concept sterk genoeg was voor verdere ontwikkel
 Na bevestiging van het concept werd een tweede prototype ontwikkeld. Ook dit prototype was primitief vanwege de vroege ontwikkelingsfase. De test onderzocht de plaatsing van kleuren en de luidspreker. De Wizard bediende bij deze test alles op afstand. Een ledstrip toonde kleuren op verschillende posities aan het net. De respondenten speelden badminton en riepen de kleur wanneer deze veranderde. De luidspreker werd op verschillende veldzijden getest door quizvragen te stellen. De observator noteerde opnieuw de gedachten en handelingen van de respondenten.
 
 ### Resultaten
-#### Wave 1
+#### Wave 1 (N = 4)
 Tijdens de eerste testwave werden enkele problemen snel duidelijk. Aanvankelijk stond de Wizard aan het net (figuur x) om vragen te stellen en kleuren met de bijbehorende straf weer te geven. Omdat spelers vaak vroegen de vraag te herhalen, verplaatste de Wizard zich naar de kant van de spelers die de vraag kregen (figuur y). Dit verminderde het aantal herhalingsverzoeken aanzienlijk, wat ook werd bevestigd door de respondenten. Zij gaven aan open te staan voor deze aanpak, mits de vragen duidelijk hoorbaar waren.
 
 Bij het testen van de kleuren ontstonden ook problemen. Respondenten keken niet weg van de bal om de kleur te zien, wat ze toeschreven aan de competitieve aard van het spel. Zelfs bij recreatief spelen vonden zij dat competitie niet mocht belemmerd worden. Daarnaast werd de juiste straf vaak te laat of niet toegepast omdat respondenten de juiste combinaties niet meer wister. Straffen mochten bovendien niet te hinderend zijn, omdat dit het spelplezier aanzienlijk verminderde. Hoewel de respondenten het idee waardeerden, veroorzaakte het rudimentaire prototype enige frustraties, wat hun enthousiasme mogelijk beïnvloedde.
 
 Bij deze testwave stonden de respondenten open voor het idee, maar er waren ook wel frustraties. Doordat het concept een zeer rudimentair prototype was heeft dit waarschijnlijk ook een invloed op het enthousiasme van de respondenten
 
-#### Wave 2
+#### Wave 2 (N = 6)
 Bij de tweede testwave zegde de oorspronkelijke testgroep af wegens ziekte. Door feestdagen, waardoor de respondenten enkele weken niet tenniste, en aankomende examens werden nieuwe respondenten van 18 en 23 jaar ingeschakeld. Om de validiteit van de test te verhogen droegen zij oordopjes om de hardhorigheid uit wave 1 na te bootsen.
 
 De tests wezen op een minimaal verschil in hoorbaarheid tussen verschillende luidsprekerposities, dankzij het heldere en krachtige geluid van de box. De voorkeur ging echter naar de frontale positie, mede omdat verbindingsproblemen bij een achterste positie de spelervaring verstoorden. Respondenten raakten gefrustreerd als vragen niet snel genoeg achter elkaar kwamen, wat de voorkeur voor de frontale opstelling versterkte.
