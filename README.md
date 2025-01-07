@@ -6,7 +6,7 @@ Hoe kan ik 65-plussers samenkrijgen om aan multisensoriële oefeningen te doen?
 Datum 08/01/2022
 
 ## Samenvatting
-Dementie wordt vaak behandeld in plaats van te worden voorkomen, terwijl preventie juist essentieel is. Uit wetenschappelijk onderzoek blijkt dat een combinatie van cognitieve en fysieke stimulatie kan bijdragen aan het uitstellen van dementie. Daarnaast toont onderzoek aan dat sociale interactie een positieve invloed heeft op de cognitieve vaardigheden. Wanneer dergelijke onderzoeken zijn uitgevoerd binnen de doelgroep, werd duidelijk dat motivatie een cruciale rol speelt. Regelmatig gebruik blijkt namelijk moeilijk zonder een sterke drijfveer.
+Dementie wordt vaak behandeld in plaats van te voorkomen, terwijl preventie juist essentieel is. Uit wetenschappelijk onderzoek blijkt dat een combinatie van cognitieve en fysieke stimulatie kan bijdragen aan het uitstellen van dementie. Daarnaast toont onderzoek aan dat sociale interactie een positieve invloed heeft op de cognitieve vaardigheden. Wanneer dergelijke onderzoeken zijn uitgevoerd binnen de doelgroep, werd duidelijk dat motivatie een cruciale rol speelt. Regelmatig gebruik blijkt namelijk moeilijk zonder een sterke drijfveer.
 
 Om deze motivatie te stimuleren, werd onderzocht hoe deze geïntegreerd kan worden in producten zoals de Briq. Drie belangrijke motivatiefactoren kwamen naar voren. Ten eerste is het belangrijk om aan te sluiten bij de interesses en hobby’s van mensen. Ten tweede speelt sociaal contact een grote rol, aangezien veel ouderen dit als een zeer belangrijk aspect ervaren. Tot slot is gebruiksvriendelijkheid van belang; het product moet niet te innovatief of ingewikkeld zijn, omdat dit voor oudere gebruikers een barrière kan vormen.
 
@@ -52,17 +52,17 @@ Een duidelijke ‘how might we’ bekomen
   
 ### Resultaten
 #### User Interviews (N=4)
-Tijdens de gebruikersinterviews werden voornamelijk algemene aspecten besproken, die werden aangestuurd door concrete vragen. Wanneer bepaalde vragen bij specifieke respondenten meer relevant bleken, werd daar dieper op ingegaan. Uit de interviews kwam naar voren dat de ene respondent het uitstellen of voorkomen van dementie als een belangrijke motivatie beschouwde, terwijl anderen zich daar minder zorgen over maakten. Voor deze laatste groep werd duidelijk dat hun motivatie vaak voortkwam uit persoonlijke interesses en hobby’s. Wanneer deze interesses aanwezig waren, gaven ze aan gemotiveerd te zijn om deel te nemen aan “Aging Young”. Er werd verder onderzocht welke andere factoren, naast persoonlijke interesses, als belangrijke motiverende elementen zouden kunnen dienen.
-Een van de belangrijke factoren die naar voren kwam, is het sociale aspect. Een respondent gaf aan dat veel kennissen die hij kent van 65 jaar en ouder zich regelmatig eenzaam voelen. Voor hen zou het sociale aspect een sterke motivatie zijn om deel te nemen aan "Aging Young". Onderzoek[^1] ondersteunt dit, aangezien het blijkt dat ouderen die regelmatig in contact staan met vrienden of kennissen beter presteren op cognitieve tests dan degenen die minder sociale interactie ervaren.
+Tijdens de gebruikersinterviews werden voornamelijk algemene aspecten besprokendie anagestuurd werden door concrete vragen. Wanneer bepaalde vragen bij specifieke respondenten meer relevant bleken, werd daar dieper op ingegaan. Uit de interviews kwam naar voren dat de ene respondent het uitstellen of voorkomen van dementie als een belangrijke motivatie beschouwde, terwijl anderen zich daar minder zorgen over maakten. Voor deze laatste groep werd duidelijk dat hun motivatie vaak voortkwam uit persoonlijke interesses en hobby’s. Wanneer deze interesses aanwezig waren, gaven ze aan gemotiveerd te zijn om deel te nemen aan “Aging Young”. Er werd verder onderzocht welke andere factoren, naast persoonlijke interesses, als belangrijke motiverende elementen zouden kunnen dienen.
+Een van de belangrijke factoren die naar voren kwam, is het sociale aspect. Een respondent gaf aan dat veel kennissen van 65 jaar en ouder zich regelmatig eenzaam voelen. Voor hen zou het sociale aspect een sterke motivatie zijn om deel te nemen aan "Aging Young". Onderzoek[^1] ondersteunt dit, aangezien het blijkt dat ouderen die regelmatig in contact staan met vrienden of kennissen beter presteren op cognitieve tests dan degenen die minder sociale interactie ervaren.
 Daarnaast werd het belang van de gebruiksvriendelijkheid van de technologie benadrukt. De moderne, vaak complexe digitale wereld wordt door deze doelgroep als frustrerend ervaren. Respondenten gaven aan dat ze behoefte hadden aan producten die herkenbare, nostalgische elementen bevatten – producten die ze kunnen gebruiken of eenvoudig kunnen leren bedienen. De hedendaagse technologie wordt vaak als te ingewikkeld en te vernieuwend ervaren, wat leidt tot frustratie en afkeer bij deze groep.
 
 #### Benchmarks (N=10)
-Het doel van het marktonderzoek was om te onderzoeken welke aspecten van het "Aging Young"-concept al aanwezig zijn op de markt en welke van deze aspecten kunnen gebruikt of verbetert worden. Hiervoor werden verschillende bestaande producten of methodes onderzocht en hun voor-en nadelen geanalyseerd. 
+Het doel van het marktonderzoek was om te onderzoeken welke aspecten van het "Aging Young"-concept al aanwezig zijn op de markt en welke van deze aspecten gebruikt of verbetert kunnen worden. Hiervoor werden verschillende bestaande producten of methodes onderzocht en hun voor-en nadelen geanalyseerd. 
 Het viel op dat er veel cognitieve en fysieke oefeningen beschikbaar zijn, maar dat de combinatie van beide vaak beperkt is. Een belangrijk kenmerk van "Aging Young" is dat zowel het fysieke gedeelte intensief genoeg moet zijn, als het cognitieve gedeelte prikkelend genoeg. In veel gevallen blijkt het cognitieve gedeelte voldoende prikkeling te bieden, maar blijft het fysieke aspect niet intensief genoeg. Dit kan verklaard worden door de context waarin deze producten of oefenmethoden doorgaans worden toegepast, vaak in zorginstellingen zoals verpleeghuizen. Daar zijn de bewoners vaak niet mobiel genoeg om intensieve fysieke oefeningen uit te voeren of bevinden zij zich al in een gevorderd stadium van dementie. Met de Briq willen we echter juist focussen op mensen die nog in staat zijn om intensieve fysieke activiteiten uit te voeren en die thuis wonen, zonder de hulp van een zorgverlener of instructeur.
 Een ander opvallend aspect was dat er vaak geen aandacht wordt besteed aan de motivatie van gebruikers om regelmatig met de producten of oefeningen te blijven werken, vooral wanneer er niemand aanwezig is om hen aan te moedigen of te begeleiden. Om hier meer inzicht in te krijgen, werd er tijdens de interviews (zie ‘user interviews’) verder onderzocht wat de drijvende kracht is achter de motivatie van gebruikers om actief betrokken te blijven bij deze producten.
 <p align="center">
-  <img src="/Benchmarking-1.jpg" width="49%">
-  <img src="/Benchmarking-2.jpg" width="49%">
+  <img src="images/Benchmarking-1.jpg" width="49%">
+  <img src="images/Benchmarking-2.jpg" width="49%">
 </p>
 
   
@@ -81,11 +81,18 @@ Op de markt zijn er veel multisensorische producten waarbij de intensiteit van d
 > - D2.2 Er moeten herkenbare kenmerken voor de gebruiker aanwezig zijn in het product.
 
 ## Definition
-Max. 1000 woorden
+In deze fase werd er verder gewerkt op de conclusies uit de discovery fase. Aan de hand van deze inzichten begon de ontwikkeling van de eerste conceptuele prototypes die vervolgens enkele test waves ondervonden.
+
 ### Doestellingen
-Wat wilde je bereiken?
+In dit deel van het ontwikkelingsproces de concepten verfijnen. Dit werd gedaan aan de hand van twee _Wizard of Oz_ testen. Dit resulteert in een duidelijke _"How can we"_ om verder mee aan de slag te gaan in het tweede semester.
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Dit concept werd getest door twee keer een gebruikerstest af te leggen. Deze testen werden afgelegd terwijl de respondenten aan het tennissen of badmintonnen waren. De rode draad doorheen deze testen was om het in de _Wizard of Oz_ stijl te doen gepaard met het _think aloud protocol_ (TAP). Om zoveel mogelijk data uit deze testen te capteren werden deze uitgevoerd door twee onderzoekers. Zij vervulden tijdens de tet ofwel de rol van _Wizard_ of die van de observator. Na beide testen werd de verzamelde data geanalyseerd om zo conclusies op te bouwen.
+
+De eerste concepttest onderzocht of het concept voldoende sterk was om verder mee aan de slag te gaan. Dit was echter een rudimentaire test. Hiervoor werden de kleuren weergeven doordat de _Wizard_ gekleurd papier omhoog stak. Om het vragengedeelte van het concept te testen was er een quiz opgesteld die de _Wizard_ richting de respondenten riep. Simultaan werd er door de observator notities genomen die zowel de gedachten en de handelingen van de respondenten neerschreef. Achteraf werden er nog enkele vragen gesteld aan de respondenten
+
+Eens de eerste wave was doorlopen en het concept was bevestigd werd er verder opgebouwd naar een tweede prototype. Aangezien dit product zich nog in het begin van de ontwikkelingsfase bevond werd ook dit prototype primitief opgebouwd. Deze concepttest onderzocht zowel de plaatsing voor het weergeven van kleuren als de plaatsing voor de luidspreker. Tijdens deze test bevond de _Wizard_ zich meer achter de schermen en werd alles vanop afstand bediend. De plaatsing van het weergeven van kleuren werd vertolkt door een ledstrip. Deze werd telkens op een nieuwe positie aan het net gespannen. Per positie werd er aan de gebruikers gevraagd om een standaard badmintonspel te spelen met als enige twist dat ze de kleur moesten roepen wanneer deze veranderde. Nadien werd de positie van de luidspreker getest door ze telkens op een andere zijde van het veld te leggen (voor, naast en achter de respondenten). Per zijde werden er enkele quizvragen gesteld waarop zij moesten antwoorden. Tijdens deze testen schreef de observator opnieuw de gedachten en handelingen van de respondenten neer. 
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
