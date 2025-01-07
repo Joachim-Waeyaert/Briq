@@ -68,10 +68,10 @@ Een ander opvallend aspect was dat er vaak geen aandacht wordt besteed aan de mo
   
 
 ### Conclusies & implicaties
-Een product kan zo ontworpen worden dat het zowel cognitieve als fysieke activiteit bevordert, wat kan bijdragen aan het uitstellen of voorkomen van dementie. Maar zal het product daadwerkelijk gebruikt worden? Uit het onderzoek in de discovery-fase blijkt duidelijk dat, wanneer de interesses van de gebruiker niet worden aangesproken, het gebruik van het product waarschijnlijk beperkt zal zijn, waardoor de effectiviteit ervan vermindert. Om ervoor te zorgen dat het product aanspreekt, is het dus belangrijk om verschillende interesses binnen één product te integreren.
+Een product kan zo ontworpen worden dat het zowel cognitieve als fysieke activiteit bevordert, wat kan bijdragen aan het uitstellen of voorkomen van dementie. Maar zal het product daadwerkelijk gebruikt worden? Uit het onderzoek in de discovery-fase blijkt duidelijk dat, wanneer de interesses van de gebruiker niet worden aangesproken, het gebruik van het product waarschijnlijk beperkt zal zijn, waardoor de effectiviteit ervan vermindert. Om ervoor te zorgen dat het product aanspreekt, is het dus belangrijk om verschillende interesses en motivaties binnen één product te integreren.
 Een deel van de 65-plussers is alleenstaand, waardoor het sociale aspect een belangrijke motiverende factor kan zijn. Veel sportieve hobby’s bieden al dit sociale aspect, zoals tennis, badminton en pingpong.
-Daarnaast is het algemeen bekend dat frustraties veel zwaarder wegen dan positieve emoties. Om frustraties te verminderen, moet er specifiek gekeken worden naar hoe het product zo gebruiksvriendelijk mogelijk kan worden gemaakt. Dit kan bereikt worden door de interface duidelijk en herkenbaar te maken, het implementeren van tutorials en het gebruik van duidelijke signifiers.
-
+Daarnaast is het algemeen bekend dat frustraties veel zwaarder wegen dan positieve emoties. Om frustraties te verminderen, moet er specifiek gekeken worden naar hoe het product zo gebruiksvriendelijk mogelijk kan worden gemaakt. Dit kan bereikt worden door de interface duidelijk en herkenbaar te maken, het implementeren van tutorials en het gebruik van duidelijke signifiers. 
+Op de markt zijn er veel multisensorische producten waarbij de intensiteit van de fysieke activiteit onvoldoende is. Het combineren van een voldoende hoge fysieke intensiteit met cognitieve stimulatie is essentieel om deze gap te vullen.
 **Hoe kan ik 65-plussers samenkrijgen om aan multisensoriële oefeningen te doen?**
 
 > [!IMPORTANT]
