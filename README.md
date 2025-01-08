@@ -104,6 +104,7 @@ In dit deel van het ontwikkelingsproces de concepten verfijnen. Dit werd gedaan 
 <p align="center">
   <img src="/images/storyboard.svg" width="40%" align="right">
 </p>
+
 ### Materiaal & methoden
 Dit concept werd getest via twee gebruikerstesten, uitgevoerd tijdens tennis- of badmintonspel om een hoge ecologische validiteit te waarborgen. Beide testen volgden de _Wizard of Oz_-methode in combinatie met het _think aloud protocol_ (TAP). Twee onderzoekers voerden de testen uit, waarbij zij de rol van _Wizard_ of observator vervulden. Na afloop werd de verzamelde data geanalyseerd.
 
