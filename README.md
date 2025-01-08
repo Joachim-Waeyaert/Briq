@@ -186,9 +186,9 @@ Kortom, deze reflectie benadrukt niet alleen de kracht van samenwerking en flexi
 
 Hier is de omzetting van de referenties naar de IEEE-stijl:
 
-[^1]: Pennsylvania State University, "Socializing may improve older adults’ cognitive function in daily life," Penn State News, Apr. 1, 2021. [Online]. Available: https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life.
+[^1]: Bohn, K. (2021). Socializing may improve older adults' cognitive function in daily life. Penn State News. Retrieved January 8, 2025, from https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
 
-[^2]: J. Venesson, "Les myokines : l'hormone de jouvence produite par nos muscles," Dec. 19, 2023. [Online]. Available: https://www.julienvenesson.fr/myokines-jouvence/.
+[^2]: Venesson, J. (2023). Les myokines : l'hormone de jouvence produite par nos muscles. Retrieved January 8, 2025, from https://www.julienvenesson.fr/myokines-jouvence/
 
 
 
