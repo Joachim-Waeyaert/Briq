@@ -35,8 +35,8 @@ De _design challenge_ binnen het project 'Briq' is om een slim product te ontwik
 
 Het betrekken van verschillende stakeholders, naast de eindgebruiker, is een cruciaal onderdeel om dit project tot een goed einde te brengen. De belangen van deze stakeholders zijn in kaart gebracht met een _stakeholder map_ en waarbij de twee belangrijkste partijen verder zijn geanalyseerd met behulp van de _Innovatrix_.
 <p align="center">
-  <img src="/images/RGM-Methode - Innovatrix.jpg" width="49%">
-  <img src="/images/RGM-Methode - Stakeholders.jpg" width="49%">
+  <img src="/images/RGM-Methode - Innovatrix.jpg" height="350px">
+  <img src="/images/RGM-Methode - Stakeholders.jpg" height="350px">
 </p>
 
 
@@ -92,14 +92,18 @@ Op de markt zijn er veel multisensorische producten waarbij de intensiteit van d
 > - D2.2 Er moeten herkenbare kenmerken voor de gebruiker aanwezig zijn in het product.
 
 ## Definition
-<p align="center">
-  <img src="/images/storyboard.svg" width="40%" align="right">
-</p>
 In deze fase werd er verder gewerkt op de conclusies uit de discovery fase. Aan de hand van deze inzichten begon de ontwikkeling van de eerste conceptuele prototypes die vervolgens enkele test waves ondervonden.
+<p align="center">
+  <img src="images/prototype_prisma.jpg" height="350px">
+  <img src="images/prototype_cilinder.jpg" height="350px">
+</p>
 
 ### Doestellingen
 In dit deel van het ontwikkelingsproces de concepten verfijnen. Dit werd gedaan aan de hand van twee _Wizard of Oz_ testen. Dit resulteert in een duidelijke _"How can we"_ om verder mee aan de slag te gaan in het tweede semester.
 
+<p align="center">
+  <img src="/images/storyboard.svg" width="40%" align="right">
+</p>
 ### Materiaal & methoden
 Dit concept werd getest via twee gebruikerstesten, uitgevoerd tijdens tennis- of badmintonspel om een hoge ecologische validiteit te waarborgen. Beide testen volgden de _Wizard of Oz_-methode in combinatie met het _think aloud protocol_ (TAP). Twee onderzoekers voerden de testen uit, waarbij zij de rol van _Wizard_ of observator vervulden. Na afloop werd de verzamelde data geanalyseerd.
 
@@ -133,14 +137,12 @@ Bij het weergeven van kleuren bleek dat dit vaak afleidde van het spel. Toch von
 
 ### Conclusies & implicaties
 Uit deze twee gebruikerstesten zijn er enkele belangrijke elementen voortgekomen om zo het product op te bouwen.
-1)	De vragen moeten duidelijker aankomen. Dit kan door ze luider af te spelen of van dichterbij. Om dit te verbeteren zijn er enkele ontwerpstrategieën die toegepast worden. Er kan een box achter beide partijen geplaatst worden, de spelers kunnen een oortje gebruiken of er kan een luidspreker op de raket of arm geplaatst worden.
-2)	Voor de kleuren zijn er twee pistes die verkend worden. Enerzijds kan de kleur verduidelijkt worden door aan het net een led strip te hangen. Zo nemen de spelers de ogen niet van de bal en kan de kleur vanuit een ooghoek gevat worden. Anderzijds wordt het kleurenprincipe aangepast door ze te vermelden via de luidspreker in plaats van deze te tonen.
-3)	De straffen moeten niet te moeilijk gemaakt worden. Het is belangrijker dat de link wordt gelegd met wat er moet gebeuren in plaats van de moeilijkheidsgraad. 
+1)	De vragen moeten duidelijker aankomen. Dit kan door ze luider af te spelen of van dichterbij.
+2)	De kleur wordt zodanig weergegeven dat deze vanuit een ooghoek zichtbaar is, zonder de aandacht van de bal af te leiden. Mogelijke opties zijn een LED-strip op het net, een luidspreker die de kleur aankondigt, of integratie in een interactief spelelement. Een pluimpje is afgewezen vanwege beperkte toepasbaarheid in andere netsporten zoals tennis en mogelijke duurzaamheidsproblemen.
+3)	De straffen moeten niet te moeilijk gemaakt worden. Het is belangrijker dat de link wordt gelegd met wat er moet gebeuren in plaats van de moeilijkheidsgraad.
 4)	Volgende prototypes moeten meer ontwikkeld worden om zo de geloofwaardigheid van het concept te verhogen.
-5)	De kleur zal zich bevinden bovenop het net en intensief genoeg weergegeven worden. Zo is de kleur ook zichtbaar vanuit een ooghoek en hoeft de volledige aandacht niet afgeweken worden. 
-De reden dat er niet voor het pluimpje gekozen wordt is omdat dit universeel ook moet kunnen toegepast worden in tennis en andere netsporten. Ook zal de duurzaamheid voor problemen zorgen. 
-6)	De positie van de speakers is het best gepositioneerd onder het net, wijzend naar beide partijen (2 speakers).
-7)	Onderling gepraat tussen de partijen over wat het antwoord van de vraag zou moeten zijn zorgt voor onduidelijkheden over wat hun definitief antwoord is. Indien we in de toekomst willen werken met AI recognition zal het moeilijk zijn om hierin te filteren.
+5)	De positie van de speakers is het best gepositioneerd onder het net, wijzend naar beide partijen (2 speakers).
+6)	Onderling gepraat tussen de partijen over wat het antwoord van de vraag zou moeten zijn zorgt voor onduidelijkheden over wat hun definitief antwoord is. Indien we in de toekomst willen werken met AI recognition zal het moeilijk zijn om hierin te filteren.
 
 > [!IMPORTANT]
 > Design Requirements:
@@ -184,9 +186,6 @@ Kortom, deze reflectie benadrukt niet alleen de kracht van samenwerking en flexi
     - [report](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EbUeJiJccRZBlnkz_LmM5nkB15VgIn0bT3ibTKTO6iI8nw?e=v2BmCx)
 
 ## Bronnen
-
-Hier is de omzetting van de referenties naar de IEEE-stijl:
-
 [^1]: Bohn, K. (2021). _Socializing may improve older adults' cognitive function in daily life._ Geraadpleegd op 20 oktober 2024 via https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
 
 [^2]: Venesson, J. (2023). _Les myokines : l'hormone de jouvence produite par nos muscles._ Geraadpleegd op 10 oktober 2024 via https://www.julienvenesson.fr/myokines-jouvence/
