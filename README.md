@@ -1,5 +1,5 @@
 # BRIQ
-Hoe kan ik 65-plussers samenkrijgen om aan multisensoriële oefeningen te doen?
+Hoe kunnen 65-plussers samengebracht worden om aan multisensoriële oefeningen te doen?
 
 *Projectteam: Kasper Stas, Joachim Waeyaert*
 
