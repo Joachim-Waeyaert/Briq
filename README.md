@@ -35,8 +35,8 @@ De _design challenge_ binnen het project 'Briq' is om een slim product te ontwik
 
 Het betrekken van verschillende stakeholders, naast de eindgebruiker, is een cruciaal onderdeel om dit project tot een goed einde te brengen. De belangen van deze stakeholders zijn in kaart gebracht met een _stakeholder map_ en waarbij de twee belangrijkste partijen verder zijn geanalyseerd met behulp van de _Innovatrix_.
 <p align="center">
-  <img src="/images/RGM-Methode - Innovatrix.jpg" height="350px">
-  <img src="/images/RGM-Methode - Stakeholders.jpg" height="350px">
+  <img src="/images/RGM-Methode - Innovatrix.jpg" height="300px">
+  <img src="/images/RGM-Methode - Stakeholders.jpg" height="300px">
 </p>
 
 
@@ -94,8 +94,8 @@ Op de markt zijn er veel multisensorische producten waarbij de intensiteit van d
 ## Definition
 In deze fase werd er verder gewerkt op de conclusies uit de discovery fase. Aan de hand van deze inzichten begon de ontwikkeling van de eerste conceptuele prototypes die vervolgens enkele test waves ondervonden.
 <p align="center">
-  <img src="images/prototype_prisma.jpg" height="350px">
-  <img src="images/prototype_cilinder.jpg" height="350px">
+  <img src="images/prototype_prisma.jpg" height="300px">
+  <img src="images/prototype_cilinder.jpg" height="300px">
 </p>
 
 ### Doestellingen
@@ -128,8 +128,8 @@ Bij deze testwave stonden de respondenten open voor het idee, maar er waren ook 
 #### Wave 2 (N = 6)
 Bij de tweede testwave zegde de oorspronkelijke testgroep af wegens ziekte. Door feestdagen, waardoor de respondenten enkele weken niet tennisten, en aankomende examens werden nieuwe respondenten van 18 en 23 jaar ingeschakeld. Om de validiteit van de test te verhogen droegen zij oordopjes om de hardhorigheid uit wave 1 na te bootsen.
 <p align="center">
-  <img src="images/wave 2.jpeg" height="400px">
-  <img src="images/oordoppen.jpeg" height="400px">
+  <img src="images/wave 2.jpeg" height="300px">
+  <img src="images/oordoppen.jpeg" height="300px">
 </p>
 
 De tests wezen op een minimaal verschil in hoorbaarheid tussen verschillende luidsprekerposities, dankzij het heldere en krachtige geluid van de box. De voorkeur ging echter naar de frontale positie, mede omdat verbindingsproblemen bij een achterste positie de spelervaring verstoorden. Respondenten raakten gefrustreerd als vragen niet snel genoeg achter elkaar kwamen, wat de voorkeur voor de frontale opstelling versterkte.
