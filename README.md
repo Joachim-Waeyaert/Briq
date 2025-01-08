@@ -83,7 +83,7 @@ Een deel van de 65-plussers is alleenstaand, waardoor het sociale aspect een bel
 Daarnaast is het algemeen bekend dat frustraties veel zwaarder wegen dan positieve emoties. Om frustraties te verminderen, moet er specifiek gekeken worden naar hoe het product zo gebruiksvriendelijk mogelijk kan worden gemaakt. Dit kan bereikt worden door de interface duidelijk en herkenbaar te maken, het implementeren van tutorials en het gebruik van duidelijke signifiers. 
 Op de markt zijn er veel multisensorische producten waarbij de intensiteit van de fysieke activiteit onvoldoende is. Het combineren van een voldoende hoge fysieke intensiteit met cognitieve stimulatie is essentieel om deze gap te vullen.
 
-**Hoe kan ik 65-plussers samenkrijgen om aan multisensoriële oefeningen te doen?**
+**Hoe kunnen 65-plussers samengebracht worden om aan multisensoriële oefeningen te doen?**
 
 > [!IMPORTANT]
 > Design Requirements:
