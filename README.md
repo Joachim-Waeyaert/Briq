@@ -3,7 +3,7 @@ Hoe kunnen 65-plussers samengebracht worden om aan multisensoriële oefeningen t
 
 *Projectteam: Kasper Stas, Joachim Waeyaert*
 
-Datum 08/01/2022
+08/01/2025
 
 ## Samenvatting
 Dementie wordt vaak behandeld in plaats van te voorkomen, terwijl preventie juist essentieel is. Uit wetenschappelijk onderzoek blijkt dat een combinatie van cognitieve en fysieke stimulatie kan bijdragen aan het uitstellen van dementie. Daarnaast toont onderzoek aan dat sociale interactie een positieve invloed heeft op de cognitieve vaardigheden. Wanneer dergelijke onderzoeken zijn uitgevoerd binnen de doelgroep, werd duidelijk dat motivatie een cruciale rol speelt. Regelmatig gebruik blijkt namelijk moeilijk zonder een sterke drijfveer.
