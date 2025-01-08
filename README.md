@@ -170,15 +170,15 @@ Een belangrijk inzicht dat naar voren is gekomen, is dat de veelzijdigheid van B
 Kortom, deze reflectie benadrukt niet alleen de kracht van samenwerking en flexibiliteit binnen het project, maar ook het belang van een kritische en toekomstgerichte benadering bij de ontwikkeling van een innovatief product als BRIQ.
 
 ## Bijlagen
-Bijlage 1: [Discoveryfase user interview protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/Eccp6-tuJ7RIgDxTFJafTsUBjha0G01C07kuwLYuzL_5hg?e=EyJoAE)
-Bijlage 2: [Discoveryfase user interview report respondent 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/ETShPN_411NNuFoKcluLLloBlKvgK6anIf66xyKFr2YVYA?e=tGJIf9)
-Bijlage 3: [Discoveryfase user interview report respondent 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/EX9dlNEBjz9Ep7ALpzGcafgBQYQuzKDekljJ-uAmMbQE1Q?e=86iySw)
-Bijlage 4: [Discoveryfase user interview report respondent 3 en 4](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/EcoTCGuhVb5BuJcO8Id6Z2MB8CgIEz0BB_kHVZi0qELf9w?e=ZP3wUn)
-Bijlage 5: [Discoveryfase benchmarking protocol en report](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/EVxuGJCil6NKqp4rx4swli4Bz6NNofoWt0LyqeWuUlmu3w?e=z1qCuJ)
-Bijlage 6: [Definitionfase wave 1 protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EYF02Lnx5_JLl-T0XP1DYy8BgK0_u3MWQs1OdkoBKK8tsw?e=9Kfbdv)
-Bijlage 7: [Definitionfase wave 1 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EV9AAZd6tUNJiKQ-6o2PBQMBOxqWvU9LAsO7Fexe_HZJ7g?e=NtAhnu)
-Bijlage 8: [Definitionfase wave 2 protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EQYm9j-gjvhBibDEiGvRPbcBvNyGKB1eAY8BO8VQ_nApsQ?e=Gw5wHe)
-Bijlage 9: [Definitionfase wave 2 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EbUeJiJccRZBlnkz_LmM5nkB15VgIn0bT3ibTKTO6iI8nw?e=v2BmCx)
+- Bijlage 1: [Discoveryfase user interview protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/Eccp6-tuJ7RIgDxTFJafTsUBjha0G01C07kuwLYuzL_5hg?e=EyJoAE)
+- Bijlage 2: [Discoveryfase user interview report respondent 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/ETShPN_411NNuFoKcluLLloBlKvgK6anIf66xyKFr2YVYA?e=tGJIf9) 
+- Bijlage 3: [Discoveryfase user interview report respondent 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/EX9dlNEBjz9Ep7ALpzGcafgBQYQuzKDekljJ-uAmMbQE1Q?e=86iySw)
+- Bijlage 4: [Discoveryfase user interview report respondent 3 en 4](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/EcoTCGuhVb5BuJcO8Id6Z2MB8CgIEz0BB_kHVZi0qELf9w?e=ZP3wUn)
+- Bijlage 5: [Discoveryfase benchmarking protocol en report](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/EVxuGJCil6NKqp4rx4swli4Bz6NNofoWt0LyqeWuUlmu3w?e=z1qCuJ)
+- Bijlage 6: [Definitionfase wave 1 protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EYF02Lnx5_JLl-T0XP1DYy8BgK0_u3MWQs1OdkoBKK8tsw?e=9Kfbdv)
+- Bijlage 7: [Definitionfase wave 1 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EV9AAZd6tUNJiKQ-6o2PBQMBOxqWvU9LAsO7Fexe_HZJ7g?e=NtAhnu)
+- Bijlage 8: [Definitionfase wave 2 protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EQYm9j-gjvhBibDEiGvRPbcBvNyGKB1eAY8BO8VQ_nApsQ?e=Gw5wHe)
+- Bijlage 9: [Definitionfase wave 2 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EbUeJiJccRZBlnkz_LmM5nkB15VgIn0bT3ibTKTO6iI8nw?e=v2BmCx)
 
 ## Bronnen
 [^1]: Bohn, K. (2021). _Socializing may improve older adults' cognitive function in daily life._ Geraadpleegd op 20 oktober 2024 via https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
