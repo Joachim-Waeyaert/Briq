@@ -25,7 +25,7 @@ Onderzoek[^2] wijst uit dat een combinatie van fysieke en cognitieve uitdagingen
 
 > "Myokines: het verjongende hormoon dat door onze spieren wordt geproduceerd" (Venesson, 2023)[^2].
 
-De design challenge binnen het project Briq is om een slim product te ontwikkelen dat de RGM-methode op een vernieuwende en toegankelijke manier implementeert. Het doel is om een product te ontwerpen dat niet alleen geschikt is voor klinische toepassingen, maar ook gezonde ouderen stimuleert om mentaal en fysiek actief te blijven. 
+De _design challenge_ binnen het project 'Briq' is om een slim product te ontwikkelen dat de RGM-methode op een vernieuwende en toegankelijke manier implementeert. Het doel is om een product te ontwerpen dat niet alleen geschikt is voor klinische toepassingen, maar ook gezonde ouderen stimuleert om mentaal en fysiek actief te blijven. 
 
 > [!IMPORTANT]
 > Randvoorwaarden:
@@ -33,7 +33,7 @@ De design challenge binnen het project Briq is om een slim product te ontwikkele
 > - Het product moet zowel het fysiek als het cognitieve prikkelen.
 > - Het product moet zelfstandig kunnen gebruikt worden door ouderen.
 
-Het betrekken van verschillende stakeholders, naast de eindgebruiker, is een cruciaal onderdeel om dit project tot een goed einde te brengen. De belangen van deze stakeholders zijn in kaart gebracht met een stakeholder map en waarbij de twee belangrijkste partijen verder zijn geanalyseerd met behulp van de Innovatrix.
+Het betrekken van verschillende stakeholders, naast de eindgebruiker, is een cruciaal onderdeel om dit project tot een goed einde te brengen. De belangen van deze stakeholders zijn in kaart gebracht met een _stakeholder map_ en waarbij de twee belangrijkste partijen verder zijn geanalyseerd met behulp van de _Innovatrix_.
 <p align="center">
   <img src="/images/RGM-Methode - Innovatrix.jpg" width="49%">
   <img src="/images/RGM-Methode - Stakeholders.jpg" width="49%">
