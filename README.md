@@ -39,6 +39,8 @@ Het betrekken van verschillende stakeholders, naast de eindgebruiker, is een cru
   <img src="/images/RGM-Methode - Stakeholders.jpg" height="300px">
 </p>
 
+### Werking
+Het product bestaat uit twee componenten. Enerzijds de luidsprekermodule, anderzijds de  kleurmodule. De luidsprekermodule wordt aan de zijkant van het net geplaatst. Op dit moment verschijnt er op het scherm een keuzemenu die de verschillende thema's van het quizegedeelte bevat (eg. sport, literatuur, geschiendenis,...). Eens de thema's zijn gekozen beginnen de spelers met het spel (eg.tennis, badminton,...). De luidsprekermodule geeft beide teams beurtlings een meerkeuze vraag over de gekozen thema's. De spelers beantwoorden deze vraag met A, B of C die door een spraakherkenningsmodule wordt gerigstreerd. Indien de spelers juist antwoorden wordt de beurt doorgeschoven naar het andere team. Wanneer de spelers fout antwoorden worden ze een uitdaging opgelegd, wat een nadeel ten opzichte van het andere team is, door middel van een kleur. Deze kleur heeft een corresponderende opdracht wat voor het spel begint wordt meegegeven met de spelers. 
 
 ## Methodologie
 Om structuur aan te brengen in het ontwerpproces werd er gebruik gemaakt van een duidelijke methodologie, die het eerste semester opdelen in twee grote fasen. De focus lag hierbij altijd op de gebruiker. De opzet van deze methodologie was ontworpen om zo veel mogelijk inzichten te verkrijgen om het ontwerp te verbeteren en verder te ontwikkelen.
