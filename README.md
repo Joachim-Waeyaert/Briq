@@ -13,7 +13,7 @@ Om deze motivatie te stimuleren, werd onderzocht hoe deze geïntegreerd kan word
 Door deze drie aspecten te combineren met een multisensorische aanpak, kan dementie bij gezonde 65-plussers mogelijk worden uitgesteld. Dit benadrukt het belang van preventieve maatregelen die zowel stimulerend als toegankelijk zijn voor ouderen.
 
 <p align="center">
-  <img src="/images/render briq.png" width="70%">
+  <img src="/img/render briq.png" width="70%">
 </p>
 
 > [!NOTE]
@@ -35,8 +35,8 @@ De _design challenge_ binnen het project 'Briq' is om een slim product te ontwik
 
 Het betrekken van verschillende stakeholders, naast de eindgebruiker, is een cruciaal onderdeel om dit project tot een goed einde te brengen. De belangen van deze stakeholders zijn in kaart gebracht met een _stakeholder map_ en waarbij de twee belangrijkste partijen verder zijn geanalyseerd met behulp van de _Innovatrix_.
 <p align="center">
-  <img src="/images/RGM-Methode - Innovatrix.jpg" height="300px">
-  <img src="/images/RGM-Methode - Stakeholders.jpg" height="300px">
+  <img src="/img/RGM-Methode - Innovatrix.jpg" height="300px">
+  <img src="/img/RGM-Methode - Stakeholders.jpg" height="300px">
 </p>
 
 ### Werking
@@ -45,7 +45,7 @@ Het product bestaat uit twee componenten. Enerzijds de luidsprekermodule, anderz
 ## Methodologie
 Om structuur aan te brengen in het ontwerpproces werd er gebruik gemaakt van een duidelijke methodologie, die het eerste semester opdelen in twee grote fasen. De focus lag hierbij altijd op de gebruiker. De opzet van deze methodologie was ontworpen om zo veel mogelijk inzichten te verkrijgen om het ontwerp te verbeteren en verder te ontwikkelen.
 
-  <img src="/images/quadruple_diamond.svg" width="100%">
+  <img src="/img/quadruple_diamond.svg" width="100%">
   
 ### Discovery
 De eerste fase werd gestart door een heldere probleemstelling te formuleren. Dit was noodzakelijk om het probleem goed af te bakenen en gerichte stappen te kunnen zetten. Tijdens deze fase werden benchmarks uitgevoerd om te onderzoeken wat er al op de markt beschikbaar was. Dit gaf een overzicht van de bestaande oplossingen en liet zien waar verbeteringen mogelijk waren. Daarnaast werden er ook user interviews gehouden om de gebruiker beter te begrijpen. Deze gesprekken gaven inzicht in de problemen en uitdagingen die zij ondervonden, wat essentieel was om de problemen goed te kunnen definiëren. Door deze aanpak kreeg het ontwerpproces meteen een gerichte focus, wat cruciaal was voor de volgende fasen.
@@ -73,8 +73,8 @@ Het doel van het marktonderzoek was om te onderzoeken welke aspecten van het "Ag
 Het viel op dat er veel cognitieve en fysieke oefeningen beschikbaar zijn, maar dat de combinatie van beide vaak beperkt is. Een belangrijk kenmerk van "Aging Young" is dat zowel het fysieke gedeelte intensief genoeg moet zijn, als het cognitieve gedeelte prikkelend genoeg. In veel gevallen blijkt het cognitieve gedeelte voldoende prikkeling te bieden, maar blijft het fysieke aspect niet intensief genoeg. Dit kan verklaard worden door de context waarin deze producten of oefenmethoden doorgaans worden toegepast, vaak in zorginstellingen zoals verpleeghuizen. Daar zijn de bewoners vaak niet mobiel genoeg om intensieve fysieke oefeningen uit te voeren of bevinden zij zich al in een gevorderd stadium van dementie. Met de Briq willen we echter juist focussen op mensen die nog in staat zijn om intensieve fysieke activiteiten uit te voeren en die thuis wonen, zonder de hulp van een zorgverlener of instructeur.
 Een ander opvallend aspect was dat er vaak geen aandacht wordt besteed aan de motivatie van gebruikers om regelmatig met de producten of oefeningen te blijven werken, vooral wanneer er niemand aanwezig is om hen aan te moedigen of te begeleiden. Om hier meer inzicht in te krijgen, werd er tijdens de interviews (zie ‘user interviews’) verder onderzocht wat de drijvende kracht is achter de motivatie van gebruikers om actief betrokken te blijven bij deze producten.
 <p align="center">
-  <img src="images/Benchmarking-1.jpg" width="49%">
-  <img src="images/Benchmarking-2.jpg" width="49%">
+  <img src="img/Benchmarking-1.jpg" width="49%">
+  <img src="img/Benchmarking-2.jpg" width="49%">
 </p>
 
   
@@ -96,15 +96,15 @@ Op de markt zijn er veel multisensorische producten waarbij de intensiteit van d
 ## Definition
 In deze fase werd er verder gewerkt op de conclusies uit de discovery fase. Aan de hand van deze inzichten begon de ontwikkeling van de eerste conceptuele prototypes die vervolgens enkele test waves ondervonden. Omdat het concept op dit moment bestond uit twee eerder aparte producten, de app en het toestel, werd er enkel verder gewerkt met het toestel om zo de focus en tijd goed te kunnen verdelen. Er was voor het toestel gekozen omdat dit meer de essentie van de opdracht weerspiegelde.
 <p align="center">
-  <img src="images/prototype_prisma.jpg" height="300px">
-  <img src="images/prototype_cilinder.jpg" height="300px">
+  <img src="img/prototype_prisma.jpg" height="300px">
+  <img src="img/prototype_cilinder.jpg" height="300px">
 </p>
 
 ### Doestellingen
 In dit deel van het ontwikkelingsproces de concepten verfijnen. Dit werd gedaan aan de hand van twee _Wizard of Oz_ testen. Dit resulteert in een duidelijke _"How can we"_ om verder mee aan de slag te gaan in het tweede semester.
 
 <p align="center">
-  <img src="/images/storyboard.svg" width="40%" align="right">
+  <img src="/img/storyboard.svg" width="40%" align="right">
 </p>
 
 ### Materiaal & methoden
@@ -119,8 +119,8 @@ Na bevestiging van het concept werd een tweede prototype ontwikkeld. Ook dit pro
 Tijdens de eerste testwave werden enkele problemen snel duidelijk. Aanvankelijk stond de Wizard aan het net (figuur links) om vragen te stellen en kleuren met de bijbehorende straf weer te geven. Omdat spelers vaak vroegen de vraag te herhalen, verplaatste de Wizard zich naar de kant van de spelers die de vraag kregen (figuur rechts). Dit verminderde het aantal herhalingsverzoeken aanzienlijk, wat ook werd bevestigd door de respondenten. Zij gaven aan open te staan voor deze aanpak, mits de vragen duidelijk hoorbaar waren.
 
 <p align="center">
-  <img src="images/begin wave 1.jpeg" width="49%">
-  <img src="images/eind wave 1.jpeg" width="49%">
+  <img src="img/begin wave 1.jpeg" width="49%">
+  <img src="img/eind wave 1.jpeg" width="49%">
 </p>
 
 Bij het testen van de kleuren ontstonden ook problemen. Respondenten keken niet weg van de bal om de kleur te zien, wat ze toeschreven aan de competitieve aard van het spel. Zelfs bij recreatief spelen vonden zij dat competitie niet mocht belemmerd worden. Daarnaast werd de juiste straf vaak te laat of niet toegepast omdat respondenten de juiste combinaties niet meer wisten. Straffen mochten bovendien niet te hinderend zijn, omdat dit het spelplezier noemenswaardig verminderde. Hoewel de respondenten het idee waardeerden, veroorzaakte het rudimentaire prototype enige frustraties, wat hun enthousiasme mogelijk beïnvloedde.
@@ -130,8 +130,8 @@ Bij deze testwave stonden de respondenten open voor het idee, maar er waren ook 
 #### Wave 2 (N = 6)
 Bij de tweede testwave zegde de oorspronkelijke testgroep af wegens ziekte. Door feestdagen, waardoor de respondenten enkele weken niet tennisten, en aankomende examens werden nieuwe respondenten van 18 en 23 jaar ingeschakeld. Om de validiteit van de test te verhogen droegen zij oordopjes om de hardhorigheid uit wave 1 na te bootsen.
 <p align="center">
-  <img src="images/wave 2.jpeg" height="300px">
-  <img src="images/oordoppen.jpeg" height="300px">
+  <img src="img/wave 2.jpeg" height="300px">
+  <img src="img/oordoppen.jpeg" height="300px">
 </p>
 
 De tests wezen op een minimaal verschil in hoorbaarheid tussen verschillende luidsprekerposities, dankzij het heldere en krachtige geluid van de box. De voorkeur ging echter naar de frontale positie, mede omdat verbindingsproblemen bij een achterste positie de spelervaring verstoorden. Respondenten raakten gefrustreerd als vragen niet snel genoeg achter elkaar kwamen, wat de voorkeur voor de frontale opstelling versterkte.
