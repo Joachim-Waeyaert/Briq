@@ -134,7 +134,7 @@ Bij de tweede testwave zegde de oorspronkelijke testgroep af wegens ziekte. Door
   <img src="img/oordoppen.jpeg" height="300px">
 </p>
 
-De tests wezen op een minimaal verschil in hoorbaarheid tussen verschillende luidsprekerposities, dankzij het heldere en krachtige geluid van de box. De voorkeur ging echter naar de frontale positie, mede omdat verbindingsproblemen bij een achterste positie de spelervaring verstoorden. Respondenten raakten gefrustreerd als vragen niet snel genoeg achter elkaar kwamen, wat de voorkeur voor de frontale opstelling versterkte.
+De tests wezen op een minimaal verschil in hoorbaarheid tussen verschillende luidsprekerposities. De voorkeur ging echter naar de frontale positie, mede omdat verbindingsproblemen bij een achterste positie de spelervaring verstoorden. Respondenten raakten gefrustreerd als vragen niet snel genoeg achter elkaar kwamen, wat de voorkeur voor de frontale opstelling versterkte. Ook waren de boxen wederom niet sterk genoeg om altijd de vraag duidelijk te verwoorden. Door omgevingsgeluid werd de vraag soms niet gehoord.
 
 Bij het weergeven van kleuren bleek dat dit vaak afleidde van het spel. Toch vonden de respondenten dat een feller verlichte ledstrip, bevestigd bovenaan het net, de kleuren goed zichtbaar maakte zonder de aandacht van het spel af te leiden. Dit voldeed aan de eisen uit wave 1. Ze suggereerden ook dat de kleur geïntegreerd kon worden in een interactief spelonderdeel, zoals het pluimpje of racket, omdat deze altijd de meeste aandacht krijgen tijdens het spel.
 
@@ -157,6 +157,31 @@ Uit deze twee gebruikerstesten zijn er enkele belangrijke elementen voortgekomen
 > - D4.1 Het vermelden van de kleur moet zowel auditief als visueel duidelijk zijn.
 > - D4.2 De kleuraanwijzing moet zich aan de bovenkant van het net bevinden.
 > - D4.3 De intensiteit van het licht moet duidelijk zichtbaar zijn in een goed verlichte omgeving.
+## Developing fase 
+In deze fase wordt het oorspronkelijke concept verder ontwikkeld tot een fysiek product. Dit proces is opgedeeld in verschillende fasen, waarbij telkens tests worden uitgevoerd met de doelgroep. Op deze manier wordt het product op een gerichte en gebruiksvriendelijke manier geoptimaliseerd tot een multisensoriële ervaring.
+
+Tijdens het ontwikkelproces wordt na grondig overleg besloten om het gebruik van kleuren achterwege te laten. Analyses tonen aan dat kleuren weinig tot geen invloed hebben op de effectiviteit van het product. Door dit element te elimineren, kan de focus worden gelegd op de essentiële aspecten, namelijk:
+
+**Duidelijke communicatie van vragen:** Zorgen dat vragen helder en verstaanbaar worden overgebracht naar de gebruiker.
+**Registratie en validatie van antwoorden:** Het correct vastleggen en evalueren van gebruikersreacties zonder dat dit het spelverloop belemmert of het speelplezier vermindert.
+**Duidelijke UI bij keuze van de vragen:** Het gebruik van de console waarbij je de type vragen kan instellen moet duidelijk en simpel zijn om mee te werken.
+
+Uit eerdere fasen, met name de Discovery-fase, blijkt dat de helderheid van de vraagstelling een grote impact heeft op de gebruikerservaring en het spelplezier. Daarnaast wordt vastgesteld dat een goed ontworpen gebruikersinterface (UI) cruciaal is. Deze UI moet de mogelijkheid bieden om het type vragen te selecteren en eventueel een puntensysteem te integreren, waardoor een competitief element wordt toegevoegd aan het spel.
+**Beoogde functionaliteit tot nu toe:**
+Het systeem bestaat dus uit een console met een geïntegreerde microcomputer die de vragen valideert, registreert en doorstuurt. De vragen worden vervolgens via een geluidsuitvoer naar de gebruiker overgebracht.
+
+
+### Develop 1
+Tijdens de eerste ronde van de Develop-fase werd de vraag gesteld of er alternatieve methoden zijn om de vragen duidelijker over te brengen naar de gebruikers. In de tweede testfase (Wave 2 van de Definition-fase) werd vastgesteld dat de oorspronkelijke opzet met luidsprekers niet optimaal was. Het omgevingsgeluid bleek moeilijk te controleren, en bovendien varieerden de gehoorcapaciteiten van de gebruikers. Daarom werd besloten om de vragen via draadloze oortjes te formuleren. In de eerste Develop-fase werd deze methode vervolgens getest.
+
+Voor deze test droegen beide partijen draadloze oortjes die verbonden waren met een Python-script. Dit script, onder controle van de Wizard, stelde de vragen één voor één aan de gebruiker via een text-to-speech module. Daarnaast bevatte het script een validatieknop waarmee werd aangegeven of een antwoord correct was. Indien een antwoord foutief was, kreeg de gebruiker een bijbehorende opdracht te horen.
+
+De testresultaten toonden een significant verschil in vergelijking met de luidsprekers. De vragen werden duidelijk overgebracht, en de gebruikers ervaarden de methode als prettig, omdat deze minimale verstoring van hun spel veroorzaakte terwijl ze mentaal werden geprikkeld.
+
+Ondanks het positieve verloop van de test werd een belangrijk knelpunt geïdentificeerd: de Bluetooth-verbinding van de oortjes. De gebruikte oortjes waren van lage kwaliteit, omdat ze enkel voor de test waren aangeschaft. Dit resulteerde in krakende geluiden, vooral wanneer de respondent zich verder van de computer bevond. Dit probleem had een negatieve invloed op het spelplezier en de testervaring.
+
+Uit de testanalyse blijkt dat het gebruik van oortjes een duidelijke meerwaarde biedt ten opzichte van luidsprekers, mits enkele verbeteringen worden doorgevoerd, zoals een stabielere Bluetooth-verbinding, een ergonomisch beter passend ontwerp en een verbeterde volumeregeling.
+
 
 ## Bill of materials
 1. Hardware: LED-strips, speakers, microcontroller (arduino), voeding, basis arduino kit
