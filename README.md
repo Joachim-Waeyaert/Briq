@@ -182,8 +182,8 @@ Ondanks het positieve verloop van de test werd een belangrijk knelpunt geïdenti
 
 Uit de testanalyse blijkt dat het gebruik van oortjes een duidelijke meerwaarde biedt ten opzichte van luidsprekers, mits enkele verbeteringen worden doorgevoerd, zoals een stabielere Bluetooth-verbinding, een ergonomisch beter passend ontwerp en een verbeterde volumeregeling.
 <p align="center">
-  <img src="img/develop1.1.jpg" width="49%">
-  <img src="img/develop1.2.jpg" width="49%">
+  <img src="img/develop1.1.jpg" height="300px">
+  <img src="img/develop1.2.jpg" height="300px">
 </p>
 
 > [!IMPORTANT]
