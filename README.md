@@ -182,6 +182,18 @@ Ondanks het positieve verloop van de test werd een belangrijk knelpunt geïdenti
 
 Uit de testanalyse blijkt dat het gebruik van oortjes een duidelijke meerwaarde biedt ten opzichte van luidsprekers, mits enkele verbeteringen worden doorgevoerd, zoals een stabielere Bluetooth-verbinding, een ergonomisch beter passend ontwerp en een verbeterde volumeregeling.
 
+> [!IMPORTANT]
+> Design Requirements:
+*Hardware & Ergonomie
+> - Stabiele Bluetooth-verbinding om krakend geluid en verbindingsproblemen te voorkomen.
+> - Een bluetoothverbinding die minstens 15m kan overbruggen.
+> - Ergonomisch ontwerp zodat de oortjes stevig blijven zitten tijdens beweging.
+> - Individuele volumeregeling voor optimaal luistercomfort per gebruiker.
+Software & Functionaliteit
+> - Robuust en stabiel Python-programma om crashes en vastlopers te minimaliseren.
+> - Duidelijke en goed verstaanbare text-to-speech functionaliteit zonder kraken.
+> - Compatibiliteit met verschillende Bluetooth-apparaten om flexibiliteit te waarborgen.
+
 
 ## Bill of materials
 1. Hardware: LED-strips, speakers, microcontroller (arduino), voeding, basis arduino kit
