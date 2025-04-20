@@ -181,6 +181,10 @@ De testresultaten toonden een significant verschil in vergelijking met de luidsp
 Ondanks het positieve verloop van de test werd een belangrijk knelpunt geïdentificeerd: de Bluetooth-verbinding van de oortjes. De gebruikte oortjes waren van lage kwaliteit, omdat ze enkel voor de test waren aangeschaft. Dit resulteerde in krakende geluiden, vooral wanneer de respondent zich verder van de computer bevond. Dit probleem had een negatieve invloed op het spelplezier en de testervaring.
 
 Uit de testanalyse blijkt dat het gebruik van oortjes een duidelijke meerwaarde biedt ten opzichte van luidsprekers, mits enkele verbeteringen worden doorgevoerd, zoals een stabielere Bluetooth-verbinding, een ergonomisch beter passend ontwerp en een verbeterde volumeregeling.
+<p align="center">
+  <img src="img/develop1.1.jpg" width="49%">
+  <img src="img/develop1.2.jpg" width="49%">
+</p>
 
 > [!IMPORTANT]
 > Design Requirements:
