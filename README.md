@@ -40,7 +40,7 @@ Het betrekken van verschillende stakeholders, naast de eindgebruiker, is een cru
 </p>
 
 ### Werking
-Het product bestaat uit twee componenten. Enerzijds de luidsprekermodule, anderzijds de  kleurmodule. De luidsprekermodule wordt aan de zijkant van het net geplaatst. Op dit moment verschijnt er op het scherm een keuzemenu die de verschillende thema's van het quizegedeelte bevat (eg. sport, literatuur, geschiendenis,...). Eens de thema's zijn gekozen beginnen de spelers met het spel (eg.tennis, badminton,...). De luidsprekermodule geeft beide teams beurtlings een meerkeuze vraag over de gekozen thema's. De spelers beantwoorden deze vraag met A, B of C die door een spraakherkenningsmodule wordt gerigstreerd. Indien de spelers juist antwoorden wordt de beurt doorgeschoven naar het andere team. Wanneer de spelers fout antwoorden worden ze een uitdaging opgelegd, wat een nadeel ten opzichte van het andere team is, door middel van een kleur. Deze kleur heeft een corresponderende opdracht wat voor het spel begint wordt meegegeven met de spelers. 
+Het product bestaat uit twee componenten. Enerzijds de luidsprekermodule, anderzijds de  kleurmodule. De luidsprekermodule wordt aan de zijkant van het net geplaatst. Op dit moment verschijnt er op het scherm een keuzemenu die de verschillende thema's van het quizegedeelte bevat (eg. sport, literatuur, geschiedenis,...). Eens de thema's zijn gekozen beginnen de spelers met het spel (eg.tennis, badminton,...). De luidsprekermodule geeft beide teams beurtlings een meerkeuze vraag over de gekozen thema's. De spelers beantwoorden deze vraag met A, B of C die door een spraakherkenningsmodule wordt geregistreerd. Indien de spelers juist antwoorden wordt de beurt doorgeschoven naar het andere team. Wanneer de spelers fout antwoorden worden ze een uitdaging opgelegd, wat een nadeel ten opzichte van het andere team is, door middel van een kleur. Deze kleur heeft een corresponderende opdracht wat voor het spel begint wordt meegegeven met de spelers. 
 
 ## Methodologie
 Om structuur aan te brengen in het ontwerpproces werd er gebruik gemaakt van een duidelijke methodologie, die het eerste semester opdelen in twee grote fasen. De focus lag hierbij altijd op de gebruiker. De opzet van deze methodologie was ontworpen om zo veel mogelijk inzichten te verkrijgen om het ontwerp te verbeteren en verder te ontwikkelen.
@@ -55,7 +55,7 @@ In de daaropvolgende fase werd het concept ontwikkeld op basis van de resultaten
 
 ## Discovery
 In dit onderdeel wordt onderzocht wat zich binnen de probleemruimte bevindt en of er mogelijke oplossingen voor deze kwesties gevonden kunnen worden. Om inzicht te krijgen in de probleemruimte worden enerzijds interviews afgenomen om te begrijpen hoe mensen het probleem ervaren, en anderzijds wordt gekeken naar bestaande oplossingen op de markt en de hiaten die benut kunnen worden.
-### Doestellingen
+### doelstellingen
 Een duidelijke ‘how might we’ bekomen
 
 ### Materiaal & methoden
@@ -64,7 +64,7 @@ Een duidelijke ‘how might we’ bekomen
   
 ### Resultaten
 #### User Interviews (N=4)
-Tijdens de gebruikersinterviews werden voornamelijk algemene aspecten besprokendie anagestuurd werden door concrete vragen. Wanneer bepaalde vragen bij specifieke respondenten meer relevant bleken, werd daar dieper op ingegaan. Uit de interviews kwam naar voren dat de ene respondent het uitstellen of voorkomen van dementie als een belangrijke motivatie beschouwde, terwijl anderen zich daar minder zorgen over maakten. Voor deze laatste groep werd duidelijk dat hun motivatie vaak voortkwam uit persoonlijke interesses en hobby’s. Wanneer deze interesses aanwezig waren, gaven ze aan gemotiveerd te zijn om deel te nemen aan “Aging Young”. Er werd verder onderzocht welke andere factoren, naast persoonlijke interesses, als belangrijke motiverende elementen zouden kunnen dienen.
+Tijdens de gebruikersinterviews werden voornamelijk algemene aspecten besproken die aangestuurd werden door concrete vragen. Wanneer bepaalde vragen bij specifieke respondenten meer relevant bleken, werd daar dieper op ingegaan. Uit de interviews kwam naar voren dat de ene respondent het uitstellen of voorkomen van dementie als een belangrijke motivatie beschouwde, terwijl anderen zich daar minder zorgen over maakten. Voor deze laatste groep werd duidelijk dat hun motivatie vaak voortkwam uit persoonlijke interesses en hobby’s. Wanneer deze interesses aanwezig waren, gaven ze aan gemotiveerd te zijn om deel te nemen aan “Aging Young”. Er werd verder onderzocht welke andere factoren, naast persoonlijke interesses, als belangrijke motiverende elementen zouden kunnen dienen.
 Een van de belangrijke factoren die naar voren kwam, is het sociale aspect. Een respondent gaf aan dat veel kennissen van 65 jaar en ouder zich regelmatig eenzaam voelen. Voor hen zou het sociale aspect een sterke motivatie zijn om deel te nemen aan "Aging Young". Onderzoek[^1] ondersteunt dit, aangezien het blijkt dat ouderen die regelmatig in contact staan met vrienden of kennissen beter presteren op cognitieve tests dan degenen die minder sociale interactie ervaren (Bohn, 2021).
 Daarnaast werd het belang van de gebruiksvriendelijkheid van de technologie benadrukt. De moderne, vaak complexe digitale wereld wordt door deze doelgroep als frustrerend ervaren. Respondenten gaven aan dat ze behoefte hadden aan producten die herkenbare, nostalgische elementen bevatten – producten die ze kunnen gebruiken of eenvoudig kunnen leren bedienen. De hedendaagse technologie wordt vaak als te ingewikkeld en te vernieuwend ervaren, wat leidt tot frustratie en afkeer bij deze groep.
 
@@ -100,7 +100,7 @@ In deze fase werd er verder gewerkt op de conclusies uit de discovery fase. Aan 
   <img src="img/prototype_cilinder.jpg" height="300px">
 </p>
 
-### Doestellingen
+### doelstellingen
 In dit deel van het ontwikkelingsproces de concepten verfijnen. Dit werd gedaan aan de hand van twee _Wizard of Oz_ testen. Dit resulteert in een duidelijke _"How can we"_ om verder mee aan de slag te gaan in het tweede semester.
 
 <p align="center">
