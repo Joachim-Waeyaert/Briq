@@ -197,15 +197,24 @@ Uit de testanalyse blijkt dat het gebruik van oortjes een duidelijke meerwaarde 
 > - Compatibiliteit met verschillende Bluetooth-apparaten om flexibiliteit te waarborgen.
 
 ### Besturingsmodule
-In develop 1 werd een deel van de back-end logica ontwikkeld met behulp van python om zo onze eerste testen uit te voeren. Doorheen de andere develop fasen is hier constant aan verder gewerkt. 
-Het programma is opgebouwd uit verschillende scripts die aan elkaar gelinkt zijn. Om het programma te starten moet je het programma 'main.py' uitvoeren. dit programma triggeren de splashscreen die het logo doet
-verschijnen op het scherm. Indien deze animatie voorbij is zal hij automatish overgaan naar het scherm waarbij je kan verbinden met de oortjes. Op dit scherm staan 2 knoppen die, wanneer er op gedrukt wordt, automatisch het desbetreffende mac adres gaat zoeken op de Raspberry pi en ermee zal verbinden. De microcomputer die er gebruik werdt in het project van de Briq kan niet met meerder audio apparaten verbinden. 
-Hierbij wordt gebruik gemaakt van 2 aparte adapters die elk een signaal kunnen opvangen en door de microcomputer gezien worden als aparte bleutooth verbindingen. 
-Indien er verbonden is met de twee paar oortjes zal het programma overgaan naar het scherm waar je de categorie van de vragen kunt selecteren. Indien die geselecteerd zijn kan over gegaan worden naar het spel.
-Het spel zit als volgt in elkaar:
+Tijdens de eerste ontwikkelfase (Develop 1) werd een deel van de back-endlogica ontwikkeld in Python, met als doel de eerste functionele testen uit te voeren. Deze basis werd doorheen de daaropvolgende ontwikkelfases verder verfijnd en uitgebreid.
+
+De applicatie is modulair opgebouwd en bestaat uit meerdere onderling gekoppelde scripts. Het programma wordt opgestart via het script genaamd "main", dat als hoofdmodule fungeert. Bij het starten van dit script wordt eerst een splashscreen geactiveerd dat het logo op het scherm toont. Na afloop van deze animatie schakelt het systeem automatisch over naar het verbindingsscherm.
+
+In dit scherm worden twee knoppen weergegeven waarmee verbinding kan worden gemaakt met de draadloze oortjes. Bij het activeren van een knop zoekt het systeem automatisch het bijbehorende MAC-adres op via de Raspberry Pi en probeert hiermee verbinding te maken. Aangezien de microcomputer die in het Briq-project werd gebruikt niet in staat is om gelijktijdig meerdere audioapparaten aan te sturen, werd gekozen voor het gebruik van twee afzonderlijke Bluetooth-adapters. Elke adapter ontvangt een apart signaal en wordt door de microcomputer herkend als een individuele Bluetooth-verbinding.
+
+Zodra beide oortjes met succes verbonden zijn, schakelt het programma over naar het keuzescherm voor de spelcategorieën. Na het selecteren van een categorie kan het spel vervolgens worden gestart.
+
+#Werking quiz game:
 <p align="center">
   <img src="/img/Flowchart_quizgame.png" width="70%">
 </p>
+
+Het belangrijkste probleem dat zich voordeed, was dat er vaak meerdere manieren waren om een vraag te beantwoorden. Dit was niet alleen te wijten aan verschillende accenten, maar ook aan de verscheidenheid aan mogelijke antwoorden. Een voorbeeld hiervan is de vraag: "Wie was de koning van België in 1964?" Deze vraag kan beantwoord worden met "Koning Boudewijn de Eerste" of "Boudewijn Eén".
+
+Tijdens de definition- en ontwikkelfase werd duidelijk dat de frustraties die tijdens het spelen ontstonden, een aanzienlijke invloed hadden op het spelplezier. Dit probleem moest dan ook zeker worden opgelost om de algehele gebruikerservaring te verbeteren.
+
+De oplossing voor dit probleem werd gevonden door het gebruik van de library 'SentenceTransformer'. Deze library zet zinnen om in numerieke reeksen (vectoren) die de semantische betekenis van de zin representeren. Zowel de vraag als het antwoord worden op deze manier omgezet in een vector. Met behulp van cosinus-similariteit worden de twee vectoren vergeleken op basis van hun richting. Wanneer de richting van beide vectoren binnen een vooraf gedefinieerde drempelwaarde ligt, wordt het antwoord alsnog als correct geaccepteerd, ondanks mogelijke variaties in formulering.
 
 ### Develop 2
 
