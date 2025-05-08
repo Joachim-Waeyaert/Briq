@@ -205,7 +205,7 @@ In dit scherm worden twee knoppen weergegeven waarmee verbinding kan worden gema
 
 Zodra beide oortjes met succes verbonden zijn, schakelt het programma over naar het keuzescherm voor de spelcategorieën. Na het selecteren van een categorie kan het spel vervolgens worden gestart.
 
-#Werking quiz game:
+**Werking quiz game:**
 <p align="center">
   <img src="/img/Flowchart_quizgame.png" width="70%">
 </p>
