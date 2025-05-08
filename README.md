@@ -202,7 +202,10 @@ Het programma is opgebouwd uit verschillende scripts die aan elkaar gelinkt zijn
 verschijnen op het scherm. Indien deze animatie voorbij is zal hij automatish overgaan naar het scherm waarbij je kan verbinden met de oortjes. Op dit scherm staan 2 knoppen die, wanneer er op gedrukt wordt, automatisch het desbetreffende mac adres gaat zoeken op de Raspberry pi en ermee zal verbinden. De microcomputer die er gebruik werdt in het project van de Briq kan niet met meerder audio apparaten verbinden. 
 Hierbij wordt gebruik gemaakt van 2 aparte adapters die elk een signaal kunnen opvangen en door de microcomputer gezien worden als aparte bleutooth verbindingen. 
 Indien er verbonden is met de twee paar oortjes zal het programma overgaan naar het scherm waar je de categorie van de vragen kunt selecteren. Indien die geselecteerd zijn kan over gegaan worden naar het spel.
-Het spel zit als volgt in elkaar. 
+Het spel zit als volgt in elkaar:
+<p align="center">
+  <img src="/img/Flowchart_quizgame.png" width="70%">
+</p>
 
 ### Develop 2
 
