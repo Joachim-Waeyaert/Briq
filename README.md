@@ -196,6 +196,22 @@ Uit de testanalyse blijkt dat het gebruik van oortjes een duidelijke meerwaarde 
 > - Duidelijke en goed verstaanbare text-to-speech functionaliteit zonder kraken.
 > - Compatibiliteit met verschillende Bluetooth-apparaten om flexibiliteit te waarborgen.
 
+### Besturingsmodule
+In develop 1 werd een deel van de back-end logica ontwikkeld met behulp van python om zo onze eerste testen uit te voeren. Doorheen de andere develop fasen is hier constant aan verder gewerkt. 
+Het programma is opgebouwd uit verschillende scripts die aan elkaar gelinkt zijn. Om het programma te starten moet je het programma 'main.py' uitvoeren. dit programma triggeren de splashscreen die het logo doet
+verschijnen op het scherm. Indien deze animatie voorbij is zal hij automatish overgaan naar het scherm waarbij je kan verbinden met de oortjes. Op dit scherm staan 2 knoppen die, wanneer er op gedrukt wordt, automatisch het desbetreffende mac adres gaat zoeken op de Raspberry pi en ermee zal verbinden. De microcomputer die er gebruik werdt in het project van de Briq kan niet met meerder audio apparaten verbinden. 
+Hierbij wordt gebruik gemaakt van 2 aparte adapters die elk een signaal kunnen opvangen en door de microcomputer gezien worden als aparte bleutooth verbindingen. 
+Indien er verbonden is met de twee paar oortjes zal het programma overgaan naar het scherm waar je de categorie van de vragen kunt selecteren. Indien die geselecteerd zijn kan over gegaan worden naar het spel.
+Het spel zit als volgt in elkaar. 
+
+### Develop 2
+
+
+
+### Develop 3
+
+
+
 
 ## Bill of materials
 1. Hardware: LED-strips, speakers, microcontroller (arduino), voeding, basis arduino kit
