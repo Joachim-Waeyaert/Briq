@@ -238,7 +238,7 @@ In een volgende stap werd met behulp van Vizcom onderzocht welk gevoel het produ
 --------foto-----------
 Deze renders werden dan voorgesteld aan onze doelgroep met behulp van een decision matrix een beeld geschept over hoe zij de uitwerkingen van de producten inschatten en welk gevoel ze daarbij hebben. Met deze info kan dan aan de slag worden gegaan om een uiteindelijke behuizing te maken voor de Briq. 
 
-**Interface**
+#### Interface
 Om bij de Briq gebruiksvriendelijk te maken en bovendien frustraties weg te werken is een goede interface essentieel. 
 
 
@@ -270,6 +270,8 @@ Kortom, deze reflectie benadrukt niet alleen de kracht van samenwerking en flexi
 - Bijlage 9: [Definitionfase wave 2 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EbUeJiJccRZBlnkz_LmM5nkB15VgIn0bT3ibTKTO6iI8nw?e=v2BmCx)
 - Bijlage 10: [Develop 1 protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EaXPK_wpEgFAmV5XwKpGdbABpYaKwYSgQxv-ZS_ocufr3A?e=Zv4NPD)
 - Bijlage 11: [Develop 1 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/EY8Ra6UtK6JJosZgsLvtptcBk_-7H1ESl9jIDpTPUINg8Q?e=V7Rstb)
+- Bijlage 12: [Develop 2 protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EZ002nA1ALVBhejrMRT2UUUBHjc_nguNAfLf2lokghUkJg?e=nbMrdB)
+- Bijlage 13: [Develop 2 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EaxuG0nfVOpPlJYxV2ZbBxgBLcov0b--o2_EopizY-3zIw?e=iCitiI)
 ## Bronnen
 [^1]: Bohn, K. (2021). _Socializing may improve older adults' cognitive function in daily life._ Geraadpleegd op 20 oktober 2024 via https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
 
