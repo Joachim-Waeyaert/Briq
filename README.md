@@ -223,7 +223,7 @@ De oplossing voor dit probleem werd gevonden door het gebruik van de library 'Se
 ### Develop 3
 Tijdens de laatste fase van de ontwikkelingsronde lag de focus op de vormgeving van de behuizing van het uiteindelijke product en de interface die de interactie met de gebruiker faciliteert.
 
-**behuizing**
+#### behuizing
 Om een idee te krijgen over hoe een mooie behuizing kon worden uitgewerkt werd eerst en vooral iteraties gedaan op papier. Waarna een selectie van die iteraties in karton zijn uitgewerkt om een eerste tastbare indruk te krijgen van de behuizingen. 
 
 <p align="center">
