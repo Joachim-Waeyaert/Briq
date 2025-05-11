@@ -227,9 +227,9 @@ Tijdens de laatste fase van de ontwikkelingsronde lag de focus op de vormgeving 
 Om een idee te krijgen over hoe een mooie behuizing kon worden uitgewerkt werd eerst en vooral iteraties gedaan op papier. Waarna een selectie van die iteraties in karton zijn uitgewerkt om een eerste tastbare indruk te krijgen van de behuizingen. 
 
 <p align="center">
-  <img src="/img/Prototype%201_develop.jpg" alt="Prototype 1" width="30%">
-  <img src="/img/Prototype-2_develop.jpg" alt="Prototype 2" width="30%">
-  <img src="/img/Prototype-3_develop.jpg" alt="Prototype 3" width="30%">
+  <img src="img/Prototype 1_develop.jpg" width="30%">
+  <img src="/img/Prototype-2_develop.jpg" width="30%">
+  <img src="/img/Prototype-3_develop.jpg" width="30%">
 </p>
 
 In een volgende stap werd met behulp van Vizcom onderzocht welk gevoel het product moet overbrengen op de gebruiker. Dit gebeurde door het creëren van diverse moodboards die de gewenste sfeer en uitstraling visueel weergeven. Samen met het moodboard werd dan een foto van een van de prototypes upgeload, om dan aan de slag te gaan in een AI gestuurde foto bewerker waar je gebieden van het prototype kon aanduiden die er anders moesten uitzien. Zo werden onderstaande 'uitgewerkte' renders ontwikkeld om een nog betere look en feel te krijgen van hoe het er potentieel zou kunnen uitzien. 
