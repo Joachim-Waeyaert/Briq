@@ -221,6 +221,20 @@ De oplossing voor dit probleem werd gevonden door het gebruik van de library 'Se
 
 
 ### Develop 3
+Tijdens de laatste fase van de ontwikkelingsronde lag de focus op de vormgeving van de behuizing van het uiteindelijke product en de interface die de interactie met de gebruiker faciliteert.
+
+**behuizing**
+Om een idee te krijgen over hoe een mooie behuizing kon worden uitgewerkt werd eerst en vooral iteraties gedaan op papier. Waarna een selectie van die iteraties in karton zijn uitgewerkt om een eerste tastbare indruk te krijgen van de behuizingen. 
+
+In een volgende stap werd met behulp van Vizcom onderzocht welk gevoel het product moet overbrengen op de gebruiker. Dit gebeurde door het creëren van diverse moodboards die de gewenste sfeer en uitstraling visueel weergeven. Samen met het moodboard werd dan een foto van een van de prototypes upgeload, om dan aan de slag te gaan in een AI gestuurde foto bewerker waar je gebieden van het prototype kon aanduiden die er anders moesten uitzien. Zo werden onderstaande 'uitgewerkte' renders ontwikkeld om een nog betere look en feel te krijgen van hoe het er potentieel zou kunnen uitzien. 
+
+
+--------foto-----------
+Deze renders werden dan voorgesteld aan onze doelgroep met behulp van een decision matrix een beeld geschept over hoe zij de uitwerkingen van de producten inschatten en welk gevoel ze daarbij hebben. Met deze info kan dan aan de slag worden gegaan om een uiteindelijke behuizing te maken voor de Briq. 
+
+**Interface**
+Om bij de Briq gebruiksvriendelijk te maken en bovendien frustraties weg te werken is een goede interface essentieel. 
+
 
 
 
