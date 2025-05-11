@@ -225,6 +225,7 @@ Tijdens de laatste fase van de ontwikkelingsronde lag de focus op de vormgeving 
 
 #### behuizing
 Om een idee te krijgen over hoe een mooie behuizing kon worden uitgewerkt werd eerst en vooral iteraties gedaan op papier. Waarna een selectie van die iteraties in karton zijn uitgewerkt om een eerste tastbare indruk te krijgen van de behuizingen. 
+De onderstaande afbeeldingen geven de uitgewerkte prototypes weer.
 
 <p align="center">
   <img src="img/Prototype1_develop.jpg" width="30%">
