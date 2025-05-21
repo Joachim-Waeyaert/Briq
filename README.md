@@ -223,6 +223,9 @@ De oplossing voor dit probleem werd gevonden door het gebruik van de library 'Se
 ### Develop 3
 Tijdens de laatste fase van de ontwikkelingsronde lag de focus op de vormgeving van de behuizing van het uiteindelijke product en de interface die de interactie met de gebruiker faciliteert.
 
+#### Interface
+Om bij de Briq gebruiksvriendelijk te maken en bovendien frustraties weg te werken is een goede interface essentieel. 
+
 #### behuizing
 Om een idee te krijgen over hoe een mooie behuizing kon worden uitgewerkt werd eerst en vooral iteraties gedaan op papier. Waarna een selectie van die iteraties in karton zijn uitgewerkt om een eerste tastbare indruk te krijgen van de behuizingen. 
 De onderstaande afbeeldingen geven de uitgewerkte prototypes weer.
@@ -239,8 +242,7 @@ In een volgende stap werd met behulp van Vizcom onderzocht welk gevoel het produ
 --------foto-----------
 Deze renders werden dan voorgesteld aan onze doelgroep met behulp van een decision matrix een beeld geschept over hoe zij de uitwerkingen van de producten inschatten en welk gevoel ze daarbij hebben. Met deze info kan dan aan de slag worden gegaan om een uiteindelijke behuizing te maken voor de Briq. 
 
-#### Interface
-Om bij de Briq gebruiksvriendelijk te maken en bovendien frustraties weg te werken is een goede interface essentieel. 
+
 
 
 
@@ -273,6 +275,9 @@ Kortom, deze reflectie benadrukt niet alleen de kracht van samenwerking en flexi
 - Bijlage 11: [Develop 1 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/EY8Ra6UtK6JJosZgsLvtptcBk_-7H1ESl9jIDpTPUINg8Q?e=V7Rstb)
 - Bijlage 12: [Develop 2 protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EZ002nA1ALVBhejrMRT2UUUBHjc_nguNAfLf2lokghUkJg?e=nbMrdB)
 - Bijlage 13: [Develop 2 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EaxuG0nfVOpPlJYxV2ZbBxgBLcov0b--o2_EopizY-3zIw?e=iCitiI)
+- Bijlage 14: [Develop 3 protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EWJNR97-HidJr0l_aQn86SYBAPjInbjvQXtynCUaRM3Meg?e=vYPmrd)
+- Bijlage 15: [Develop 3 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/Eag8YOEMBLVHl_v4j4RZZdQB0JOLzRh6cAOL6gvB2316EA?e=mfmOrA)
+  
 ## Bronnen
 [^1]: Bohn, K. (2021). _Socializing may improve older adults' cognitive function in daily life._ Geraadpleegd op 20 oktober 2024 via https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
 
