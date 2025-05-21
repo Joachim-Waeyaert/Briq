@@ -278,6 +278,9 @@ De scores in de decision matrix worden per gebruiker omgezet volgens onderstaand
 |----|----|----|----|----|
 | -2 | -1 | 0  | 1  | 2  |
 
+In onderstaande tabel staan de totaalsom van elk kenmer per concept. Deze zijn op hun beurt opgeteld om de totaalsom per concept op te tellen. Al snel valt op dat er enige consitentie is tussen de concepten. De scores die per twee bij elkaar in de buurt liggen zijn telkens een Vizcom render vertrokken uit hetzelfde kartonnen prototype. 
+
+
 |               | concept 1 | concept 2 | concept 3 | concept 4 | concept 5 | concept 6 |
 |---------------|-----------|-----------|-----------|-----------|-----------|-----------|
 | betrouwbaarheid | -1        | 7         | 2         | 1         | 6         | 5         |
@@ -290,7 +293,9 @@ De scores in de decision matrix worden per gebruiker omgezet volgens onderstaand
 | stijl          | 5         | 3         | -7        | 4         | 5         | -3        |
 | **totaal**     | **30**    | **42**    | **-18**   | **23**    | **45**    | **-2**    |
 
-
+### Conclusies & implicaties
+#### Interface
+#### Behuizing
 
 ## Bill of materials
 1. Hardware: LED-strips, speakers, microcontroller (arduino), voeding, basis arduino kit
