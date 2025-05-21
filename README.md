@@ -270,7 +270,7 @@ Deze renders worden dan voorgesteld aan de doelgroep en met behulp van een decis
 Alvorens de vragen uit de UMUX lijst te vergelijken wordt de Cronbach's alpha berekent om de betrouwbaarheid van de vragenlijst te verifiëren. Deze heeft een score van 0,93 wat wil zeggen dat de lijst betrouwbaar is.
 De resultaten uit de UMUX vragenlijst geven een duidelijke verdeling weer in de verdeling van gebruiksvriendelijkheid tussen de interfaces. Gemiddeld gezien scoort de interface met als basis de papers het beste. De niet afleidende interface volgt als tweede gevolg door de Strava geïnspireerde interface. Verassingwekkend scoort de WhatsApp interface het slechts, met een gemiddelde score van 4,5. 
 
-Naast de UMUX vragenlijst zijn er foutieve handelingen en bedenkingen van de respondenten neergeschreven. De interface gebaseerd op de papers wordt aanschouwd als makkelijk. Bij de niet afleidende interface drukken drie van de vier respondenten op de bluetooth statusknop in plaats van de verbindknop. De Strava interface had de moeilijkheid dat de respondent telkens naar het startscherm moet gaan om de opdracht verder te zetten. Dit leidt tot het meermaals verbinden van de oortjes en meermaals kiezen van een thema. Ondanks de waarschuwing of alles was gelukt van oortjes verbinden en thema kiezen tikte een respondent verder zonder deze acties allemaal te volbrengen. Bij de WhatsApp interface heeft niemand van de respondenten een thema gekozen. Wanneer ze hierop gewezen werden werd beweerd dat deze optie er niet was bij drie van de vier.   
+Naast de UMUX vragenlijst zijn er foutieve handelingen en bedenkingen van de respondenten neergeschreven. De interface gebaseerd op de papers wordt aanschouwd als makkelijk. Bij de niet afleidende interface drukken drie van de vier respondenten op de bluetooth statusknop in plaats van de verbindknop. De Strava interface had de moeilijkheid dat de respondent telkens naar het startscherm moet gaan om de opdracht verder te zetten. Dit leidt tot het meermaals verbinden van de oortjes en meermaals kiezen van een thema. Ook duurde het een tijd tegen dat de respondent doorhad dat hij moest terugkeren om verder te gaan. Ondanks de waarschuwing of alles was gelukt van oortjes verbinden en thema kiezen tikte een respondent verder zonder deze acties allemaal te volbrengen. Bij de WhatsApp interface heeft niemand van de respondenten een thema gekozen. Wanneer ze hierop gewezen werden werd beweerd dat deze optie er niet was bij drie van de vier.   
 
 #### Behuizing
 De scores in de decision matrix worden per gebruiker omgezet volgens onderstaande tabel.
@@ -295,7 +295,12 @@ In onderstaande tabel staan de totaalsom van elk kenmer per concept. Deze zijn o
 
 ### Conclusies & implicaties
 #### Interface
+Uit bovenstaande resultaten wordt duidelijk dat de interfaces die het best scoren degene zijn met grote knoppen en weinig afleidende informatie op het scherm. Een groot verschil tussen deze twee interfaces is het statussymbool van de bluetoothverbinding. Bij de paperinterface is dit een klein bolletje dat van rood naar groen verandert indien verbonden. Bij de niet afleidende interface is dit een grote cirkel. Uit de observatie wordt duidelijk dat deze cirkel een signaal afgeeft dat de gebruiker hierop moet tikken. 
+Beide interfaces met ed hoogste scores zijn lineaire interfaces. De gebruiker kan niets anders doen tot de taak voltooid is. De andere twee interfaces zijn matrix interfaces. Bij beide van deze interfaces duurde het langer om de opdracht te voltooien en was dit soms gepaard met de opdracht niet compleet te voltooien.
+
+
 #### Behuizing
+Het concept waarbij het doosje een deksel heeft ligt duidelijk het meest in de smaak. 
 
 ## Bill of materials
 1. Hardware: LED-strips, speakers, microcontroller (arduino), voeding, basis arduino kit
