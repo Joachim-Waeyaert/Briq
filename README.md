@@ -224,7 +224,7 @@ De oplossing voor dit probleem werd gevonden door het gebruik van de library 'Se
 Tijdens de laatste fase van de ontwikkelingsronde lag de focus op de vormgeving van de behuizing van het uiteindelijke product en de interface die de interactie met de gebruiker faciliteert.
 
 #### Interface
-Om bij de Briq gebruiksvriendelijk te maken en bovendien frustraties weg te werken is een goede interface essentieel. 
+Om de Briq gebruiksvriendelijk te maken en bovendien frustraties weg te werken is een goede interface essentieel. Om die reden zijn er vier verschillende interfaces die getest worden. Per interface is er een andere insteek gebruikt. De eerste interface is gebaseerd op WhatsApp, een populaire app onder de ouderen (Sánchez-Juárez Pradal, 2019). Het tweede prototype legt de focus op een interface die zeer basis is. Er zijn geen bepaalde aandachtstrekkers verwerkt in het scherm. Als derde interface wordt er onderzoek gedaan op google scholar naar papers over gebruiksvriendelijke interfaces voor ouderen. Het vierde en laatste interface zwenkt meer af naar de sportcontext. Deze is gebaseerd op de populaire Strava app. Ook heeft deze interface nog een toevoeging, een coach die je door de verschillende schermen leidt. Voor een meer diepgaande analyse over de opbouw van de interface is deze raadpleegbaar in Bijlage 14.  
 
 #### behuizing
 Om een idee te krijgen over hoe een mooie behuizing kon worden uitgewerkt werd eerst en vooral iteraties gedaan op papier. Waarna een selectie van die iteraties in karton zijn uitgewerkt om een eerste tastbare indruk te krijgen van de behuizingen. 
