@@ -278,6 +278,17 @@ De scores in de decision matrix worden per gebruiker omgezet volgens onderstaand
 |----|----|----|----|----|
 | -2 | -1 | 0  | 1  | 2  |
 
+|               | concept 1 | concept 2 | concept 3 | concept 4 | concept 5 | concept 6 |
+|---------------|-----------|-----------|-----------|-----------|-----------|-----------|
+| betrouwbaarheid | -1        | 7         | 2         | 1         | 6         | 5         |
+| stevigheid     | 7         | 6         | 8         | 3         | 4         | 7         |
+| elegantie      | 7         | 4         | -8        | 4         | 4         | -4        |
+| sportief       | 0         | 3         | -7        | 3         | 7         | -5        |
+| materiaal      | 2         | 6         | 0         | 1         | 5         | 4         |
+| aantrekkelijk  | 6         | 5         | -5        | 4         | 7         | -2        |
+| ergonomisch    | 4         | 8         | -1        | 3         | 7         | -4        |
+| stijl          | 5         | 3         | -7        | 4         | 5         | -3        |
+| **totaal**     | **30**    | **42**    | **-18**   | **23**    | **45**    | **-2**    |
 
 
 
