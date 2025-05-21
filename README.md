@@ -241,13 +241,20 @@ De onderstaande afbeeldingen geven de uitgewerkte prototypes weer.
   <img src="/img/Prototype3_develop.jpg" width="30%">
 </p>
 
-Deze foto's van de kartonnen prototypes zijn op hun beurt beide twee maal in Vizcom verwerkt met zes verschillende stijlen. Twee ervan gaan terug naar de tijd van de ouderen, het modernisme en art deco. Twee andere stijlen zijn gebaseerd op producten van Smeg en Dieter Rams (Braun). Voor de laatste twee stijlen wordt er meer in sportcontext een render gevisualiseerd.  
-
-In een volgende stap werd met behulp van Vizcom onderzocht welk gevoel het product moet overbrengen op de gebruiker. Dit gebeurde door het creëren van diverse moodboards die de gewenste sfeer en uitstraling visueel weergeven. Samen met het moodboard werd dan een foto van een van de prototypes upgeload, om dan aan de slag te gaan in een AI gestuurde foto bewerker waar je gebieden van het prototype kon aanduiden die er anders moesten uitzien. Zo werden onderstaande 'uitgewerkte' renders ontwikkeld om een nog betere look en feel te krijgen van hoe het er potentieel zou kunnen uitzien. 
+In een volgende stap werd met behulp van Vizcom onderzocht welk gevoel het product moet overbrengen op de gebruiker. Dit gebeurde door het creëren van diverse moodboards die de gewenste sfeer en uitstraling visueel weergeven. Samen met het moodboard werd dan een foto van een van de prototypes upgeload, om dan aan de slag te gaan in een AI gestuurde foto bewerker waar je gebieden van het prototype kon aanduiden die er anders moesten uitzien. Zo werden onderstaande 'uitgewerkte' renders ontwikkeld om een nog betere look en feel te krijgen van hoe het er potentieel zou kunnen uitzien. Voor een uitgebreidere analyse van de Vizcom renders is deze raadpleegbaar in [bijlage 14](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EWJNR97-HidJr0l_aQn86SYBAPjInbjvQXtynCUaRM3Meg?e=vYPmrd). 
 
 
---------foto-----------
-Deze renders werden dan voorgesteld aan onze doelgroep met behulp van een decision matrix een beeld geschept over hoe zij de uitwerkingen van de producten inschatten en welk gevoel ze daarbij hebben. Met deze info kan dan aan de slag worden gegaan om een uiteindelijke behuizing te maken voor de Briq. 
+<p align="center">
+  <img src="img/clean_style.png" width="30%">
+  <img src="/img/smeg_style.png" width="30%">
+  <img src="/img/modernisme_style.png" width="30%">
+</p>
+<p align="center">
+  <img src="img/racecar_style.png" width="30%">
+  <img src="/img/braun_style.png" width="30%">
+  <img src="/img/art_deco_style.png" width="30%">
+</p>
+Deze renders worden dan voorgesteld aan de doelgroep en met behulp van een decision matrix een beeld geschept over hoe zij de uitwerkingen van de producten inschatten en welk gevoel ze daarbij hebben. Met deze info kan dan aan de slag worden gegaan om een uiteindelijke behuizing te maken voor de Briq. 
 
 
 
