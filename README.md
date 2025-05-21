@@ -270,10 +270,13 @@ Deze renders worden dan voorgesteld aan de doelgroep en met behulp van een decis
 Alvorens de vragen uit de UMUX lijst te vergelijken wordt de Cronbach's alpha berekent om de betrouwbaarheid van de vragenlijst te verifiëren. Deze heeft een score van 0,93 wat wil zeggen dat de lijst betrouwbaar is.
 De resultaten uit de UMUX vragenlijst geven een duidelijke verdeling weer in de verdeling van gebruiksvriendelijkheid tussen de interfaces. Gemiddeld gezien scoort de interface met als basis de papers het beste. De niet afleidende interface volgt als tweede gevolg door de Strava geïnspireerde interface. Verassingwekkend scoort de WhatsApp interface het slechts, met een gemiddelde score van 4,5. 
 
-Naast de UMUX vragenlijst zijn er foutieve handelingen en bedenkingen van de respondenten neergeschreven. De interface gebaseerd op de papers wordt aanschouwd als makkelijk. Bij de niet afleidende interface drukken drie van de vier respondenten op de bluetooth statusknop in plaats van de verbindknop. De Strava interface had de moeilijkheid dat de respondent telkens naar het startscherm moet gaan om de opdracht verder te zetten. Dit leidt tot het meermaals verbinden van de oortjes en meermaals kiezen van een thema. Ondanks de waarschuwing of alles was gelukt van oortjes verbinden en thema kiezen Bij de WhatsApp interface heeft niemand van de respondenten een thema gekozen. Wanneer ze hierop gewezen werden werd beweerd dat deze optie er niet was bij drie van de vier.   
+Naast de UMUX vragenlijst zijn er foutieve handelingen en bedenkingen van de respondenten neergeschreven. De interface gebaseerd op de papers wordt aanschouwd als makkelijk. Bij de niet afleidende interface drukken drie van de vier respondenten op de bluetooth statusknop in plaats van de verbindknop. De Strava interface had de moeilijkheid dat de respondent telkens naar het startscherm moet gaan om de opdracht verder te zetten. Dit leidt tot het meermaals verbinden van de oortjes en meermaals kiezen van een thema. Ondanks de waarschuwing of alles was gelukt van oortjes verbinden en thema kiezen tikte een respondent verder zonder deze acties allemaal te volbrengen. Bij de WhatsApp interface heeft niemand van de respondenten een thema gekozen. Wanneer ze hierop gewezen werden werd beweerd dat deze optie er niet was bij drie van de vier.   
 
 #### Behuizing
-
+De scores in de decision matrix worden per gebruiker omgezet volgens onderstaande tabel.
+| -- | -  | +- | +  | ++ |
+|----|----|----|----|----|
+| -2 | -1 | 0  | 1  | 2  |
 
 
 
