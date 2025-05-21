@@ -245,14 +245,14 @@ In een volgende stap werd met behulp van Vizcom onderzocht welk gevoel het produ
 
 
 <p align="center">
-  <img src="img/clean_style.png" width="30%">
-  <img src="/img/smeg_style.png" width="30%">
-  <img src="/img/modernisme_style.png" width="30%">
+  <img src="img/clean_style.png" height="200px">
+  <img src="/img/smeg_style.png" height="200px">
+  <img src="/img/modernisme_style.png" height="200px">
 </p>
 <p align="center">
-  <img src="img/racecar_style.png" width="30%">
-  <img src="/img/braun_style.png" width="30%">
-  <img src="/img/art_deco_style.png" width="30%">
+  <img src="img/racecar_style.png" height="200px">
+  <img src="/img/braun_style.png" height="200px">
+  <img src="/img/art_deco_style.png" height="200px">
 </p>
 Deze renders worden dan voorgesteld aan de doelgroep en met behulp van een decision matrix een beeld geschept over hoe zij de uitwerkingen van de producten inschatten en welk gevoel ze daarbij hebben. Met deze info kan dan aan de slag worden gegaan om een uiteindelijke behuizing te maken voor de Briq. 
 
