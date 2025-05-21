@@ -241,6 +241,8 @@ De onderstaande afbeeldingen geven de uitgewerkte prototypes weer.
   <img src="/img/Prototype3_develop.jpg" width="30%">
 </p>
 
+Deze foto's van de kartonnen prototypes zijn op hun beurt beide twee maal in Vizcom verwerkt met zes verschillende stijlen. Twee ervan gaan terug naar de tijd van de ouderen, het modernisme en art deco. Twee andere stijlen zijn gebaseerd op producten van Smeg en Dieter Rams (Braun). Voor de laatste twee stijlen wordt er meer in sportcontext een render gevisualiseerd.  
+
 In een volgende stap werd met behulp van Vizcom onderzocht welk gevoel het product moet overbrengen op de gebruiker. Dit gebeurde door het creëren van diverse moodboards die de gewenste sfeer en uitstraling visueel weergeven. Samen met het moodboard werd dan een foto van een van de prototypes upgeload, om dan aan de slag te gaan in een AI gestuurde foto bewerker waar je gebieden van het prototype kon aanduiden die er anders moesten uitzien. Zo werden onderstaande 'uitgewerkte' renders ontwikkeld om een nog betere look en feel te krijgen van hoe het er potentieel zou kunnen uitzien. 
 
 
