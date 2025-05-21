@@ -300,7 +300,9 @@ Beide interfaces met ed hoogste scores zijn lineaire interfaces. De gebruiker ka
 
 
 #### Behuizing
-Het concept waarbij het doosje een deksel heeft ligt duidelijk het meest in de smaak. 
+Uit de voorkeuren van de doelgroep blijkt duidelijk dat een behuizing met een deksel het meest gewaardeerd wordt. Dit kan duiden op een associatie met gebruiksgemak, bescherming van het product en een vertrouwd ‘doosje’-gevoel. De consistentie in scores tussen paren van concepten die gebaseerd zijn op hetzelfde kartonnen prototype, onderstreept dat de vorm en uitstraling van het basisontwerp sterk bepalend zijn voor de waardering.
+
+Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision matrix aan dat stevigheid, ergonomie en aantrekkelijkheid belangrijke factoren zijn die positief bijdragen aan de totaalbeoordeling. Dit impliceert dat het uiteindelijke ontwerp een balans moet vinden tussen een robuuste, comfortabele vorm en een esthetisch aantrekkelijke uitstraling.
 
 ## Bill of materials
 1. Hardware: LED-strips, speakers, microcontroller (arduino), voeding, basis arduino kit
