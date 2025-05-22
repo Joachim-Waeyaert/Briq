@@ -217,9 +217,14 @@ Tijdens de definition- en ontwikkelfase werd duidelijk dat de frustraties die ti
 De oplossing voor dit probleem werd gevonden door het gebruik van de library 'SentenceTransformer'. Deze library zet zinnen om in numerieke reeksen (vectoren) die de semantische betekenis van de zin representeren. Zowel de vraag als het antwoord worden op deze manier omgezet in een vector. Met behulp van cosinus-similariteit worden de twee vectoren vergeleken op basis van hun richting. Wanneer de richting van beide vectoren binnen een vooraf gedefinieerde drempelwaarde ligt, wordt het antwoord alsnog als correct geaccepteerd, ondanks mogelijke variaties in formulering.
 
 ## Develop 2 (N=4)
-
 ### Doelstellingen
+In de tweede fase van het ontwerpproces wordt de focus gelegd op de ergonomie van het oortje. Het is van groot belang dat deze tijdens het sporten goed zitten zonder irritatie te veroorzaken na een langere tijdsperiode (meer dan 1u). Desondanks is het vereist dat de oortjes bij bruuskere bewegingen niet uit het oor vallen.
+
 ### Materiaal en methoden
+Voor deze develop fase worden de oortjes gemaakt uit een stuk ijzerdraad met daarrond plasticine. Deze methode zorgt ervoor dat er op een makkelijke en snelle manier veel verschillende vormen geëxploreerd kunnen worden. Aansluitend is dit ook ideaal om organische vormen te prototypen. Omwille van het feit dat de BRIQ doos gemaakt wordt met als doel dat het wordt uitgeleend door sportcentra en/of rusthuizen worden de oortjes ontworpen vanuit het idee dat het via bone conduction werkt. Dit zit niet in het oorkanaal wat op vlak van hygiëne een belangrijk pluspunt is.
+
+Twee van de oortjes (eerste en laatste oortje op onderstaande foto) zijn hetzelfde van vorm. Het enige verschil tussen deze twee is de grootte van het oortje. Beide oortjes rusten op de bovenkant van het oor. Het derde prototype (tweede oortje van links) gaat ook langs de bovenkant van het oor maar maakt gebruik van een beugel die rond het hoofd gaat. Deze beugel zit in de test om te zien of het voor meer stevigheid zorgt tijdens het sporten. Het laatste oortje (derde oortje van links) gaat langs de onderkant van het oor. De bovenkant heeft een klein haakje zodat het blijft hangen, het speakergedeelte gaat rond de onderkant tot aan het bot voor de boneconduction oortjes
+
 ### Resultaten
 ### Conclusies en implicaties
 
