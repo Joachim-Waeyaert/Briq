@@ -246,7 +246,7 @@ De interfaces worden getest door op elk van de interfaces dezelfde opdracht uit 
 
 #### Behuizing
 Om een idee te krijgen over hoe een mooie behuizing kon worden uitgewerkt werd eerst en vooral iteraties gedaan op papier. Waarna een selectie van die iteraties in karton zijn uitgewerkt om een eerste tastbare indruk te krijgen van de behuizingen. 
-De onderstaande afbeeldingen geven de uitgewerkte prototypes weer.
+De onderstaande afbeeldingen geven de uitgewerkte prototypes weer. Bij het eerste prototype is het scherm langs de bovenkant. De oortjes hangen vast aan de zijkant. Het tweede prototype maakt gebruik van een deksel om het scherm en oortjes te beschermen. Het laatste prototype heeft aparte schuifjes voorzien voor de oortjes.
 
 <p align="center">
   <img src="img/Prototype1_develop.jpg" width="30%">
@@ -300,7 +300,7 @@ In onderstaande tabel staan de totaalsom van elk kenmer per concept. Deze zijn o
 ### Conclusies & implicaties
 #### Interface
 Uit bovenstaande resultaten wordt duidelijk dat de interfaces die het best scoren degene zijn met grote knoppen en weinig afleidende informatie op het scherm. Een groot verschil tussen deze twee interfaces is het statussymbool van de bluetoothverbinding. Bij de paperinterface is dit een klein bolletje dat van rood naar groen verandert indien verbonden. Bij de niet afleidende interface is dit een grote cirkel. Uit de observatie wordt duidelijk dat deze cirkel een signaal afgeeft dat de gebruiker hierop moet tikken. 
-Beide interfaces met ed hoogste scores zijn lineaire interfaces. De gebruiker kan niets anders doen tot de taak voltooid is. De andere twee interfaces zijn matrix interfaces. Bij beide van deze interfaces duurde het langer om de opdracht te voltooien en was dit soms gepaard met de opdracht niet compleet te voltooien.
+Beide interfaces met de hoogste scores zijn lineaire interfaces. Dit soort interfaces hebben per deelopdracht een apart scherm. Pas wanneer deze deelopdracht is voltooid kan de gebruiker verder naar het volgende deel. De andere twee interfaces zijn matrix interfaces. Bij beide van deze interfaces duurde het langer om de opdracht te voltooien en was dit soms gepaard met de opdracht niet compleet te voltooien.
 Het gebruik van de coach werkt omgekeerd dan gedacht. De gebruikers tikken op de coach wat zorgt voor onnodige interactie die nergens tot leidden. Daarnaast deden ze bepaalde delen van de opdracht meerdere keer omdat de coach dit telkens opnieuw zei. Daarom dat de coach wordt weggelaten in het finale prototype.
 
 
