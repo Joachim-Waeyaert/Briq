@@ -173,28 +173,34 @@ Het systeem bestaat dus uit een console met een geïntegreerde microcomputer die
 
 ## Develop 1 (N=4)
 ### Doelstellingen
-De eerste develop test is om te kijken of de oortjes een goede impact hebben op de gebruikservaring. Het is noodzakelijk dat de gebruikers de vragen goed kunnen horen evenals elkaar. Indien de communicatie wordt belemmerd tussen de spelers heeft dit een enorme impact op het tennissen en het plezier ervan. Naast het technische van de oortjes is het belangrijk dat de vragen door het programma klaar en duidelijk aankomen bij de respondent. 
+De eerste develop test is om te kijken of de oortjes een goede impact hebben op de gebruikservaring. Het is noodzakelijk dat de gebruikers de vragen goed kunnen horen evenals elkaar. Indien de communicatie wordt belemmerd tussen de spelers heeft dit een enorme impact op het tennissen en het plezier ervan. Naast het technische van de oortjes is het belangrijk dat de vragen door het programma klaar en duidelijk aankomen bij de respondent. In de vorige testen was duideijk dat een te moeilijke uitdaging het spel verhinderde. Het doel in deze wave is om de uitdagingen op het juiste niveau te brengen zodat het nog steeds leuk blift.
 
 ### Materiaal en methoden
 Tijdens de eerste ronde van de Develop-fase werd de vraag gesteld of er alternatieve methoden zijn om de vragen duidelijker over te brengen naar de gebruikers. In de tweede testfase (Wave 2 van de Definition-fase) werd vastgesteld dat de oorspronkelijke opzet met luidsprekers niet optimaal was. Het omgevingsgeluid bleek moeilijk te controleren, en bovendien varieerden de gehoorcapaciteiten van de gebruikers. Daarom werd besloten om de vragen via draadloze oortjes te formuleren. In de eerste Develop-fase werd deze methode vervolgens getest.
 
-Voor deze test is er een pythonscript ontwikkeld. Deze versie van het script legt de focus op de text-to-speech module van de vragen. De werking van het script is terug te vinden in onderstaande flowchart. Aangezien het script nog niet ten volle werkende was, werd deze bediend door een _Wizard_. De vier testpersonen krijgen allemaal een oortje die via bluetooth verbonden zijn aan de laptop die de _Wizard_ bediend. 
+Voor deze test is er een pythonscript ontwikkeld. Deze versie van het script legt de focus op de text-to-speech module van de vragen. De werking van het script is terug te vinden in onderstaande flowchart. Aangezien het script nog niet ten volle werkende was, werd deze bediend door een _Wizard_. De vier testpersonen krijgen allemaal een oortje die via bluetooth verbonden zijn aan de laptop die de _Wizard_ bediend. In dit python script zit een lijst aan vragen en uitdagingen verwerkt. Deze uitdagingen worden op haalbaarheid getest.
 <p align="center">
-  <img src="img/flowchart.png" height="300px">
+  <img src="img/flowchart.jpg" height="300px">
 </p>
+
+Na deze test wordt er met de gebruikers nog kort samengezeten om enkele vragen te overlopen. Een diepgaandere analyse is te raadplegen in [bijlage 10](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EaXPK_wpEgFAmV5XwKpGdbABpYaKwYSgQxv-ZS_ocufr3A?e=Zv4NPD).
 
 
 ### Resultaten
+#### Oortjes
+De oortjes geven een betere ervaring dan de luidspreker. De vragen zijn goed verstaanbaar waardoor het spel soepel gespeeld kan worden. Er wordt veel minder gevraagd om de vraag opnieuw te herhalen. Desondanks zijn er enkele problemen met de oortjes. Doordat de bluetooth verbinding niet altijd stabiel is komt het geluid krakend aan wat leidt tot het moeten herhalen van een vraag. Bij te bruuske bewegingen vallen de oortjes uit de oren wat het spel hindert. 
+
+#### Uitdagingen
+De uitdagingen zijn duidelijk om uit te voeren. Deze duidelijkheid en beperkte hinder die de uitdaging toebrengt aan het tennissen zorgen voor een positieve ervaring. 
+
+#### Pythonprogramma
+De text-to-speech module werkt goed, de spelers kunnen de vragen en uitdagingen goed verstaan. Hoe dan ook komen er enkele technische beperkingen met zich mee. PyGame had af en toe een onderbreking. Dit verstoort de continuïteit van het spel. Deze storing kan te wijden zijn aan de beperkte wifi verbinding. De sporthal waar de test is afgenomen is volledig uit beton. 
+
 ### Conclusies en implicaties
+Deze test toont aan dat er veel potentieel zit in het gebruik van oortjes. De continuïteit van het spel blijft hoog hierdoor. Deze manier zorgt ervoor dat de add-on die BRIQ aanbiedt wordt geapreccieerd en gewaardeerd. Om deze continuïteit te houden is een stabiele bluetooth verbinding tussen de centrale console en de oortjes essentieel. De ergonomie van de oortjes zit nu niet goed. Bij deze test zat het in de oren. 
+De text-to-speech module geeft een duidelijke vraag weer. Op deze methode wordt er verdergebouwd. Tijdens de test wordt duidelijk dat de gebruikers omwille van verschillende accenten en dialecten anders antwoorden. Het programma zal ene fluïde manier moeten hebben om de antwoorden te registreren. 
 
 
-Voor deze test droegen beide partijen draadloze oortjes die verbonden waren met een Python-script. Dit script, onder controle van de Wizard, stelde de vragen één voor één aan de gebruiker via een text-to-speech module. Daarnaast bevatte het script een validatieknop waarmee werd aangegeven of een antwoord correct was. Indien een antwoord foutief was, kreeg de gebruiker een bijbehorende opdracht te horen.
-
-De testresultaten toonden een significant verschil in vergelijking met de luidsprekers. De vragen werden duidelijk overgebracht, en de gebruikers ervaarden de methode als prettig, omdat deze minimale verstoring van hun spel veroorzaakte terwijl ze mentaal werden geprikkeld.
-
-Ondanks het positieve verloop van de test werd een belangrijk knelpunt geïdentificeerd: de Bluetooth-verbinding van de oortjes. De gebruikte oortjes waren van lage kwaliteit, omdat ze enkel voor de test waren aangeschaft. Dit resulteerde in krakende geluiden, vooral wanneer de respondent zich verder van de computer bevond. Dit probleem had een negatieve invloed op het spelplezier en de testervaring.
-
-Uit de testanalyse blijkt dat het gebruik van oortjes een duidelijke meerwaarde biedt ten opzichte van luidsprekers, mits enkele verbeteringen worden doorgevoerd, zoals een stabielere Bluetooth-verbinding, een ergonomisch beter passend ontwerp en een verbeterde volumeregeling.
 <p align="center">
   <img src="img/develop1.1.jpg" height="300px">
   <img src="img/develop1.2.jpg" height="300px">
