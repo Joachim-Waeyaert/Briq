@@ -155,8 +155,7 @@ Uit deze twee gebruikerstesten zijn er enkele belangrijke elementen voortgekomen
 > - D3.2 De vragen mogen maximaal één regel lang zijn.
 > - D3.3 Tussen de vragen mag er maximaal tien seconden pauze zitten.
 > - D4.1 Het vermelden van de kleur moet zowel auditief als visueel duidelijk zijn.
-> - D4.2 De kleuraanwijzing moet zich aan de bovenkant van het net bevinden.
-> - D4.3 De intensiteit van het licht moet duidelijk zichtbaar zijn in een goed verlichte omgeving.
+
 # Developing fase 
 In deze fase wordt het oorspronkelijke concept verder ontwikkeld tot een fysiek product. Dit proces is opgedeeld in verschillende fasen, waarbij telkens tests worden uitgevoerd met de doelgroep. Op deze manier wordt het product op een gerichte en gebruiksvriendelijke manier geoptimaliseerd tot een multisensoriële ervaring.
 
