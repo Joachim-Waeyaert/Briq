@@ -227,6 +227,8 @@ De oplossing voor dit probleem werd gevonden door het gebruik van de library 'Se
 Tijdens de laatste fase van de ontwikkelingsronde lag de focus op de vormgeving van de behuizing van het uiteindelijke product en de interface die de interactie met de gebruiker faciliteert.
 
 ### Doelstellingen
+In deze derde ontwikkelingsronde ligt de focus op het verbeteren van zowel de gebruikersinterface als de behuizing van het product. Het doel is om te onderzoeken welke interface zonder voorafgaande uitleg het eenvoudigst te gebruiken is door de doelgroep (65+), en welke fouten hierbij frequent voorkomen. Daarnaast wordt er gekeken naar welke visuele en fysieke elementen van de behuizing bijdragen aan een positieve gebruikerservaring op vlak van esthetiek, kwaliteit en gebruiksgemak. De resultaten uit deze ronde vormen een belangrijke basis voor het eindproduct.
+
 
 
 ### Materiaal en methoden
