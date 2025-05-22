@@ -172,7 +172,21 @@ Het systeem bestaat dus uit een console met een geïntegreerde microcomputer die
 
 
 ## Develop 1 (N=4)
+### Doelstellingen
+De eerste develop test is om te kijken of de oortjes een goede impact hebben op de gebruikservaring. Het is noodzakelijk dat de gebruikers de vragen goed kunnen horen evenals elkaar. Indien de communicatie wordt belemmerd tussen de spelers heeft dit een enorme impact op het tennissen en het plezier ervan. Naast het technische van de oortjes is het belangrijk dat de vragen door het programma klaar en duidelijk aankomen bij de respondent. 
+
+### Materiaal en methoden
 Tijdens de eerste ronde van de Develop-fase werd de vraag gesteld of er alternatieve methoden zijn om de vragen duidelijker over te brengen naar de gebruikers. In de tweede testfase (Wave 2 van de Definition-fase) werd vastgesteld dat de oorspronkelijke opzet met luidsprekers niet optimaal was. Het omgevingsgeluid bleek moeilijk te controleren, en bovendien varieerden de gehoorcapaciteiten van de gebruikers. Daarom werd besloten om de vragen via draadloze oortjes te formuleren. In de eerste Develop-fase werd deze methode vervolgens getest.
+
+Voor deze test is er een pythonscript ontwikkeld. Deze versie van het script legt de focus op de text-to-speech module van de vragen. De werking van het script is terug te vinden in onderstaande flowchart. Aangezien het script nog niet ten volle werkende was, werd deze bediend door een _Wizard_. De vier testpersonen krijgen allemaal een oortje die via bluetooth verbonden zijn aan de laptop die de _Wizard_ bediend. 
+<p align="center">
+  <img src="img/flowchart.png" height="300px">
+</p>
+
+
+### Resultaten
+### Conclusies en implicaties
+
 
 Voor deze test droegen beide partijen draadloze oortjes die verbonden waren met een Python-script. Dit script, onder controle van de Wizard, stelde de vragen één voor één aan de gebruiker via een text-to-speech module. Daarnaast bevatte het script een validatieknop waarmee werd aangegeven of een antwoord correct was. Indien een antwoord foutief was, kreeg de gebruiker een bijbehorende opdracht te horen.
 
