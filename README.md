@@ -216,6 +216,12 @@ Tijdens de definition- en ontwikkelfase werd duidelijk dat de frustraties die ti
 
 De oplossing voor dit probleem werd gevonden door het gebruik van de library 'SentenceTransformer'. Deze library zet zinnen om in numerieke reeksen (vectoren) die de semantische betekenis van de zin representeren. Zowel de vraag als het antwoord worden op deze manier omgezet in een vector. Met behulp van cosinus-similariteit worden de twee vectoren vergeleken op basis van hun richting. Wanneer de richting van beide vectoren binnen een vooraf gedefinieerde drempelwaarde ligt, wordt het antwoord alsnog als correct geaccepteerd, ondanks mogelijke variaties in formulering.
 
+De gewenste gebruikersinterface is ontworpen in Figma en grondig onderzocht tijdens de ontwerpfase van develop 3. Voor het prototypen en testen van de programmalogica is gekozen voor een vereenvoudigde interface, ontwikkeld met behulp van Tkinter. Dit om wat tijd te besparen in het testen van de code. 
+
+De huidige versie van de interface bevat nog niet het uiteindelijke ontwerp uit Figma, aangezien deze fase voornamelijk gericht is op het aantonen van de functionele werking van het programma. Het is de bedoeling dat uiteindelijk de Figma-interface volledig geïntegreerd wordt in de Python code.
+
+Om dieper in te gaan op de technische werking van het programma is een aparte handleiding opgesteld. Deze handleiding biedt een overzicht van de gebruikte code, legt stap voor stap de werking uit en bevat instructies voor installatie en gebruik. Die handleiding kunt u terugvinden onder ----->>>>>> hier moet link komen naar de handleiding van de onedrive--------<
+
 ## Develop 2 (N=4)
 ### Doelstellingen
 In de tweede fase van het ontwerpproces wordt de focus gelegd op de ergonomie van het oortje. Het is van groot belang dat deze tijdens het sporten goed zitten zonder irritatie te veroorzaken na een langere tijdsperiode (meer dan 1u). Desondanks is het vereist dat de oortjes bij bruuskere bewegingen niet uit het oor vallen.
