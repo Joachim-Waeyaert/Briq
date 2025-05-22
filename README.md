@@ -55,7 +55,7 @@ In de daaropvolgende fase werd het concept ontwikkeld op basis van de resultaten
 
 ## Discovery
 In dit onderdeel wordt onderzocht wat zich binnen de probleemruimte bevindt en of er mogelijke oplossingen voor deze kwesties gevonden kunnen worden. Om inzicht te krijgen in de probleemruimte worden enerzijds interviews afgenomen om te begrijpen hoe mensen het probleem ervaren, en anderzijds wordt gekeken naar bestaande oplossingen op de markt en de hiaten die benut kunnen worden.
-### doelstellingen
+### Doelstellingen
 Een duidelijke ‘how might we’ bekomen
 
 ### Materiaal & methoden
@@ -100,7 +100,7 @@ In deze fase werd er verder gewerkt op de conclusies uit de discovery fase. Aan 
   <img src="img/prototype_cilinder.jpg" height="300px">
 </p>
 
-### doelstellingen
+### Doelstellingen
 In dit deel van het ontwikkelingsproces de concepten verfijnen. Dit werd gedaan aan de hand van twee _Wizard of Oz_ testen. Dit resulteert in een duidelijke _"How can we"_ om verder mee aan de slag te gaan in het tweede semester.
 
 <p align="center">
