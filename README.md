@@ -226,7 +226,18 @@ Voor deze develop fase worden de oortjes gemaakt uit een stuk ijzerdraad met daa
 Twee van de oortjes (eerste en laatste oortje op onderstaande foto) zijn hetzelfde van vorm. Het enige verschil tussen deze twee is de grootte van het oortje. Beide oortjes rusten op de bovenkant van het oor. Het derde prototype (tweede oortje van links) gaat ook langs de bovenkant van het oor maar maakt gebruik van een beugel die rond het hoofd gaat. Deze beugel zit in de test om te zien of het voor meer stevigheid zorgt tijdens het sporten. Het laatste oortje (derde oortje van links) gaat langs de onderkant van het oor. De bovenkant heeft een klein haakje zodat het blijft hangen, het speakergedeelte gaat rond de onderkant tot aan het bot voor de boneconduction oortjes
 
 ### Resultaten
+Tijdens het testen van verschillende oortjesontwerpen kwamen duidelijke voorkeuren en knelpunten naar voren. Het model met een beugel rond het oor kreeg de meeste kritiek. Gebruikers gaven aan dat het lastig was aan te brengen, onvoldoende stabiel zat en fysieke ongemakken veroorzaakte, zoals schuren of druk tegen de schedel. Ook werd het ontwerp als omslachtig en zwaar ervaren, met het risico dat het bij beweging loskomt.
+
+Het oortje dat onder het oor door loopt, werd over het algemeen als comfortabeler beschouwd dan het beugelmodel, maar ook hier waren er opmerkingen over een losse pasvorm en een moeilijke plaatsing. De positionering bleek niet intuïtief en bood onvoldoende stabiliteit tijdens fysieke activiteit.
+
+Het model dat over de bovenkant van het oor loopt, presteerde het best. Dit ontwerp kreeg positieve feedback op vlak van stevigheid, comfort en stabiliteit. Hoewel er lichte hinder werd ervaren bij het dragen van een bril of tijdens het aanbrengen, werd dit model het vaakst als geschikt voor beweging omschreven.
+
+Tot slot scoorde het kleinere oortje dat eveneens boven het oor loopt wisselend. Het verraste gebruikers qua comfort, maar bleek onvoldoende stevig voor sportieve contexten. Bij de beweging gleed het vaak weg, wat de bruikbaarheid aanzienlijk beperkte.
+
 ### Conclusies en implicaties
+Uit de gebruikerstest blijkt dat het oortje dat over de bovenkant van het oor loopt, het meest geschikt is voor ouderen die actief zijn, bijvoorbeeld tijdens sporten zoals tennis. Dit model biedt een goede balans tussen comfort en stabiliteit. Andere varianten werden als te omslachtig, onvoldoende intuïtief of niet stabiel genoeg ervaren, wat ze minder geschikt maakt voor dynamisch gebruik.
+
+Belangrijke succesfactoren bleken een universele pasvorm, eenvoudige en intuïtieve plaatsing, en een ontwerp dat vrij is van visuele of fysieke barrières. Toch moet er rekening worden gehouden met individuele gebruikerskenmerken zoals het dragen van een bril, verminderde motoriek of gevoelige huid. Deze factoren hebben een aanzienlijke impact op de gebruikerservaring en dienen meegenomen te worden in het definitieve ontwerp.
 
 ## Develop 3 (N=4)
 Tijdens de laatste fase van de ontwikkelingsronde lag de focus op de vormgeving van de behuizing van het uiteindelijke product en de interface die de interactie met de gebruiker faciliteert.
