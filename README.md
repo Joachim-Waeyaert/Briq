@@ -171,7 +171,7 @@ Uit eerdere fasen, met name de Discovery-fase, blijkt dat de helderheid van de v
 Het systeem bestaat dus uit een console met een geïntegreerde microcomputer die de vragen valideert, registreert en doorstuurt. De vragen worden vervolgens via een geluidsuitvoer naar de gebruiker overgebracht.
 
 
-## Develop 1
+## Develop 1 (N=4)
 Tijdens de eerste ronde van de Develop-fase werd de vraag gesteld of er alternatieve methoden zijn om de vragen duidelijker over te brengen naar de gebruikers. In de tweede testfase (Wave 2 van de Definition-fase) werd vastgesteld dat de oorspronkelijke opzet met luidsprekers niet optimaal was. Het omgevingsgeluid bleek moeilijk te controleren, en bovendien varieerden de gehoorcapaciteiten van de gebruikers. Daarom werd besloten om de vragen via draadloze oortjes te formuleren. In de eerste Develop-fase werd deze methode vervolgens getest.
 
 Voor deze test droegen beide partijen draadloze oortjes die verbonden waren met een Python-script. Dit script, onder controle van de Wizard, stelde de vragen één voor één aan de gebruiker via een text-to-speech module. Daarnaast bevatte het script een validatieknop waarmee werd aangegeven of een antwoord correct was. Indien een antwoord foutief was, kreeg de gebruiker een bijbehorende opdracht te horen.
@@ -216,7 +216,7 @@ Tijdens de definition- en ontwikkelfase werd duidelijk dat de frustraties die ti
 
 De oplossing voor dit probleem werd gevonden door het gebruik van de library 'SentenceTransformer'. Deze library zet zinnen om in numerieke reeksen (vectoren) die de semantische betekenis van de zin representeren. Zowel de vraag als het antwoord worden op deze manier omgezet in een vector. Met behulp van cosinus-similariteit worden de twee vectoren vergeleken op basis van hun richting. Wanneer de richting van beide vectoren binnen een vooraf gedefinieerde drempelwaarde ligt, wordt het antwoord alsnog als correct geaccepteerd, ondanks mogelijke variaties in formulering.
 
-## Develop 2
+## Develop 2 (N=4)
 
 ### Doelstellingen
 ### Materiaal en methoden
@@ -227,6 +227,7 @@ De oplossing voor dit probleem werd gevonden door het gebruik van de library 'Se
 Tijdens de laatste fase van de ontwikkelingsronde lag de focus op de vormgeving van de behuizing van het uiteindelijke product en de interface die de interactie met de gebruiker faciliteert.
 
 ### Doelstellingen
+
 
 ### Materiaal en methoden
 #### Interface
@@ -300,6 +301,7 @@ In onderstaande tabel staan de totaalsom van elk kenmer per concept. Deze zijn o
 #### Interface
 Uit bovenstaande resultaten wordt duidelijk dat de interfaces die het best scoren degene zijn met grote knoppen en weinig afleidende informatie op het scherm. Een groot verschil tussen deze twee interfaces is het statussymbool van de bluetoothverbinding. Bij de paperinterface is dit een klein bolletje dat van rood naar groen verandert indien verbonden. Bij de niet afleidende interface is dit een grote cirkel. Uit de observatie wordt duidelijk dat deze cirkel een signaal afgeeft dat de gebruiker hierop moet tikken. 
 Beide interfaces met ed hoogste scores zijn lineaire interfaces. De gebruiker kan niets anders doen tot de taak voltooid is. De andere twee interfaces zijn matrix interfaces. Bij beide van deze interfaces duurde het langer om de opdracht te voltooien en was dit soms gepaard met de opdracht niet compleet te voltooien.
+Het gebruik van de coach werkt omgekeerd dan gedacht. De gebruikers tikken op de coach wat zorgt voor onnodige interactie die nergens tot leidden. Daarnaast deden ze bepaalde delen van de opdracht meerdere keer omdat de coach dit telkens opnieuw zei. Daarom dat de coach wordt weggelaten in het finale prototype.
 
 
 #### Behuizing
