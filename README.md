@@ -284,7 +284,7 @@ In deze derde ontwikkelingsronde ligt de focus op het verbeteren van zowel de ge
 
 ### Materiaal en methoden
 #### Interface
-Om de Briq gebruiksvriendelijk te maken en bovendien frustraties weg te werken is een goede interface essentieel. Om die reden zijn er vier verschillende interfaces die getest worden. Per interface is er een andere insteek gebruikt. De eerste interface is gebaseerd op WhatsApp, een populaire app onder de ouderen (Sánchez-Juárez Pradal, 2019). Het tweede prototype legt de focus op een interface die zeer basis is. Er zijn geen bepaalde aandachtstrekkers verwerkt in het scherm. Als derde interface wordt er onderzoek gedaan op google scholar naar papers over gebruiksvriendelijke interfaces voor ouderen. Het vierde en laatste interface zwenkt meer af naar de sportcontext. Deze is gebaseerd op de populaire Strava app. Ook heeft deze interface nog een toevoeging, een coach die je door de verschillende schermen leidt. Voor een meer diepgaande analyse over de opbouw van de interface is deze raadpleegbaar in [bijlage 14](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EWJNR97-HidJr0l_aQn86SYBAPjInbjvQXtynCUaRM3Meg?e=vYPmrd). 
+Om de Briq gebruiksvriendelijk te maken en bovendien frustraties weg te werken is een goede interface essentieel. Om die reden zijn er vier verschillende interfaces die getest worden. Per interface is er een andere insteek gebruikt. De eerste interface is gebaseerd op WhatsApp, een populaire app onder de ouderen (Sánchez-Juárez Pradal, 2019)[^3]. Het tweede prototype legt de focus op een interface die zeer basis is. Er zijn geen bepaalde aandachtstrekkers verwerkt in het scherm. Als derde interface wordt er onderzoek gedaan op google scholar naar papers over gebruiksvriendelijke interfaces voor ouderen (Lin, Hsieh, & Shiang, 2009; Zhao & Chen, 2020; Zhou et al., 2022)[^4][^5][^6]. Het vierde en laatste interface zwenkt meer af naar de sportcontext. Deze is gebaseerd op de populaire Strava app. Ook heeft deze interface nog een toevoeging, een coach die je door de verschillende schermen leidt. Voor een meer diepgaande analyse over de opbouw van de interface is deze raadpleegbaar in [bijlage 14](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EWJNR97-HidJr0l_aQn86SYBAPjInbjvQXtynCUaRM3Meg?e=vYPmrd). 
 
 <p align="center">
   <img src="img/whatsapp.png" height="300px">
@@ -444,9 +444,11 @@ Kortom, deze reflectie benadrukt niet alleen de kracht van samenwerking en flexi
 - Bijlage 16: [Handleiding python](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EZiMYHiFnaRJllkjAzpcveQB6Tu8fkxD4TQldyxbMwVdAw?e=pHDd6y)
   
 ## Bronnen
-[^1]: Bohn, K. (2021). _Socializing may improve older adults' cognitive function in daily life._ Geraadpleegd op 20 oktober 2024 via https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
-
-[^2]: Venesson, J. (2023). _Les myokines : l'hormone de jouvence produite par nos muscles._ Geraadpleegd op 10 oktober 2024 via https://www.julienvenesson.fr/myokines-jouvence/
-
+[^1]: Bohn, K. (2021). _Socializing may improve older adults' cognitive function in daily life._ Geraadpleegd op 20 oktober 2024 via https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life  
+[^2]: Venesson, J. (2023). _Les myokines : l'hormone de jouvence produite par nos muscles._ Geraadpleegd op 10 oktober 2024 via https://www.julienvenesson.fr/myokines-jouvence/  
+[^3]: Sánchez-Juárez Pradal, A. (2019). _Over 65s check WhatsApp, their application of choice, 17 times a day._ Universitat Oberta de Catalunya. https://www.uoc.edu/en/news/2019/043-whatsapp-older-people  
+[^4]: Lin, C. J., Hsieh, T. L., & Shiang, W. J. (2009). _Exploring the Interface Design of Mobile Phone for the Elderly._ In M. Kurosu (Ed.), Human Centered Design. HCII 2009. Lecture Notes in Computer Science, vol 5619, 476–481. https://link.springer.com/chapter/10.1007/978-3-642-02806-9_55  
+[^5]: Zhao, R.-Q., & Chen, L.-H. (2020). _Research on Interface Design for the Elderly._ In C. Stephanidis & M. Antona (Eds.), HCII 2020, CCIS 1226, 128–135. https://link.springer.com/chapter/10.1007/978-3-030-50732-9_18  
+[^6]: Zhou, C., Dai, Y., Huang, T., Zhao, H., & Kaner, J. (2022). _An Empirical Study on the Influence of Smart Home Interface Design on the Interaction Performance of the Elderly._ International Journal of Environmental Research and Public Health, 19 (9105). https://www.mdpi.com/1660-4601/19/15/9105  
 
 
