@@ -415,6 +415,22 @@ Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision m
 | D4.9   | De oortjes moeten licht zijn                                                          | User test      | 04-May   |
 
 ## Finaal prototype
+Na maanden van testen, bijsturen en ontwikkelen is het eindresultaat klaar: Briq – een speelse en doordachte trainingsmodule die fysieke activiteit en cognitieve stimulatie samenbrengt. Ontworpen voor 65-plussers, biedt Briq een laagdrempelige en motiverende manier om zowel lichaam als geest actief te houden. Het systeem legt de nadruk op eenvoud, plezier en sociale interactie, zonder in te boeten op functionaliteit of comfort.
+
+### Centrale console
+De console vormt het centrale punt van het systeem. Via een eenvoudig keuzemenu selecteert de gebruiker een thema en start het spel. De grote, duidelijke knoppen en het lineaire verloop maken de bediening vlot. Het ontwerp is robuust en intuïtief, wat zorgt voor vertrouwen bij de gebruiker. De afsluitbare behuizing beschermt het systeem en maakt het geschikt voor gebruik in sportieve omgevingen.
+
+### Draadloze oortjes
+Voor de auditieve begeleiding maakt Briq gebruik van bone conduction-oortjes. Deze technologie zorgt ervoor dat gesproken instructies helder en zonder afleiding worden weergegeven, zonder de oren af te sluiten. Het ergonomische ontwerp blijft goed zitten tijdens beweging en is ook bruikbaar in combinatie met een bril. De keuze voor draadloze oortjes draagt bij aan een opgeruimd en vrij gevoel tijdens het spel.
+
+### Spelervaring
+Briq combineert quizvragen met beweging, bijvoorbeeld tijdens het spelen van een netsport. Bij een goed antwoord gaat het spel naar het andere team; een fout antwoord resulteert in een korte, lichte uitdaging. Deze spelopzet stimuleert niet alleen het geheugen en reactievermogen, maar ook het groepsgevoel en de motivatie om te blijven meedoen. Door competitie en samenwerking te combineren ontstaat er een spelervaring die cognitief en fysiek prikkelt, zonder te overweldigen.
+
+### Gebruiksvriendelijkheid
+De interface is bewust eenvoudig gehouden. Grote knoppen, visuele en auditieve feedback en een herkenbare structuur zorgen ervoor dat gebruikers snel begrijpen hoe het systeem werkt. De interacties zijn lineair en duidelijk – een bewuste keuze om verwarring te vermijden. Briq is gericht op het versterken van zelfvertrouwen bij de gebruiker door technologie als hulpmiddel aan te bieden, niet als hindernis.
+
+### Conclusie
+Briq biedt een slimme, sociale én toegankelijke manier om ouderen actief te houden. Het systeem maakt preventieve stimulatie niet alleen haalbaar, maar ook aantrekkelijk. Door de combinatie van fysieke beweging, cognitieve uitdagingen en eenvoudige interactie toont Briq aan dat technologie perfect kan inspelen op de noden van een ouder wordende doelgroep – met plezier en gebruiksgemak als kernwaarden.
 
 ## Bill of materials
 1. Hardware: LED-strips, speakers, microcontroller (arduino), voeding, basis arduino kit
