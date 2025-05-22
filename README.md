@@ -281,7 +281,7 @@ De scores in de decision matrix worden per gebruiker omgezet volgens onderstaand
 In onderstaande tabel staan de totaalsom van elk kenmer per concept. Deze zijn op hun beurt opgeteld om de totaalsom per concept op te tellen. Al snel valt op dat er enige consitentie is tussen de concepten. De scores die per twee bij elkaar in de buurt liggen zijn telkens een Vizcom render vertrokken uit hetzelfde kartonnen prototype. 
 
 
-|               | concept 1 | concept 2 | concept 3 | concept 4 | concept 5 | concept 6 |
+|               |  <img src="img/clean_style.png"> | <img src="/img/smeg_style.png" > | <img src="/img/modernisme_style.png" > | <img src="img/racecar_style.png" > | <img src="/img/braun_style.png" > | <img src="/img/art_deco_style.png" > |
 |---------------|-----------|-----------|-----------|-----------|-----------|-----------|
 | betrouwbaarheid | -1        | 7         | 2         | 1         | 6         | 5         |
 | stevigheid     | 7         | 6         | 8         | 3         | 4         | 7         |
