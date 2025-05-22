@@ -149,12 +149,13 @@ Uit deze twee gebruikerstesten zijn er enkele belangrijke elementen voortgekomen
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D2.3 De strafmechanismen mogen geen grote impact hebben op het spel.
-> - D2.4 De puntenregistratie moet soepel en foutloos verlopen.
-> - D3.1 De spraakmodule moet luid en duidelijk zijn.
-> - D3.2 De vragen mogen maximaal één regel lang zijn.
-> - D3.3 Tussen de vragen mag er maximaal tien seconden pauze zitten.
-> - D4.1 Het vermelden van de kleur moet zowel auditief als visueel duidelijk zijn.
+> - D3.1	De strafmechanismen mogen geen grote impact hebben op het spel.
+> - D3.2	De puntenregistratie moet soepel en foutloos verlopen.
+> - D3.3	De spraakmodule moet luid en duidelijk zijn.
+> - D3.4	De vragen mogen maximaal één regel lang zijn.
+> - D3.5	Tussen de vragen mag er maximaal tien seconden pauze zitten.
+> - D3.6	Het vermelden van de uitdaging moet duidelijk zijn
+
 
 # Developing fase 
 In deze fase wordt het oorspronkelijke concept verder ontwikkeld tot een fysiek product. Dit proces is opgedeeld in verschillende fasen, waarbij telkens tests worden uitgevoerd met de doelgroep. Op deze manier wordt het product op een gerichte en gebruiksvriendelijke manier geoptimaliseerd tot een multisensoriële ervaring.
@@ -207,11 +208,11 @@ De text-to-speech module geeft een duidelijke vraag weer. Op deze methode wordt 
 
 > [!IMPORTANT]
 > Design Requirements:
-> D3.7	Het programma moet stabiel zijn
-> D3.8	De text-to-speech moet duidelijk zijn zonder kraken
-> D4.1	De bluetoothverbinding moet stabiel zijn
-> D4.2	De bluetoothverbinding moet minstens 15m kunnen overbruggen
-> D4.3	De oortjes moeten tijdens bewegen stevig vast blijven zitten
+> - D3.7	Het programma moet stabiel zijn
+> - D3.8	De text-to-speech moet duidelijk zijn zonder kraken
+> - D4.1	De bluetoothverbinding moet stabiel zijn
+> - D4.2	De bluetoothverbinding moet minstens 15m kunnen overbruggen
+> - D4.3	De oortjes moeten tijdens bewegen stevig vast blijven zitten
 
 
 ### Besturingsmodule
@@ -262,6 +263,16 @@ Tot slot scoorde het kleinere oortje dat eveneens boven het oor loopt wisselend.
 Uit de gebruikerstest blijkt dat het oortje dat over de bovenkant van het oor loopt, het meest geschikt is voor ouderen die actief zijn, bijvoorbeeld tijdens sporten zoals tennis. Dit model biedt een goede balans tussen comfort en stabiliteit. Andere varianten werden als te omslachtig, onvoldoende intuïtief of niet stabiel genoeg ervaren, wat ze minder geschikt maakt voor dynamisch gebruik.
 
 Belangrijke succesfactoren bleken een universele pasvorm, eenvoudige en intuïtieve plaatsing, en een ontwerp dat vrij is van visuele of fysieke barrières. Toch moet er rekening worden gehouden met individuele gebruikerskenmerken zoals het dragen van een bril, verminderde motoriek of gevoelige huid. Deze factoren hebben een aanzienlijke impact op de gebruikerservaring en dienen meegenomen te worden in het definitieve ontwerp.
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D4.4	De oortjes dienen langs de bovenkant van het oor bevestigd te worden
+> - D4.5	Het materiaal van de oortjes moet zacht en huidvriendelijk zijn
+> - D4.6	De oortjes moeten compatibel zijn om te dragen met een bril
+> - D4.7	De oortjes moeten intuïtief geplaatst worden
+> - D4.8	De oortjes moeten universeel zijn
+> - D4.9	De oortjes moeten licht zijn
+
 
 ## Develop 3 (N=4)
 Tijdens de laatste fase van de ontwikkelingsronde lag de focus op de vormgeving van de behuizing van het uiteindelijke product en de interface die de interactie met de gebruiker faciliteert.
@@ -350,6 +361,18 @@ Het gebruik van de coach werkt omgekeerd dan gedacht. De gebruikers tikken op de
 Uit de voorkeuren van de doelgroep blijkt duidelijk dat een behuizing met een deksel het meest gewaardeerd wordt. Dit kan duiden op een associatie met gebruiksgemak, bescherming van het product en een vertrouwd ‘doosje’-gevoel. De consistentie in scores tussen paren van concepten die gebaseerd zijn op hetzelfde kartonnen prototype, onderstreept dat de vorm en uitstraling van het basisontwerp sterk bepalend zijn voor de waardering.
 
 Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision matrix aan dat stevigheid, ergonomie en aantrekkelijkheid belangrijke factoren zijn die positief bijdragen aan de totaalbeoordeling. Dit impliceert dat het uiteindelijke ontwerp een balans moet vinden tussen een robuuste, comfortabele vorm en een esthetisch aantrekkelijke uitstraling.
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D2.1	De interface heeft maximaal twee knoppen per scherm
+> - D2.2	De interface heeft knoppen die minstens 15mm x 20mm zijn
+> - D2.3	De centrale console bevat een deksel
+> - D2.4	De centrale console is gemaakt uit robuuste materialen
+> - D2.5	De centrale console moet stevig gebouwd zijn
+> - D3.9	Het programma verloopt lineair 
+> - D3.10	De interface geeft duidelijke feedback bij acties
+> - D3.11	De interface heeft geen afleidende elementen
+
 
 ## List of Design Requirements
 | ID     | Design requirement                                                                    | Source         | Date     |
