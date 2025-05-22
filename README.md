@@ -218,7 +218,10 @@ De oplossing voor dit probleem werd gevonden door het gebruik van de library 'Se
 
 ## Develop 2
 
-
+### Doelstellingen
+### Materiaal en methoden
+### Resultaten
+### Conclusies en implicaties
 
 ## Develop 3 (N=4)
 Tijdens de laatste fase van de ontwikkelingsronde lag de focus op de vormgeving van de behuizing van het uiteindelijke product en de interface die de interactie met de gebruiker faciliteert.
