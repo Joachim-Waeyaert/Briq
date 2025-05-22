@@ -207,13 +207,12 @@ De text-to-speech module geeft een duidelijke vraag weer. Op deze methode wordt 
 
 > [!IMPORTANT]
 > Design Requirements:
-> - Stabiele Bluetooth-verbinding om krakend geluid en verbindingsproblemen te voorkomen.
-> - Een bluetoothverbinding die minstens 15m kan overbruggen.
-> - Ergonomisch ontwerp zodat de oortjes stevig blijven zitten tijdens beweging.
-> - Individuele volumeregeling voor optimaal luistercomfort per gebruiker.
-> - Robuust en stabiel Python-programma om crashes en vastlopers te minimaliseren.
-> - Duidelijke en goed verstaanbare text-to-speech functionaliteit zonder kraken.
-> - Compatibiliteit met verschillende Bluetooth-apparaten om flexibiliteit te waarborgen.
+> D3.7	Het programma moet stabiel zijn
+> D3.8	De text-to-speech moet duidelijk zijn zonder kraken
+> D4.1	De bluetoothverbinding moet stabiel zijn
+> D4.2	De bluetoothverbinding moet minstens 15m kunnen overbruggen
+> D4.3	De oortjes moeten tijdens bewegen stevig vast blijven zitten
+
 
 ### Besturingsmodule
 Tijdens de eerste ontwikkelfase (Develop 1) werd een deel van de back-endlogica ontwikkeld in Python, met als doel de eerste functionele testen uit te voeren. Deze basis werd doorheen de daaropvolgende ontwikkelfases verder verfijnd en uitgebreid.
@@ -372,7 +371,7 @@ Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision m
 | D3.4   | De vragen mogen maximaal één regel lang zijn                                          | Concept test   | 08-Dec   |
 | D3.5   | Tussen de vragen mag er maximaal tien seconden pauze zitten                           | Concept test   | 27-Dec   |
 | D3.6   | Het vermelden van de uitdaging moet duidelijk zijn                                    | Concept test   | 27-Dec   |
-| D3.7   | Het programma moet stabiel zijn                                                       | User test      | 11-Apr   |
+| D3.7   | Het programma moet stabiel zijn                                                       | User test      | 11-Mar   |
 | D3.8   | De text-to-speech moet duidelijk zijn zonder kraken                                   | User test      | 11-Mar   |
 | D3.9   | Het programma verloopt lineair                                                        | User test      | 18-May   |
 | D3.10  | De interface geeft duidelijke feedback bij acties                                     | User test      | 18-May   |
