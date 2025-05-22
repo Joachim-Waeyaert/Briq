@@ -18,6 +18,10 @@ Door deze drie aspecten te combineren met een multisensorische aanpak, kan demen
 
 > [!NOTE]
 > - Links naar volledige protocollen en reports zijn te vinden onder de [bijlagen](#bijlagen).
+> - Ruwe data zoals foto's, video-opnames en diepgaandere dataverwerking zijn te vinden in de bijhorende protocollen en reports.
+> - Volledige python codes zijn terug te vinden in de map [src](/src).
+> - De 3D-modellen zijn terug te vinden in de map [cad](/cad)
+
 
 ## Introductie
 Het project ‘Briq’ is ontstaan vanuit het thema ‘Healthy Aging’, waarbij gezocht wordt naar manieren om zowel fysiek als mentaal gezond ouder te worden. Dit thema is geïnspireerd door Ronnie Gardiner, een jazzdrummer die merkte dat drummen niet alleen zijn stemming verbeterde, maar ook zijn motoriek en cognitieve vaardigheden stimuleerde. Deze inzichten leidden tot de ontwikkeling van de Ronnie Gardiner Methode (RGM), een oefenmethode die ritme en muziek gebruikt om meerdere hersengebieden tegelijk te activeren. De methode stimuleert motoriek, spraak en cognitie, en wordt momenteel toegepast in klinische omgevingen, bijvoorbeeld bij revalidatie van neurologische aandoeningen.
