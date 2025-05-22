@@ -352,6 +352,44 @@ Uit de voorkeuren van de doelgroep blijkt duidelijk dat een behuizing met een de
 
 Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision matrix aan dat stevigheid, ergonomie en aantrekkelijkheid belangrijke factoren zijn die positief bijdragen aan de totaalbeoordeling. Dit impliceert dat het uiteindelijke ontwerp een balans moet vinden tussen een robuuste, comfortabele vorm en een esthetisch aantrekkelijke uitstraling.
 
+## List of Design Requirements
+| ID     | Design requirement                                                                    | Source         | Date     |
+|--------|----------------------------------------------------------------------------------------|----------------|----------|
+| **Groep 1** |  **Algemeen**                                                                          |                |          |
+| D1.1   | Het product dient in een sociale omgeving gebruikt te worden                          | User interview | 20-Oct   |
+| D1.2   | Het product dient zonder extra uitleg gebruikt te kunnen worden                       | User interview | 20-Oct   |
+| D1.3   | Er moeten herkenbare kenmerken voor de gebruiker aanwezig zijn in het product         | User interview | 20-Oct   |
+| **Groep 2** |  ** Centrale console**                                                                  |                |          |
+| D2.1   | De interface heeft maximaal twee knoppen per scherm                                   | User test      | 18-May   |
+| D2.2   | De interface heeft knoppen die minstens 15mm x 20mm zijn                              | User test      | 18-May   |
+| D2.3   | De centrale console bevat een deksel                                                  | User test      | 18-May   |
+| D2.4   | De centrale console is gemaakt uit robuuste materialen                                | User test      | 18-May   |
+| D2.5   | De centrale console moet stevig gebouwd zijn                                          | User test      | 18-May   |
+| **Groep 3** |  ** Programma**                                                                         |                |          |
+| D3.1   | De strafmechanismen mogen geen grote impact hebben op het spel                        | Concept test   | 08-Dec   |
+| D3.2   | De puntenregistratie moet soepel en foutloos verlopen                                 | Concept test   | 08-Dec   |
+| D3.3   | De spraakmodule moet luid en duidelijk zijn                                           | Concept test   | 08-Dec   |
+| D3.4   | De vragen mogen maximaal één regel lang zijn                                          | Concept test   | 08-Dec   |
+| D3.5   | Tussen de vragen mag er maximaal tien seconden pauze zitten                           | Concept test   | 27-Dec   |
+| D3.6   | Het vermelden van de uitdaging moet duidelijk zijn                                    | Concept test   | 27-Dec   |
+| D3.7   | Het programma moet stabiel zijn                                                       | User test      | 11-Apr   |
+| D3.8   | De text-to-speech moet duidelijk zijn zonder kraken                                   | User test      | 11-Mar   |
+| D3.9   | Het programma verloopt lineair                                                        | User test      | 18-May   |
+| D3.10  | De interface geeft duidelijke feedback bij acties                                     | User test      | 18-May   |
+| D3.11  | De interface heeft geen afleidende elementen                                          | User test      | 18-May   |
+| **Groep 4** |  ** Audiomodule**                                                                       |                |          |
+| D4.1   | De bluetoothverbinding moet stabiel zijn                                              | User test      | 11-Mar   |
+| D4.2   | De bluetoothverbinding moet minstens 15m kunnen overbruggen                           | User test      | 11-Mar   |
+| D4.3   | De oortjes moeten tijdens bewegen stevig vast blijven zitten                          | User test      | 11-Mar   |
+| D4.4   | De oortjes dienen langs de bovenkant van het oor bevestigd te worden                  | User test      | 04-May   |
+| D4.5   | Het materiaal van de oortjes moet zacht en huidvriendelijk zijn                       | User test      | 04-May   |
+| D4.6   | De oortjes moeten compatibel zijn om te dragen met een bril                           | User test      | 04-May   |
+| D4.7   | De oortjes moeten intuïtief geplaatst worden                                          | User test      | 04-May   |
+| D4.8   | De oortjes moeten universeel zijn                                                     | User test      | 04-May   |
+| D4.9   | De oortjes moeten licht zijn                                                          | User test      | 04-May   |
+
+## Finaal prototype
+
 ## Bill of materials
 1. Hardware: LED-strips, speakers, microcontroller (arduino), voeding, basis arduino kit
 2. Prototype-materiaal: karton, hout, PLA (3d-printen)
