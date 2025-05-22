@@ -239,7 +239,7 @@ De gewenste gebruikersinterface is ontworpen in Figma en grondig onderzocht tijd
 
 De huidige versie van de interface bevat nog niet het uiteindelijke ontwerp uit Figma, aangezien deze fase voornamelijk gericht is op het aantonen van de functionele werking van het programma. Het is de bedoeling dat uiteindelijk de Figma-interface volledig geïntegreerd wordt in de Python code.
 
-Om dieper in te gaan op de technische werking van het programma is een aparte handleiding opgesteld. Deze handleiding biedt een overzicht van de gebruikte code, legt stap voor stap de werking uit en bevat instructies voor installatie en gebruik. Die handleiding kunt u terugvinden onder ----->>>>>> hier moet link komen naar de handleiding van de onedrive--------<
+Om dieper in te gaan op de technische werking van het programma is een aparte handleiding opgesteld. Deze handleiding biedt een overzicht van de gebruikte code, legt stap voor stap de werking uit en bevat instructies voor installatie en gebruik. Die handleiding kunt u terugvinden onder [bijlage 16](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EZiMYHiFnaRJllkjAzpcveQB6Tu8fkxD4TQldyxbMwVdAw?e=pHDd6y)
 
 ## Develop 2 (N=4)
 ### Doelstellingen
@@ -441,6 +441,7 @@ Kortom, deze reflectie benadrukt niet alleen de kracht van samenwerking en flexi
 - Bijlage 13: [Develop 2 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EaxuG0nfVOpPlJYxV2ZbBxgBLcov0b--o2_EopizY-3zIw?e=iCitiI)
 - Bijlage 14: [Develop 3 protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EWJNR97-HidJr0l_aQn86SYBAPjInbjvQXtynCUaRM3Meg?e=vYPmrd)
 - Bijlage 15: [Develop 3 report](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/Eag8YOEMBLVHl_v4j4RZZdQB0JOLzRh6cAOL6gvB2316EA?e=mfmOrA)
+- Bijlage 16: [Handleiding python](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EZiMYHiFnaRJllkjAzpcveQB6Tu8fkxD4TQldyxbMwVdAw?e=pHDd6y)
   
 ## Bronnen
 [^1]: Bohn, K. (2021). _Socializing may improve older adults' cognitive function in daily life._ Geraadpleegd op 20 oktober 2024 via https://www.psu.edu/news/research/story/socializing-may-improve-older-adults-cognitive-function-daily-life
