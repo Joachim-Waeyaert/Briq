@@ -493,11 +493,11 @@ Om het product een hoogwaardige uitstraling te geven, wordt gekozen voor een hoo
 
 ### Conclusie
 Briq vormt het resultaat van een intensief en iteratief ontwerpproces, waarbij functionaliteit, gebruiksgemak en aantrekkelijkheid hand in hand zijn gegaan. Elk aspect van het systeem – van de centrale console tot de auditieve ondersteuning en de zorgvuldig gekozen materialen en afwerking – is ontworpen met oog voor de noden en mogelijkheden van de 65-plusser. Het prototype toont niet alleen de technische haalbaarheid van het concept, maar ook hoe design een rol kan spelen in het stimuleren van beweging, cognitieve prikkeling en sociale betrokkenheid. Met Briq wordt aangetoond dat innovatieve technologie en toegankelijk ontwerp elkaar kunnen versterken in het creëren van betekenisvolle gebruikerservaringen.
-<p>
+<p align="center">
   <img src="/img/render briq zonder environment1.png" width="49%">  
   <img src="/img/close up1.png" width="49%"> 
 </p>
-<p>
+<p align="center">
   <img src="/img/render briq gesloten.png" width="49%">  
 </p>
 
