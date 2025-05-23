@@ -292,12 +292,12 @@ In deze derde ontwikkelingsronde ligt de focus op het verbeteren van zowel de ge
 Om de Briq gebruiksvriendelijk te maken en bovendien frustraties weg te werken is een goede interface essentieel. Om die reden zijn er vier verschillende interfaces die getest worden. Per interface is er een andere insteek gebruikt. De eerste interface is gebaseerd op WhatsApp, een populaire app onder de ouderen (Sánchez-Juárez Pradal, 2019)[^3]. Het tweede prototype legt de focus op een interface die zeer basis is. Er zijn geen bepaalde aandachtstrekkers verwerkt in het scherm. Als derde interface wordt er onderzoek gedaan op google scholar naar papers over gebruiksvriendelijke interfaces voor ouderen (Lin, Hsieh, & Shiang, 2009; Zhao & Chen, 2020; Zhou et al., 2022)[^4][^5][^6]. Het vierde en laatste interface zwenkt meer af naar de sportcontext. Deze is gebaseerd op de populaire Strava app. Ook heeft deze interface nog een toevoeging, een coach die je door de verschillende schermen leidt. Voor een meer diepgaande analyse over de opbouw van de interface is deze raadpleegbaar in [bijlage 14](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EWJNR97-HidJr0l_aQn86SYBAPjInbjvQXtynCUaRM3Meg?e=vYPmrd). 
 
 <p align="center">
-  <img src="img/whatsapp.png" height="300px">
-  <img src="/img/basis.png" height="300px">
+  <img src="img/whatsapp.png" height="200px">
+  <img src="/img/basis.png" height="200px">
 </p>
 <p align="center">
-  <img src="/img/papers.png" height="300px">
- <img src="/img/strava.png" height="300px">
+  <img src="/img/papers.png" height="200px">
+ <img src="/img/strava.png" height="200px">
 </p>
 
 De interfaces worden getest door op elk van de interfaces dezelfde opdracht uit te voeren. Deze opdracht staat gelijk met de gewone werking van het product, namelijk oortjes verbinden, een thema kiezen en uiteindelijk het spel starten. Elke interface wordt opgevolgd met een UMUX vragenlijst. Om volgorde-effecten tegen te gaan wordt gebruik gemaakt van een latijns vierkant als counterbalanceringsmethode.
