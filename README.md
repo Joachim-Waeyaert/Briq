@@ -138,10 +138,15 @@ Bij het testen van de kleuren ontstonden ook problemen. Respondenten keken niet 
 Bij deze testwave stonden de respondenten open voor het idee, maar er waren ook wel frustraties. Doordat het concept een zeer rudimentair prototype had, heeft dit waarschijnlijk ook een invloed op het enthousiasme van de respondenten.
 
 #### Wave 2 (N = 6)
-Bij de tweede testwave zegde de oorspronkelijke testgroep af wegens ziekte. Door feestdagen, waardoor de respondenten enkele weken niet tennisten, en aankomende examens werden nieuwe respondenten tussen 18 en 23 jaar ingeschakeld. Om de validiteit van de test te verhogen droegen zij oordopjes om de hardhorigheid uit wave 1 na te bootsen. 
+Bij de tweede testwave zegde de oorspronkelijke testgroep af wegens ziekte. Door feestdagen, waardoor de respondenten enkele weken niet tennisten, en aankomende examens werden nieuwe respondenten tussen 18 en 23 jaar ingeschakeld. Om de validiteit van de test te verhogen droegen zij oordopjes om de hardhorigheid uit wave 1 na te bootsen.
 <p align="center">
   <img src="img/wave 2.jpeg" height="300px">
   <img src="img/oordoppen.jpeg" height="300px">
+</p>
+
+<p align="center">
+  <img src="img/def_w1_geluid.jpg" height="300px">
+  <img src="img/def_w1_kleuren.jpg" height="300px">
 </p>
 
 De tests wezen op een minimaal verschil in hoorbaarheid tussen verschillende luidsprekerposities. De voorkeur ging echter naar de frontale positie, mede omdat verbindingsproblemen bij een achterste positie de spelervaring verstoorden. Respondenten raakten gefrustreerd als vragen niet snel genoeg achter elkaar kwamen, wat de voorkeur voor de frontale opstelling versterkte. Ook waren de boxen wederom niet sterk genoeg om altijd de vraag duidelijk te verwoorden. Door omgevingsgeluid werd de vraag soms niet gehoord.
