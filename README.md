@@ -494,9 +494,17 @@ Om het product een hoogwaardige uitstraling te geven, wordt gekozen voor een hoo
 ### Conclusie
 Briq vormt het resultaat van een intensief en iteratief ontwerpproces, waarbij functionaliteit, gebruiksgemak en aantrekkelijkheid hand in hand zijn gegaan. Elk aspect van het systeem – van de centrale console tot de auditieve ondersteuning en de zorgvuldig gekozen materialen en afwerking – is ontworpen met oog voor de noden en mogelijkheden van de 65-plusser. Het prototype toont niet alleen de technische haalbaarheid van het concept, maar ook hoe design een rol kan spelen in het stimuleren van beweging, cognitieve prikkeling en sociale betrokkenheid. Met Briq wordt aangetoond dat innovatieve technologie en toegankelijk ontwerp elkaar kunnen versterken in het creëren van betekenisvolle gebruikerservaringen.
 
-## Bill of materials
-1. Hardware: LED-strips, speakers, microcontroller (arduino), voeding, basis arduino kit
-2. Prototype-materiaal: karton, hout, PLA (3d-printen)
+## Bill of materials| Categorie            | Onderdeel              | Specificatie / Opmerking                         |
+|----------------------|------------------------|--------------------------------------------------|
+| **Hardware**         | Raspberry Pi           | Model 3B+ of hoger aanbevolen                    |
+|                      | Voeding                | 5V 2.5A micro-USB adapter                        |
+|                      | Adafruit scherm        | 2.8" PiTFT Touchscreen (320x240)                |
+|                      | 3D-printer             | FDM-printer, compatibel met PLA-filament        |
+| **Prototype-materiaal** | PLA filament           | 1.75mm, diep metallic blauw                     |
+|                      | Lak                    | Hoogglans, UV-bestendig                         |
+|                      | Scharnier              | Klein metalen scharnier voor consoledeksel      |
+|                      | Schroeven              | M2/M3 kruiskop, afhankelijk van bevestigingen    |
+|                      | Magneten               | Neodymium Ø5mm x 2mm, voor sluitmechanisme       |
 
 ## Kritische reflectie
 Sinds het samenstellen van de groepen is het project in een constante stroomversnelling terechtgekomen. Dankzij een gezamenlijke, kritische benadering heeft het gekozen concept doorlopend verfijning en verbetering ondergaan. Elk idee werd zorgvuldig geanalyseerd en getest, wat leidde tot een sterke basis voor verdere ontwikkeling. Ondanks onverwachte obstakels, zoals het last-minute afzeggen van de testgroep in een cruciale fase, is er adequaat en snel geschakeld naar een alternatief plan. Dit getuigt van een pragmatische houding en een flexibele werkwijze binnen het team.
