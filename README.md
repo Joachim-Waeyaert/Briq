@@ -177,9 +177,9 @@ In deze fase wordt het oorspronkelijke concept verder ontwikkeld tot een fysiek 
 
 Tijdens het ontwikkelproces wordt na grondig overleg besloten om het gebruik van kleuren achterwege te laten. Analyses tonen aan dat kleuren weinig tot geen invloed hebben op de effectiviteit van het product. Door dit element te elimineren, kan de focus worden gelegd op de essentiële aspecten, namelijk:
 
-**Duidelijke communicatie van vragen:** Zorgen dat vragen helder en verstaanbaar worden overgebracht naar de gebruiker.
-**Registratie en validatie van antwoorden:** Het correct vastleggen en evalueren van gebruikersreacties zonder dat dit het spelverloop belemmert of het speelplezier vermindert.
-**Duidelijke UI bij keuze van de vragen:** Het gebruik van de console waarbij je de type vragen kan instellen moet duidelijk en simpel zijn om mee te werken.
+- **Duidelijke communicatie van vragen:** Zorgen dat vragen helder en verstaanbaar worden overgebracht naar de gebruiker.
+- **Registratie en validatie van antwoorden:** Het correct vastleggen en evalueren van gebruikersreacties zonder dat dit het spelverloop belemmert of het speelplezier vermindert.
+- **Duidelijke UI bij keuze van de vragen:** Het gebruik van de console waarbij je de type vragen kan instellen moet duidelijk en simpel zijn om mee te werken.
 
 Uit eerdere fasen, met name de Discovery-fase, blijkt dat de helderheid van de vraagstelling een grote impact heeft op de gebruikerservaring en het spelplezier. Daarnaast wordt vastgesteld dat een goed ontworpen gebruikersinterface (UI) cruciaal is. Deze UI moet de mogelijkheid bieden om het type vragen te selecteren en eventueel een puntensysteem te integreren, waardoor een competitief element wordt toegevoegd aan het spel.
 **Beoogde functionaliteit tot nu toe:**
