@@ -48,7 +48,7 @@ Het betrekken van verschillende stakeholders, naast de eindgebruiker, is een cru
 Het product bestaat uit twee componenten. Enerzijds de centrale console, anderzijds de oortjes. De centrale console wordt aan de zijkant van het net geplaatst. Op dit moment verschijnt er op het scherm een keuzemenu die de verschillende thema's van het quizgedeelte bevat (eg. sport, literatuur, geschiedenis,...). Zodra de thema’s gekozen zijn, beginnen de spelers aan het spel (eg.tennis, badminton,...). De centrale console geeft beide teams beurtlings een vraag over de gekozen thema's. De spelers beantwoorden deze vraag door het antwoord te roepen, wat door een spraakherkenningsmodule wordt geregistreerd. Indien de spelers juist antwoorden wordt de beurt doorgeschoven naar het andere team. Wanneer de spelers fout antwoorden worden ze een uitdaging opgelegd, wat een nadeel ten opzichte van het andere team is. Deze uitdagingen maken het spel iets moeilijker zonder dat dit het plezier ten slecht komt. 
 
 ## Methodologie
-Om structuur aan te brengen in het ontwerpproces werd er gebruik gemaakt van een duidelijke methodologie, die het eerste semester opdelen in twee grote fasen. De focus lag hierbij altijd op de gebruiker. De opzet van deze methodologie was ontworpen om zo veel mogelijk inzichten te verkrijgen om het ontwerp te verbeteren en verder te ontwikkelen.
+Om structuur aan te brengen in het ontwerpproces werd er gebruik gemaakt van een duidelijke methodologie, die het eerste semester opdeelt in twee grote fasen. De focus lag hierbij altijd op de gebruiker. De opzet van deze methodologie was ontworpen om zo veel mogelijk inzichten te verkrijgen om het ontwerp te verbeteren en verder te ontwikkelen. Tijdens het tweede semester start de develop fase. In deze fase worden er meerdere prototypes gemaakt, getest en verder een iteratie op gemaakt.
 
   <img src="/img/quadruple_diamond.png" width="100%">
   
@@ -133,7 +133,7 @@ Tijdens de eerste testwave werden enkele problemen snel duidelijk. Aanvankelijk 
   <img src="img/eind wave 1.jpeg" width="49%">
 </p>
 
-Bij het testen van de kleuren ontstonden ook problemen. Respondenten keken niet weg van de bal om de kleur te zien, wat ze toeschreven aan de competitieve aard van het spel. Zelfs bij recreatief spelen vonden zij dat competitie niet mocht belemmerd worden. Daarnaast werd de juiste straf vaak te laat of niet toegepast omdat respondenten de juiste combinaties niet meer wisten. Straffen mochten bovendien niet te hinderend zijn, omdat dit het spelplezier noemenswaardig verminderde. Hoewel de respondenten het idee waardeerden, veroorzaakte het rudimentaire prototype enige frustraties, wat hun enthousiasme mogelijk beïnvloedde.
+Bij het testen van de kleuren ontstonden ook problemen. Respondenten keken niet weg van de bal om de kleur te zien, wat ze toeschreven aan de competitieve aard van het spel. Zelfs bij recreatief spelen vonden zij dat competitie niet mocht belemmerd worden. Daarnaast werd de juiste straf vaak te laat of niet toegepast omdat respondenten de juiste combinaties niet meer wisten. Straffen mochten bovendien niet te hinderend zijn, omdat dit het spelplezier noemenswaardig verminderde. Hoewel de respondenten het idee waardeerden, veroorzaakte het rudimentaire prototype enige frustraties, wat hun enthousiasme mogelijks beïnvloedde.
 
 Bij deze testwave stonden de respondenten open voor het idee, maar er waren ook wel frustraties. Doordat het concept een zeer rudimentair prototype had, heeft dit waarschijnlijk ook een invloed op het enthousiasme van de respondenten.
 
