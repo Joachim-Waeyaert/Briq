@@ -68,7 +68,7 @@ Een duidelijke ‘how might we’ bekomen
   
 ### Resultaten
 #### User Interviews (N=4)
-Tijdens de gebruikersinterviews werden voornamelijk algemene aspecten besproken die aangestuurd werden door concrete vragen. Wanneer bepaalde vragen bij specifieke respondenten meer relevant bleken, werd daar dieper op ingegaan. Uit de interviews kwam naar voren dat de ene respondent het uitstellen of voorkomen van dementie als een belangrijke motivatie beschouwde, terwijl anderen zich daar minder zorgen over maakten. Voor deze laatste groep werd duidelijk dat hun motivatie vaak voortkwam uit persoonlijke interesses en hobby’s. Wanneer deze interesses aanwezig waren, gaven ze aan gemotiveerd te zijn om deel te nemen aan “Aging Young”. Er werd verder onderzocht welke andere factoren, naast persoonlijke interesses, als belangrijke motiverende elementen zouden kunnen dienen.
+Tijdens de gebruikersinterviews werden voornamelijk algemene aspecten besproken die aangestuurd werden door concrete vragen. Wanneer bepaalde vragen bij specifieke respondenten meer relevant bleken, werd daar dieper op ingegaan. Uit de interviews kwam naar voren dat de ene respondent het uitstellen of voorkomen van dementie als een belangrijke motivatie beschouwde, terwijl anderen zich daar minder zorgen over maakten. Voor deze laatste groep werd duidelijk dat hun motivatie vaak voortkwam uit persoonlijke interesses en hobby’s. Als deze interesses aanwezig waren, gaven ze aan gemotiveerd te zijn om deel te nemen aan “Aging Young”. Er werd verder onderzocht welke andere factoren, naast persoonlijke interesses, als belangrijke motiverende elementen zouden kunnen dienen.
 Een van de belangrijke factoren die naar voren kwam, is het sociale aspect. Een respondent gaf aan dat veel kennissen van 65 jaar en ouder zich regelmatig eenzaam voelen. Voor hen zou het sociale aspect een sterke motivatie zijn om deel te nemen aan "Aging Young". Onderzoek[^1] ondersteunt dit, aangezien het blijkt dat ouderen die regelmatig in contact staan met vrienden of kennissen beter presteren op cognitieve tests dan degenen die minder sociale interactie ervaren (Bohn, 2021).
 Daarnaast werd het belang van de gebruiksvriendelijkheid van de technologie benadrukt. De moderne, vaak complexe digitale wereld wordt door deze doelgroep als frustrerend ervaren. Respondenten gaven aan dat ze behoefte hadden aan producten die herkenbare, nostalgische elementen bevatten – producten die ze kunnen gebruiken of eenvoudig kunnen leren bedienen. De hedendaagse technologie wordt vaak als te ingewikkeld en te vernieuwend ervaren, wat leidt tot frustratie en afkeer bij deze groep.
 
@@ -129,10 +129,10 @@ Tijdens de eerste testwave werden enkele problemen snel duidelijk. Aanvankelijk 
 
 Bij het testen van de kleuren ontstonden ook problemen. Respondenten keken niet weg van de bal om de kleur te zien, wat ze toeschreven aan de competitieve aard van het spel. Zelfs bij recreatief spelen vonden zij dat competitie niet mocht belemmerd worden. Daarnaast werd de juiste straf vaak te laat of niet toegepast omdat respondenten de juiste combinaties niet meer wisten. Straffen mochten bovendien niet te hinderend zijn, omdat dit het spelplezier noemenswaardig verminderde. Hoewel de respondenten het idee waardeerden, veroorzaakte het rudimentaire prototype enige frustraties, wat hun enthousiasme mogelijk beïnvloedde.
 
-Bij deze testwave stonden de respondenten open voor het idee, maar er waren ook wel frustraties. Doordat het concept een zeer rudimentair prototype had heeft dit waarschijnlijk ook een invloed op het enthousiasme van de respondenten.
+Bij deze testwave stonden de respondenten open voor het idee, maar er waren ook wel frustraties. Doordat het concept een zeer rudimentair prototype had, heeft dit waarschijnlijk ook een invloed op het enthousiasme van de respondenten.
 
 #### Wave 2 (N = 6)
-Bij de tweede testwave zegde de oorspronkelijke testgroep af wegens ziekte. Door feestdagen, waardoor de respondenten enkele weken niet tennisten, en aankomende examens werden nieuwe respondenten van 18 en 23 jaar ingeschakeld. Om de validiteit van de test te verhogen droegen zij oordopjes om de hardhorigheid uit wave 1 na te bootsen.
+Bij de tweede testwave zegde de oorspronkelijke testgroep af wegens ziekte. Door feestdagen, waardoor de respondenten enkele weken niet tennisten, en aankomende examens werden nieuwe respondenten tussen 18 en 23 jaar ingeschakeld. Om de validiteit van de test te verhogen droegen zij oordopjes om de hardhorigheid uit wave 1 na te bootsen. 
 <p align="center">
   <img src="img/wave 2.jpeg" height="300px">
   <img src="img/oordoppen.jpeg" height="300px">
@@ -177,7 +177,7 @@ Het systeem bestaat dus uit een console met een geïntegreerde microcomputer die
 
 ## Develop 1 (N=4)
 ### Doelstellingen
-De eerste develop test is om te kijken of de oortjes een goede impact hebben op de gebruikservaring. Het is noodzakelijk dat de gebruikers de vragen goed kunnen horen evenals elkaar. Indien de communicatie wordt belemmerd tussen de spelers heeft dit een enorme impact op het tennissen en het plezier ervan. Naast het technische van de oortjes is het belangrijk dat de vragen door het programma klaar en duidelijk aankomen bij de respondent. In de vorige testen was duideijk dat een te moeilijke uitdaging het spel verhinderde. Het doel in deze wave is om de uitdagingen op het juiste niveau te brengen zodat het nog steeds leuk blift.
+De eerste develop test is om te kijken of de oortjes een goede impact hebben op de gebruikservaring. Het is noodzakelijk dat de gebruikers de vragen goed kunnen horen evenals elkaar. Indien de communicatie wordt belemmerd tussen de spelers heeft dit een enorme impact op het tennissen en het plezier ervan. Naast het technische van de oortjes is het belangrijk dat de vragen door het programma klaar en duidelijk aankomen bij de respondent. In de vorige testen was duidelijk dat een te moeilijke uitdaging het spel verhinderde. Het doel in deze wave is om de uitdagingen op het juiste niveau te brengen zodat de uitdagingen niet demotiveren om het product te gebruiken.
 
 ### Materiaal en methoden
 Tijdens de eerste ronde van de Develop-fase werd de vraag gesteld of er alternatieve methoden zijn om de vragen duidelijker over te brengen naar de gebruikers. In de tweede testfase (Wave 2 van de Definition-fase) werd vastgesteld dat de oorspronkelijke opzet met luidsprekers niet optimaal was. Het omgevingsgeluid bleek moeilijk te controleren, en bovendien varieerden de gehoorcapaciteiten van de gebruikers. Daarom werd besloten om de vragen via draadloze oortjes te formuleren. In de eerste Develop-fase werd deze methode vervolgens getest.
@@ -201,8 +201,8 @@ De uitdagingen zijn duidelijk om uit te voeren. Deze duidelijkheid en beperkte h
 De text-to-speech module werkt goed, de spelers kunnen de vragen en uitdagingen goed verstaan. Hoe dan ook komen er enkele technische beperkingen met zich mee. PyGame had af en toe een onderbreking. Dit verstoort de continuïteit van het spel. Deze storing kan te wijden zijn aan de beperkte wifi verbinding. De sporthal waar de test is afgenomen is volledig uit beton. 
 
 ### Conclusies en implicaties
-Deze test toont aan dat er veel potentieel zit in het gebruik van oortjes. De continuïteit van het spel blijft hoog hierdoor. Deze manier zorgt ervoor dat de add-on die BRIQ aanbiedt wordt geapreccieerd en gewaardeerd. Om deze continuïteit te houden is een stabiele bluetooth verbinding tussen de centrale console en de oortjes essentieel. De ergonomie van de oortjes zit nu niet goed. Bij deze test zat het in de oren. 
-De text-to-speech module geeft een duidelijke vraag weer. Op deze methode wordt er verdergebouwd. Tijdens de test wordt duidelijk dat de gebruikers omwille van verschillende accenten en dialecten anders antwoorden. Het programma zal ene fluïde manier moeten hebben om de antwoorden te registreren. 
+Deze test toont aan dat er veel potentieel zit in het gebruik van oortjes. De continuïteit van het spel blijft hoog hierdoor. Deze manier zorgt ervoor dat de add-on die BRIQ aanbiedt wordt geapprecieerd en gewaardeerd. Om deze continuïteit te houden is een stabiele bluetooth verbinding tussen de centrale console en de oortjes essentieel. De ergonomie van de oortjes zit nu niet goed. Bij deze test zat het in de oren. 
+De text-to-speech module geeft een duidelijke vraag weer. Op deze methode wordt er verdergebouwd. Tijdens de test wordt duidelijk dat de gebruikers omwille van verschillende accenten en dialecten anders antwoorden. Het programma zal een fluïde manier moeten hebben om de antwoorden te registreren. 
 
 
 <p align="center">
@@ -358,7 +358,9 @@ In onderstaande tabel staan de totaalsom van elk kenmer per concept. Deze zijn o
 #### Interface
 Uit bovenstaande resultaten wordt duidelijk dat de interfaces die het best scoren degene zijn met grote knoppen en weinig afleidende informatie op het scherm. Een groot verschil tussen deze twee interfaces is het statussymbool van de bluetoothverbinding. Bij de paperinterface is dit een klein bolletje dat van rood naar groen verandert indien verbonden. Bij de niet afleidende interface is dit een grote cirkel. Uit de observatie wordt duidelijk dat deze cirkel een signaal afgeeft dat de gebruiker hierop moet tikken. 
 Beide interfaces met de hoogste scores zijn lineaire interfaces. Dit soort interfaces hebben per deelopdracht een apart scherm. Pas wanneer deze deelopdracht is voltooid kan de gebruiker verder naar het volgende deel. De andere twee interfaces zijn matrix interfaces. Bij beide van deze interfaces duurde het langer om de opdracht te voltooien en was dit soms gepaard met de opdracht niet compleet te voltooien.
-Het gebruik van de coach werkt omgekeerd dan gedacht. De gebruikers tikken op de coach wat zorgt voor onnodige interactie die nergens tot leidden. Daarnaast deden ze bepaalde delen van de opdracht meerdere keer omdat de coach dit telkens opnieuw zei. Daarom dat de coach wordt weggelaten in het finale prototype.
+Het gebruik van de coach werkt omgekeerd dan gedacht. de coachfunctie leidde ertoe dat gebruikers onnodige handelingen uitvoerden of stappen herhaalden, wat tot frustratie leidde. Dit fenomeen kan verklaard worden aan de hand van de Cognitive Load Theory van Sweller (1988)[^7].
+
+Deze theorie onderscheidt drie soorten cognitieve belasting: intrinsieke, extrane en germane load. In dit geval verhoogde de coachfunctie de extrane belasting, omdat ze afleidde van de essentie van de taak zonder functionele meerwaarde te bieden. Dit verlaagt de beschikbare mentale capaciteit voor daadwerkelijke taakverwerking, wat de gebruikservaring negatief beïnvloedt. Op basis van dit inzicht werd beslist om de coachfunctie in het finale prototype weg te laten en te kiezen voor een lineaire, minimalistische interface, in lijn met de aanbevelingen vanuit CLT.
 
 
 #### Behuizing
@@ -385,13 +387,13 @@ Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision m
 | D1.1   | Het product dient in een sociale omgeving gebruikt te worden                          | User interview | 20-Oct   |
 | D1.2   | Het product dient zonder extra uitleg gebruikt te kunnen worden                       | User interview | 20-Oct   |
 | D1.3   | Er moeten herkenbare kenmerken voor de gebruiker aanwezig zijn in het product         | User interview | 20-Oct   |
-| **Groep 2** |  ** Centrale console**                                                                  |                |          |
+| **Groep 2** |  **Centrale console**                                                                  |                |          |
 | D2.1   | De interface heeft maximaal twee knoppen per scherm                                   | User test      | 18-May   |
 | D2.2   | De interface heeft knoppen die minstens 15mm x 20mm zijn                              | User test      | 18-May   |
 | D2.3   | De centrale console bevat een deksel                                                  | User test      | 18-May   |
 | D2.4   | De centrale console is gemaakt uit robuuste materialen                                | User test      | 18-May   |
 | D2.5   | De centrale console moet stevig gebouwd zijn                                          | User test      | 18-May   |
-| **Groep 3** |  ** Programma**                                                                         |                |          |
+| **Groep 3** |  **Programma**                                                                         |                |          |
 | D3.1   | De strafmechanismen mogen geen grote impact hebben op het spel                        | Concept test   | 08-Dec   |
 | D3.2   | De puntenregistratie moet soepel en foutloos verlopen                                 | Concept test   | 08-Dec   |
 | D3.3   | De spraakmodule moet luid en duidelijk zijn                                           | Concept test   | 08-Dec   |
@@ -403,7 +405,7 @@ Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision m
 | D3.9   | Het programma verloopt lineair                                                        | User test      | 18-May   |
 | D3.10  | De interface geeft duidelijke feedback bij acties                                     | User test      | 18-May   |
 | D3.11  | De interface heeft geen afleidende elementen                                          | User test      | 18-May   |
-| **Groep 4** |  ** Audiomodule**                                                                       |                |          |
+| **Groep 4** |  **Audiomodule**                                                                       |                |          |
 | D4.1   | De bluetoothverbinding moet stabiel zijn                                              | User test      | 11-Mar   |
 | D4.2   | De bluetoothverbinding moet minstens 15m kunnen overbruggen                           | User test      | 11-Mar   |
 | D4.3   | De oortjes moeten tijdens bewegen stevig vast blijven zitten                          | User test      | 11-Mar   |
@@ -470,5 +472,6 @@ Kortom, deze reflectie benadrukt niet alleen de kracht van samenwerking en flexi
 [^4]: Lin, C. J., Hsieh, T. L., & Shiang, W. J. (2009). _Exploring the Interface Design of Mobile Phone for the Elderly._ In M. Kurosu (Ed.), Human Centered Design. HCII 2009. Lecture Notes in Computer Science, vol 5619, 476–481. https://link.springer.com/chapter/10.1007/978-3-642-02806-9_55  
 [^5]: Zhao, R.-Q., & Chen, L.-H. (2020). _Research on Interface Design for the Elderly._ In C. Stephanidis & M. Antona (Eds.), HCII 2020, CCIS 1226, 128–135. https://link.springer.com/chapter/10.1007/978-3-030-50732-9_18  
 [^6]: Zhou, C., Dai, Y., Huang, T., Zhao, H., & Kaner, J. (2022). _An Empirical Study on the Influence of Smart Home Interface Design on the Interaction Performance of the Elderly._ International Journal of Environmental Research and Public Health, 19 (9105). https://www.mdpi.com/1660-4601/19/15/9105  
-
+[^7]: Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257–285. https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1202_4 
+[^8]: Sweller, J., Ayres, P., & Kalyuga, S. (2011). Cognitive Load Theory. Springer. https://link.springer.com/book/10.1007/978-1-4419-8126-4 
 
