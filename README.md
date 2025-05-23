@@ -370,7 +370,7 @@ Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision m
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D2.1	De interface heeft maximaal twee knoppen per scherm
+> - D2.1	De interface heeft maximaal één functie per scherm
 > - D2.2	De interface heeft knoppen die minstens 15mm x 20mm zijn
 > - D2.3	De centrale console bevat een deksel
 > - D2.4	De centrale console is gemaakt uit robuuste materialen
@@ -388,7 +388,7 @@ Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision m
 | D1.2   | Het product dient zonder extra uitleg gebruikt te kunnen worden                       | User interview | 20-Oct   |
 | D1.3   | Er moeten herkenbare kenmerken voor de gebruiker aanwezig zijn in het product         | User interview | 20-Oct   |
 | **Groep 2** |  **Centrale console**                                                                  |                |          |
-| D2.1   | De interface heeft maximaal twee knoppen per scherm                                   | User test      | 18-May   |
+| D2.1   | De interface heeft maximaal één functie per scherm                                   | User test      | 18-May   |
 | D2.2   | De interface heeft knoppen die minstens 15mm x 20mm zijn                              | User test      | 18-May   |
 | D2.3   | De centrale console bevat een deksel                                                  | User test      | 18-May   |
 | D2.4   | De centrale console is gemaakt uit robuuste materialen                                | User test      | 18-May   |
