@@ -496,17 +496,21 @@ Briq vormt het resultaat van een intensief en iteratief ontwerpproces, waarbij f
 
 ## Bill of Materials (BOM)
 
-| Categorie            | Onderdeel              | Specificatie / Opmerking                         |
-|----------------------|------------------------|--------------------------------------------------|
-| **Hardware**         | Raspberry Pi           | Model 3B+ of hoger aanbevolen                    |
-|                      | Voeding                | 5V 2.5A micro-USB adapter                        |
-|                      | Adafruit scherm        | 2.8" PiTFT Touchscreen (320x240)                |
-|                      | 3D-printer             | FDM-printer, compatibel met PLA-filament        |
-| **Prototype-materiaal** | PLA filament           | 1.75mm, diep metallic blauw                     |
-|                      | Lak                    | Hoogglans, UV-bestendig                         |
-|                      | Scharnier              | Klein metalen scharnier voor consoledeksel      |
-|                      | Schroeven              | M2/M3 kruiskop, afhankelijk van bevestigingen    |
-|                      | Magneten               | Neodymium Ø5mm x 2mm, voor sluitmechanisme       |
+| Categorie             | Item                            | Omschrijving                                           |
+|-----------------------|----------------------------------|--------------------------------------------------------|
+| Hardware           | Raspberry Pi                    | Centrale rekenmodule van het systeem                   |
+|                       | Voeding                         | 5V power supply voor Raspberry Pi                      |
+|                       | Adafruit-scherm                 | Display voor interface                                 |
+|                       | 3D-printer                      | Voor het vervaardigen van de behuizing                 |
+|                       | MicroSD-kaart                   | Opslag voor OS en software                             |
+| Audio              | Bone conduction-oortjes         | Draadloze audio-output, bril-compatibel                |
+|                       | Bluetooth splitter              | Voor het koppelen van meerdere Bluetooth-audioapparaten |
+| Prototype-materiaal| PLA filament                    | Materiaal voor de geprinte console                     |
+|                       | Lak                             | Hoogglans coating + UV-bescherming                     |
+|                       | Scharnier                       | Voor het deksel van de centrale console                |
+|                       | Schroeven                       | Montage van onderdelen                                 |
+|                       | Magneten                        | Voor sluitmechanismen of bevestiging                   |
+
 
 
 ## Kritische reflectie
