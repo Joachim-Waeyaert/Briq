@@ -100,7 +100,7 @@ Op de markt zijn er veel multisensorische producten waarbij de intensiteit van d
 > [!IMPORTANT]
 > Design Requirements:
 > - D1.1 Het product dient in een sociale omgeving te kunnen gebruikt worden.
-> - D2.1 Het product dient een tutorial te bevatten.
+> - D2.1 Het product dient zonder extra uitleg gebruikt te kunnen worden
 > - D2.2 Er moeten herkenbare kenmerken voor de gebruiker aanwezig zijn in het product.
 
 ## Definition
