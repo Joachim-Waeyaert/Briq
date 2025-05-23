@@ -254,7 +254,7 @@ De gewenste gebruikersinterface is ontworpen in Figma en grondig onderzocht tijd
 
 De huidige versie van de interface bevat nog niet het uiteindelijke ontwerp uit Figma, aangezien deze fase voornamelijk gericht is op het aantonen van de functionele werking van het programma en de tijd beperkt was. Het is de bedoeling dat uiteindelijk de Figma-interface volledig geïntegreerd wordt in de Python code.
 
-Om dieper in te gaan op de technische werking van het programma is een aparte handleiding opgesteld. Deze handleiding biedt een overzicht van de gebruikte code, legt stap voor stap de werking uit en bevat instructies voor installatie en gebruik. Die handleiding kunt u terugvinden onder [bijlage 16](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EZiMYHiFnaRJllkjAzpcveQB6Tu8fkxD4TQldyxbMwVdAw?e=pHDd6y)
+Om dieper in te gaan op de technische werking van het programma is een aparte handleiding opgesteld. Deze handleiding biedt een overzicht van de gebruikte code, legt stap voor stap de werking uit en bevat instructies voor installatie en gebruik. Die handleiding kunt u terugvinden onder [bijlage 16](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EZiMYHiFnaRJllkjAzpcveQB6Tu8fkxD4TQldyxbMwVdAw?e=pHDd6y). Om een diepgaandere visie van de code te verkrijgen kan u de code zelf raadplegen in de map [src](/src). In deze code staan er commentaarlijnen die ze verduidelijken.
 
 ## Develop 2 (N=4)
 ### Doelstellingen
