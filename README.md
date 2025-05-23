@@ -100,7 +100,7 @@ Op de markt zijn er veel multisensorische producten waarbij de intensiteit van d
 > [!IMPORTANT]
 > Design Requirements:
 > - D1.1 Het product dient in een sociale omgeving te kunnen gebruikt worden.
-> - D2.1 Het product dient zonder extra uitleg gebruikt te kunnen worden
+> - D2.1 Het product dient zonder extra uitleg gebruikt te kunnen worden.
 > - D2.2 Er moeten herkenbare kenmerken voor de gebruiker aanwezig zijn in het product.
 
 ## Definition
@@ -223,11 +223,11 @@ De text-to-speech module geeft een duidelijke vraag weer. Op deze methode wordt 
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D3.7	Het programma moet stabiel zijn
-> - D3.8	De text-to-speech moet duidelijk zijn zonder kraken
-> - D4.1	De bluetoothverbinding moet stabiel zijn
-> - D4.2	De bluetoothverbinding moet minstens 15m kunnen overbruggen
-> - D4.3	De oortjes moeten tijdens bewegen stevig vast blijven zitten
+> - D3.7	Het programma moet stabiel zijn.
+> - D3.8	De text-to-speech moet duidelijk zijn zonder kraken.
+> - D4.1	De bluetoothverbinding moet stabiel zijn.
+> - D4.2	De bluetoothverbinding moet minstens 15m kunnen overbruggen.
+> - D4.3	De oortjes moeten tijdens bewegen stevig vast blijven zitten.
 
 
 ### Besturingsmodule
@@ -289,12 +289,12 @@ Belangrijke succesfactoren bleken een universele pasvorm, eenvoudige en intuïti
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D4.4	De oortjes dienen langs de bovenkant van het oor bevestigd te worden
-> - D4.5	Het materiaal van de oortjes moet zacht en huidvriendelijk zijn
-> - D4.6	De oortjes moeten compatibel zijn om te dragen met een bril
-> - D4.7	De oortjes moeten intuïtief geplaatst worden
-> - D4.8	De oortjes moeten universeel zijn
-> - D4.9	De oortjes moeten licht zijn
+> - D4.4	De oortjes dienen langs de bovenkant van het oor bevestigd te worden.
+> - D4.5	Het materiaal van de oortjes moet zacht en huidvriendelijk zijn.
+> - D4.6	De oortjes moeten compatibel zijn om te dragen met een bril.
+> - D4.7	De oortjes moeten intuïtief geplaatst worden.
+> - D4.8	De oortjes moeten universeel zijn.
+> - D4.9	De oortjes moeten licht zijn.
 
 
 ## Develop 3 (N=4)
@@ -399,51 +399,51 @@ Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision m
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D2.1	De interface heeft maximaal één functie per scherm
-> - D2.2	De interface heeft knoppen die minstens 15mm x 20mm zijn
-> - D2.3	De centrale console bevat een deksel
-> - D2.4	De centrale console is gemaakt uit robuuste materialen
-> - D2.5	De centrale console moet stevig gebouwd zijn
-> - D3.9	Het programma verloopt lineair 
-> - D3.10	De interface geeft duidelijke feedback bij acties
-> - D3.11	De interface heeft geen afleidende elementen
+> - D2.1	De interface heeft maximaal één functie per scherm.
+> - D2.2	De interface heeft knoppen die minstens 15mm x 20mm zijn.
+> - D2.3	De centrale console bevat een deksel.
+> - D2.4	De centrale console is gemaakt uit robuuste materialen.
+> - D2.5	De centrale console moet stevig gebouwd zijn.
+> - D3.9	Het programma verloopt lineair .
+> - D3.10	De interface geeft duidelijke feedback bij acties.
+> - D3.11	De interface heeft geen afleidende elementen.
 
 
 ## List of Design Requirements
 | ID     | Design requirement                                                                    | Source         | Date     |
 |--------|----------------------------------------------------------------------------------------|----------------|----------|
 | **Groep 1** |  **Algemeen**                                                                          |                |          |
-| D1.1   | Het product dient in een sociale omgeving gebruikt te worden                          | User interview | 20-Oct   |
-| D1.2   | Het product dient zonder extra uitleg gebruikt te kunnen worden                       | User interview | 20-Oct   |
-| D1.3   | Er moeten herkenbare kenmerken voor de gebruiker aanwezig zijn in het product         | User interview | 20-Oct   |
+| D1.1   | Het product dient in een sociale omgeving gebruikt te worden.                          | User interview | 20-Oct   |
+| D1.2   | Het product dient zonder extra uitleg gebruikt te kunnen worden.                       | User interview | 20-Oct   |
+| D1.3   | Er moeten herkenbare kenmerken voor de gebruiker aanwezig zijn in het product.         | User interview | 20-Oct   |
 | **Groep 2** |  **Centrale console**                                                                  |                |          |
-| D2.1   | De interface heeft maximaal één functie per scherm                                   | User test      | 18-May   |
-| D2.2   | De interface heeft knoppen die minstens 15mm x 20mm zijn                              | User test      | 18-May   |
-| D2.3   | De centrale console bevat een deksel                                                  | User test      | 18-May   |
-| D2.4   | De centrale console is gemaakt uit robuuste materialen                                | User test      | 18-May   |
-| D2.5   | De centrale console moet stevig gebouwd zijn                                          | User test      | 18-May   |
+| D2.1   | De interface heeft maximaal één functie per scherm.                                   | User test      | 18-May   |
+| D2.2   | De interface heeft knoppen die minstens 15mm x 20mm zijn.                              | User test      | 18-May   |
+| D2.3   | De centrale console bevat een deksel.                                                  | User test      | 18-May   |
+| D2.4   | De centrale console is gemaakt uit robuuste materialen.                                | User test      | 18-May   |
+| D2.5   | De centrale console moet stevig gebouwd zijn.                                          | User test      | 18-May   |
 | **Groep 3** |  **Programma**                                                                         |                |          |
-| D3.1   | De strafmechanismen mogen geen grote impact hebben op het spel                        | Concept test   | 08-Dec   |
-| D3.2   | De puntenregistratie moet soepel en foutloos verlopen                                 | Concept test   | 08-Dec   |
-| D3.3   | De spraakmodule moet luid en duidelijk zijn                                           | Concept test   | 08-Dec   |
-| D3.4   | De vragen mogen maximaal één regel lang zijn                                          | Concept test   | 08-Dec   |
-| D3.5   | Tussen de vragen mag er maximaal tien seconden pauze zitten                           | Concept test   | 27-Dec   |
-| D3.6   | Het vermelden van de uitdaging moet duidelijk zijn                                    | Concept test   | 27-Dec   |
-| D3.7   | Het programma moet stabiel zijn                                                       | User test      | 11-Mar   |
-| D3.8   | De text-to-speech moet duidelijk zijn zonder kraken                                   | User test      | 11-Mar   |
-| D3.9   | Het programma verloopt lineair                                                        | User test      | 18-May   |
-| D3.10  | De interface geeft duidelijke feedback bij acties                                     | User test      | 18-May   |
-| D3.11  | De interface heeft geen afleidende elementen                                          | User test      | 18-May   |
+| D3.1   | De strafmechanismen mogen geen grote impact hebben op het spel.                        | Concept test   | 08-Dec   |
+| D3.2   | De puntenregistratie moet soepel en foutloos verlopen.                                 | Concept test   | 08-Dec   |
+| D3.3   | De spraakmodule moet luid en duidelijk zijn.                                           | Concept test   | 08-Dec   |
+| D3.4   | De vragen mogen maximaal één regel lang zijn.                                          | Concept test   | 08-Dec   |
+| D3.5   | Tussen de vragen mag er maximaal tien seconden pauze zitten.                           | Concept test   | 27-Dec   |
+| D3.6   | Het vermelden van de uitdaging moet duidelijk zijn.                                    | Concept test   | 27-Dec   |
+| D3.7   | Het programma moet stabiel zijn.                                                       | User test      | 11-Mar   |
+| D3.8   | De text-to-speech moet duidelijk zijn zonder kraken.                                   | User test      | 11-Mar   |
+| D3.9   | Het programma verloopt lineair.                                                        | User test      | 18-May   |
+| D3.10  | De interface geeft duidelijke feedback bij acties.                                     | User test      | 18-May   |
+| D3.11  | De interface heeft geen afleidende elementen.                                          | User test      | 18-May   |
 | **Groep 4** |  **Audiomodule**                                                                       |                |          |
-| D4.1   | De bluetoothverbinding moet stabiel zijn                                              | User test      | 11-Mar   |
-| D4.2   | De bluetoothverbinding moet minstens 15m kunnen overbruggen                           | User test      | 11-Mar   |
-| D4.3   | De oortjes moeten tijdens bewegen stevig vast blijven zitten                          | User test      | 11-Mar   |
-| D4.4   | De oortjes dienen langs de bovenkant van het oor bevestigd te worden                  | User test      | 04-May   |
-| D4.5   | Het materiaal van de oortjes moet zacht en huidvriendelijk zijn                       | User test      | 04-May   |
-| D4.6   | De oortjes moeten compatibel zijn om te dragen met een bril                           | User test      | 04-May   |
-| D4.7   | De oortjes moeten intuïtief geplaatst worden                                          | User test      | 04-May   |
-| D4.8   | De oortjes moeten universeel zijn                                                     | User test      | 04-May   |
-| D4.9   | De oortjes moeten licht zijn                                                          | User test      | 04-May   |
+| D4.1   | De bluetoothverbinding moet stabiel zijn.                                              | User test      | 11-Mar   |
+| D4.2   | De bluetoothverbinding moet minstens 15m kunnen overbruggen.                           | User test      | 11-Mar   |
+| D4.3   | De oortjes moeten tijdens bewegen stevig vast blijven zitten.                          | User test      | 11-Mar   |
+| D4.4   | De oortjes dienen langs de bovenkant van het oor bevestigd te worden.                  | User test      | 04-May   |
+| D4.5   | Het materiaal van de oortjes moet zacht en huidvriendelijk zijn.                       | User test      | 04-May   |
+| D4.6   | De oortjes moeten compatibel zijn om te dragen met een bril.                           | User test      | 04-May   |
+| D4.7   | De oortjes moeten intuïtief geplaatst worden.                                          | User test      | 04-May   |
+| D4.8   | De oortjes moeten universeel zijn.                                                     | User test      | 04-May   |
+| D4.9   | De oortjes moeten licht zijn.                                                          | User test      | 04-May   |
 
 ## Finaal prototype
 Na maanden van testen, bijsturen en ontwikkelen is het eindresultaat klaar: BRIQ – een speelse en doordachte trainingsmodule die fysieke activiteit en cognitieve stimulatie samenbrengt. Ontworpen voor 65-plussers, biedt BRIQ een laagdrempelige en motiverende manier om zowel lichaam als geest actief te houden. Het systeem legt de nadruk op eenvoud, plezier en sociale interactie, zonder in te boeten op functionaliteit of comfort.
