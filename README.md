@@ -363,7 +363,7 @@ De scores in de decision matrix worden per gebruiker omgezet volgens onderstaand
 |----|----|----|----|----|
 | -2 | -1 | 0  | 1  | 2  |
 
-In onderstaande tabel staan de totaalsom van elk kenmer per concept. Deze zijn op hun beurt opgeteld om de totaalsom per concept op te tellen. Al snel valt op dat er enige consitentie is tussen de concepten. De scores die per twee bij elkaar in de buurt liggen zijn telkens een Vizcom render vertrokken uit hetzelfde kartonnen prototype. 
+In onderstaande tabel staan de totaalsom van elk kenmerk per concept. Deze zijn op hun beurt opgeteld om de totaalsom per concept op te tellen. Al snel valt op dat er enige consitentie is tussen de concepten. De scores die per twee bij elkaar in de buurt liggen zijn telkens een Vizcom render vertrokken uit hetzelfde kartonnen prototype. 
 
 
 |               |  <img src="img/clean_style.png"> | <img src="/img/smeg_style.png" > | <img src="/img/modernisme_style.png" > | <img src="img/racecar_style.png" > | <img src="/img/braun_style.png" > | <img src="/img/art_deco_style.png" > |
