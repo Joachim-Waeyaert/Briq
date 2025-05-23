@@ -155,7 +155,7 @@ Bij het weergeven van kleuren bleek dat dit vaak afleidde van het spel. Toch von
 
 ### Conclusies & implicaties
 Uit deze twee gebruikerstesten zijn er enkele belangrijke elementen voortgekomen om zo het product op te bouwen.
-1)	De vragen moeten duidelijker aankomen. Dit kan door ze luider af te spelen of van dichterbij.
+1)	De vragen moeten duidelijker aankomen. 
 2)	De kleur wordt zodanig weergegeven dat deze vanuit een ooghoek zichtbaar is, zonder de aandacht van de bal af te leiden. Mogelijke opties zijn een LED-strip op het net, een luidspreker die de kleur aankondigt, of integratie in een interactief spelelement. Een pluimpje is afgewezen vanwege beperkte toepasbaarheid in andere netsporten zoals tennis en mogelijke duurzaamheidsproblemen.
 3)	De straffen moeten niet te moeilijk gemaakt worden. Het is belangrijker dat de link wordt gelegd met wat er moet gebeuren in plaats van de moeilijkheidsgraad.
 4)	Volgende prototypes moeten meer ontwikkeld worden om zo de geloofwaardigheid van het concept te verhogen.
