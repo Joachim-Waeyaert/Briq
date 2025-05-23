@@ -209,7 +209,7 @@ De oortjes geven een betere ervaring dan de luidspreker. De vragen zijn goed ver
 De uitdagingen zijn duidelijk om uit te voeren. Deze duidelijkheid en beperkte hinder die de uitdaging toebrengt aan het tennissen zorgen voor een positieve ervaring. 
 
 #### Pythonprogramma
-De text-to-speech module werkt goed, de spelers kunnen de vragen en uitdagingen goed verstaan. Hoe dan ook komen er enkele technische beperkingen met zich mee. PyGame had af en toe een onderbreking. Dit verstoort de continuïteit van het spel. Deze storing kan te wijden zijn aan de beperkte wifi verbinding. De sporthal waar de test is afgenomen is volledig uit beton. 
+De text-to-speech module werkt goed, de spelers kunnen de vragen en uitdagingen goed verstaan. Hoe dan ook komen er enkele technische beperkingen met zich mee. PyGame had af en toe een onderbreking. Dit verstoort de continuïteit van het spel. Deze storing kan te wijden zijn aan de beperkte wifi verbinding.. 
 
 ### Conclusies en implicaties
 Deze test toont aan dat er veel potentieel zit in het gebruik van oortjes. De continuïteit van het spel blijft hoog hierdoor. Deze manier zorgt ervoor dat de add-on die BRIQ aanbiedt wordt geapprecieerd en gewaardeerd. Om deze continuïteit te houden is een stabiele bluetooth verbinding tussen de centrale console en de oortjes essentieel. De ergonomie van de oortjes zit nu niet goed. Bij deze test zat het in de oren. 
