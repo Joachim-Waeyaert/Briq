@@ -258,7 +258,7 @@ Om dieper in te gaan op de technische werking van het programma is een aparte ha
 
 ## Develop 2 (N=4)
 ### Doelstellingen
-In de tweede fase van het ontwerpproces wordt de focus gelegd op de ergonomie van het oortje. Het is van groot belang dat deze tijdens het sporten goed zitten zonder irritatie te veroorzaken na een langere tijdsperiode (meer dan 1u). Desondanks is het vereist dat de oortjes bij bruuskere bewegingen niet uit het oor vallen.
+In de tweede fase van het ontwerpproces wordt de focus gelegd op de ergonomie van het oortje. Het is van groot belang dat deze tijdens het sporten goed zitten zonder irritatie te veroorzaken na een langere tijdsperiode (meer dan 1u). Desondanks is het vereist dat de oortjes bij bruuskere bewegingen niet uit het oor vallen. Ook al zijn er al veel verschillende ontwerpen van oortjes beschikbaar op de markt zijn er nog geen oortjes te vinden die via bone conduction werken en maar aan één oor zit. Een vaak voorkomend ontwerp is dat er een brugverbinding langs het achterhoofd tot aan het andere oor loopt. Deze verbinding geeft extra steun en stevigheid.
 
 ### Materiaal en methoden
 Voor deze develop fase worden de oortjes gemaakt uit een stuk ijzerdraad met daarrond plasticine. Deze methode zorgt ervoor dat er op een makkelijke en snelle manier veel verschillende vormen geëxploreerd kunnen worden. Aansluitend is dit ook ideaal om organische vormen te prototypen. Omwille van het feit dat de BRIQ doos gemaakt wordt met als doel dat het wordt uitgeleend door sportcentra en/of rusthuizen worden de oortjes ontworpen vanuit het idee dat het via bone conduction werkt. Dit zit niet in het oorkanaal wat op vlak van hygiëne een belangrijk pluspunt is.
