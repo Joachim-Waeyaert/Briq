@@ -321,9 +321,13 @@ Om de Briq gebruiksvriendelijk te maken en bovendien frustraties weg te werken i
 De interfaces worden getest door op elk van de interfaces dezelfde opdracht uit te voeren. Deze opdracht staat gelijk met de gewone werking van het product, namelijk oortjes verbinden, een thema kiezen en uiteindelijk het spel starten. Elke interface wordt opgevolgd met een UMUX vragenlijst. Om volgorde-effecten tegen te gaan wordt gebruik gemaakt van een latijns vierkant als counterbalanceringsmethode.
 
 #### Behuizing
-Om een idee te krijgen over hoe een mooie behuizing kon worden uitgewerkt werd eerst en vooral iteraties gedaan op papier. Waarna een selectie van die iteraties in karton zijn uitgewerkt om een eerste tastbare indruk te krijgen van de behuizingen. 
+
+Om een idee te krijgen over hoe een mooie behuizing kon worden uitgewerkt werd eerst en vooral een morfologische kaart gemaakt. Deze manier van werken zorgt ervoor dat de designer een grote verscheidenheid aan combinaties kan creëren. Waarna een selectie van die iteraties in karton zijn uitgewerkt om een eerste tastbare indruk te krijgen van de behuizingen. 
 De onderstaande afbeeldingen geven de uitgewerkte prototypes weer. Bij het eerste prototype is het scherm langs de bovenkant. De oortjes hangen vast aan de zijkant. Het tweede prototype maakt gebruik van een deksel om het scherm en oortjes te beschermen. Het laatste prototype heeft aparte schuifjes voorzien voor de oortjes.
 
+<p align="center">
+  <img src="img/morfologische_kaart.png" width="500%">
+</p>
 <p align="center">
   <img src="img/Prototype1_develop.jpg" width="30%">
   <img src="/img/Prototype2_develop.jpg" width="30%">
