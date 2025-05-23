@@ -231,7 +231,7 @@ De text-to-speech module geeft een duidelijke vraag weer. Op deze methode wordt 
 
 
 ### Besturingsmodule
-Tijdens de eerste ontwikkelfase (Develop 1) werd een deel van de back-endlogica ontwikkeld in Python, met als doel de eerste functionele testen uit te voeren. Deze basis werd doorheen de daaropvolgende ontwikkelfases verder verfijnd en uitgebreid.
+Tijdens de eerste ontwikkelfase (develop 1) werd een deel van de back-endlogica ontwikkeld in Python, met als doel de eerste functionele testen uit te voeren. Deze basis werd doorheen de daaropvolgende ontwikkelfases verder verfijnd en uitgebreid.
 
 De applicatie is modulair opgebouwd en bestaat uit meerdere onderling gekoppelde scripts. Het programma wordt opgestart via het script genaamd "main", dat als hoofdmodule fungeert. Bij het starten van dit script wordt eerst een splashscreen geactiveerd dat het logo op het scherm toont. Na afloop van deze animatie schakelt het systeem automatisch over naar het verbindingsscherm.
 
