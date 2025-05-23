@@ -61,7 +61,7 @@ In de daaropvolgende fase werd het concept ontwikkeld op basis van de resultaten
 ## Discovery
 In dit onderdeel wordt onderzocht wat zich binnen de probleemruimte bevindt en of er mogelijke oplossingen voor deze kwesties gevonden kunnen worden. Om inzicht te krijgen in de probleemruimte worden enerzijds interviews afgenomen om te begrijpen hoe mensen het probleem ervaren, en anderzijds wordt gekeken naar bestaande oplossingen op de markt en de hiaten die benut kunnen worden.
 ### Doelstellingen
-Een duidelijke ‘how might we’ bekomen
+Een duidelijke ‘how might we’ bekomen.
 
 ### Materiaal & methoden
 -	Benchmarking
