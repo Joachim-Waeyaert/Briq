@@ -268,6 +268,7 @@ Twee van de oortjes (eerste en laatste oortje op onderstaande foto) zijn hetzelf
   <img src="img/dev2_make1_1.jpg" height="300px">
   <img src="/img/dev2_make2.jpg" height="300px">
 </p>
+
 ### Resultaten
 Tijdens het testen van verschillende oortjesontwerpen kwamen duidelijke voorkeuren en knelpunten naar voren. Het model met een beugel rond het oor kreeg de meeste kritiek. Gebruikers gaven aan dat het lastig was aan te brengen, onvoldoende stabiel zat en fysieke ongemakken veroorzaakte, zoals schuren of druk tegen de schedel. Ook werd het ontwerp als omslachtig en zwaar ervaren, met het risico dat het bij beweging loskomt.
 
