@@ -259,7 +259,10 @@ In de tweede fase van het ontwerpproces wordt de focus gelegd op de ergonomie va
 Voor deze develop fase worden de oortjes gemaakt uit een stuk ijzerdraad met daarrond plasticine. Deze methode zorgt ervoor dat er op een makkelijke en snelle manier veel verschillende vormen geëxploreerd kunnen worden. Aansluitend is dit ook ideaal om organische vormen te prototypen. Omwille van het feit dat de BRIQ doos gemaakt wordt met als doel dat het wordt uitgeleend door sportcentra en/of rusthuizen worden de oortjes ontworpen vanuit het idee dat het via bone conduction werkt. Dit zit niet in het oorkanaal wat op vlak van hygiëne een belangrijk pluspunt is.
 
 Twee van de oortjes (eerste en laatste oortje op onderstaande foto) zijn hetzelfde van vorm. Het enige verschil tussen deze twee is de grootte van het oortje. Beide oortjes rusten op de bovenkant van het oor. Het derde prototype (tweede oortje van links) gaat ook langs de bovenkant van het oor maar maakt gebruik van een beugel die rond het hoofd gaat. Deze beugel zit in de test om te zien of het voor meer stevigheid zorgt tijdens het sporten. Het laatste oortje (derde oortje van links) gaat langs de onderkant van het oor. De bovenkant heeft een klein haakje zodat het blijft hangen, het speakergedeelte gaat rond de onderkant tot aan het bot voor de boneconduction oortjes
-
+<p align="center">
+  <img src="img/dev2_make1_1.jpg" width="40%">
+  <img src="/img/dev2_make2.jpg" width="40%">
+</p>
 ### Resultaten
 Tijdens het testen van verschillende oortjesontwerpen kwamen duidelijke voorkeuren en knelpunten naar voren. Het model met een beugel rond het oor kreeg de meeste kritiek. Gebruikers gaven aan dat het lastig was aan te brengen, onvoldoende stabiel zat en fysieke ongemakken veroorzaakte, zoals schuren of druk tegen de schedel. Ook werd het ontwerp als omslachtig en zwaar ervaren, met het risico dat het bij beweging loskomt.
 
