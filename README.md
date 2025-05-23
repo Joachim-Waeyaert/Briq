@@ -50,7 +50,7 @@ Het product bestaat uit twee componenten. Enerzijds de centrale console, anderzi
 ## Methodologie
 Om structuur aan te brengen in het ontwerpproces werd er gebruik gemaakt van een duidelijke methodologie, die het eerste semester opdelen in twee grote fasen. De focus lag hierbij altijd op de gebruiker. De opzet van deze methodologie was ontworpen om zo veel mogelijk inzichten te verkrijgen om het ontwerp te verbeteren en verder te ontwikkelen.
 
-  <img src="/img/quadruple_diamond.svg" width="100%">
+  <img src="/img/quadruple_diamond.png" width="100%">
   
 ### Discovery
 De eerste fase werd gestart door een heldere probleemstelling te formuleren. Dit was noodzakelijk om het probleem goed af te bakenen en gerichte stappen te kunnen zetten. Tijdens deze fase werden benchmarks uitgevoerd om te onderzoeken wat er al op de markt beschikbaar was. Dit gaf een overzicht van de bestaande oplossingen en liet zien waar verbeteringen mogelijk waren. Daarnaast werden er ook user interviews gehouden om de gebruiker beter te begrijpen. Deze gesprekken gaven inzicht in de problemen en uitdagingen die zij ondervonden, wat essentieel was om de problemen goed te kunnen definiëren. Door deze aanpak kreeg het ontwerpproces meteen een gerichte focus, wat cruciaal was voor de volgende fasen.
