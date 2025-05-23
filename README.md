@@ -241,7 +241,7 @@ Zodra beide oortjes met succes verbonden zijn, schakelt het programma over naar 
 
 **Werking quiz game:**
 <p align="center">
-  <img src="/img/Flowchart_quizgame1.png" width="70%">
+  <img src="/img/Flow Chart Quiz Game1.png" width="70%">
 </p>
 
 Het belangrijkste probleem dat zich voordeed, was dat er vaak meerdere manieren waren om een vraag te beantwoorden. Dit was niet alleen te wijten aan verschillende accenten, maar ook aan de verscheidenheid aan mogelijke antwoorden. Een voorbeeld hiervan is de vraag: "Wie was de koning van België in 1964?" Deze vraag kan beantwoord worden met "Koning Boudewijn de Eerste" of "Boudewijn Eén".
