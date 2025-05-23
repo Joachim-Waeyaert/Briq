@@ -326,7 +326,7 @@ Om een idee te krijgen over hoe een mooie behuizing kon worden uitgewerkt werd e
 De onderstaande afbeeldingen geven de uitgewerkte prototypes weer. Bij het eerste prototype is het scherm langs de bovenkant. De oortjes hangen vast aan de zijkant. Het tweede prototype maakt gebruik van een deksel om het scherm en oortjes te beschermen. Het laatste prototype heeft aparte schuifjes voorzien voor de oortjes.
 
 <p align="center">
-  <img src="img/morfologische_kaart.png" width="500%">
+  <img src="img/morfologische_kaart.png" width="60%">
 </p>
 <p align="center">
   <img src="img/Prototype1_develop.jpg" width="30%">
