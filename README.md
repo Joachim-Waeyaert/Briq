@@ -8,7 +8,7 @@ Hoe kunnen 65-plussers samengebracht worden om aan multisensoriële oefeningen t
 ## Samenvatting
 Dementie wordt vaak behandeld in plaats van te voorkomen, terwijl preventie juist essentieel is. Uit wetenschappelijk onderzoek blijkt dat een combinatie van cognitieve en fysieke stimulatie kan bijdragen aan het uitstellen van dementie (Venesson, 2023)[^2]. Daarnaast toont onderzoek aan dat sociale interactie een positieve invloed heeft op de cognitieve vaardigheden. Wanneer dergelijke onderzoeken zijn uitgevoerd binnen de doelgroep, werd duidelijk dat motivatie een cruciale rol speelt. Regelmatig gebruik blijkt namelijk moeilijk zonder een sterke drijfveer.
 
-Om deze motivatie te stimuleren, werd onderzocht hoe deze geïntegreerd kan worden in producten zoals de Briq. Drie belangrijke motivatiefactoren kwamen naar voren. Ten eerste is het belangrijk om aan te sluiten bij de interesses en hobby’s van mensen. Ten tweede speelt sociaal contact een grote rol, aangezien veel ouderen dit als een zeer belangrijk aspect ervaren. Tot slot is gebruiksvriendelijkheid van belang; het product moet niet te innovatief of ingewikkeld zijn, omdat dit voor oudere gebruikers een barrière kan vormen.
+Om deze motivatie te stimuleren, werd onderzocht hoe deze geïntegreerd kan worden in producten zoals de BRIQ. Drie belangrijke motivatiefactoren kwamen naar voren. Ten eerste is het belangrijk om aan te sluiten bij de interesses en hobby’s van mensen. Ten tweede speelt sociaal contact een grote rol, aangezien veel ouderen dit als een zeer belangrijk aspect ervaren. Tot slot is gebruiksvriendelijkheid van belang; het product moet niet te innovatief of ingewikkeld zijn, omdat dit voor oudere gebruikers een barrière kan vormen.
 
 Door deze drie aspecten te combineren met een multisensorische aanpak, kan dementie bij gezonde 65-plussers mogelijk worden uitgesteld. Dit benadrukt het belang van preventieve maatregelen die zowel stimulerend als toegankelijk zijn voor ouderen.
 
@@ -25,12 +25,12 @@ Door deze drie aspecten te combineren met een multisensorische aanpak, kan demen
 
 
 ## Introductie
-Het project ‘Briq’ is ontstaan vanuit het thema ‘Healthy Aging’, waarbij gezocht wordt naar manieren om zowel fysiek als mentaal gezond ouder te worden. Dit thema is geïnspireerd door Ronnie Gardiner, een jazzdrummer die merkte dat drummen niet alleen zijn stemming verbeterde, maar ook zijn motoriek en cognitieve vaardigheden stimuleerde. Deze inzichten leidden tot de ontwikkeling van de Ronnie Gardiner Methode (RGM), een oefenmethode die ritme en muziek gebruikt om meerdere hersengebieden tegelijk te activeren. De methode stimuleert motoriek, spraak en cognitie, en wordt momenteel toegepast in klinische omgevingen, bijvoorbeeld bij revalidatie van neurologische aandoeningen.
+Het project ‘BRIQ’ is ontstaan vanuit het thema ‘Healthy Aging’, waarbij gezocht wordt naar manieren om zowel fysiek als mentaal gezond ouder te worden. Dit thema is geïnspireerd door Ronnie Gardiner, een jazzdrummer die merkte dat drummen niet alleen zijn stemming verbeterde, maar ook zijn motoriek en cognitieve vaardigheden stimuleerde. Deze inzichten leidden tot de ontwikkeling van de Ronnie Gardiner Methode (RGM), een oefenmethode die ritme en muziek gebruikt om meerdere hersengebieden tegelijk te activeren. De methode stimuleert motoriek, spraak en cognitie, en wordt momenteel toegepast in klinische omgevingen, bijvoorbeeld bij revalidatie van neurologische aandoeningen.
 Onderzoek[^2] wijst uit dat een combinatie van fysieke en cognitieve uitdagingen elkaar versterkt. In 2023 benadrukte Julien Venesson dit met zijn onderzoek naar myokines – hormonen die vrijkomen door spieractiviteit en bijdragen aan de vorming van nieuwe hersencellen (Venesson, 2023). Dit bevestigt de kracht van beweging in combinatie met mentale stimulatie, zoals toegepast in de RGM-methode.
 
 > "Myokines: het verjongende hormoon dat door onze spieren wordt geproduceerd" (Venesson, 2023)[^2].
 
-De _design challenge_ binnen het project 'Briq' is om een slim product te ontwikkelen dat de RGM-methode op een vernieuwende en toegankelijke manier implementeert. Het doel is om een product te ontwerpen dat niet alleen geschikt is voor klinische toepassingen, maar ook gezonde ouderen stimuleert om mentaal en fysiek actief te blijven. 
+De _design challenge_ binnen het project 'BRIQ' is om een slim product te ontwikkelen dat de RGM-methode op een vernieuwende en toegankelijke manier implementeert. Het doel is om een product te ontwerpen dat niet alleen geschikt is voor klinische toepassingen, maar ook gezonde ouderen stimuleert om mentaal en fysiek actief te blijven. 
 
 > [!IMPORTANT]
 > Randvoorwaarden:
@@ -80,7 +80,7 @@ Daarnaast werd het belang van de gebruiksvriendelijkheid van de technologie bena
 
 #### Benchmarks (N=10)
 Het doel van het marktonderzoek was om te onderzoeken welke aspecten van het "Aging Young"-concept al aanwezig zijn op de markt en welke van deze aspecten gebruikt of verbetert kunnen worden. Hiervoor werden verschillende bestaande producten of methodes onderzocht en hun voor- en nadelen geanalyseerd. 
-Het viel op dat er veel cognitieve en fysieke oefeningen beschikbaar zijn, maar dat de combinatie van beide vaak beperkt is. Een belangrijk kenmerk van "Aging Young" is dat zowel het fysieke gedeelte intensief genoeg moet zijn, als het cognitieve gedeelte prikkelend genoeg. In veel gevallen blijkt het cognitieve gedeelte voldoende prikkeling te bieden, maar blijft het fysieke aspect niet intensief genoeg. Dit kan verklaard worden door de context waarin deze producten of oefenmethoden doorgaans worden toegepast, vaak in zorginstellingen zoals verpleeghuizen. Daar zijn de bewoners vaak niet mobiel genoeg om intensieve fysieke oefeningen uit te voeren of bevinden zij zich al in een gevorderd stadium van dementie. Met de Briq willen we echter juist focussen op mensen die nog in staat zijn om intensieve fysieke activiteiten uit te voeren en die thuis wonen, zonder de hulp van een zorgverlener of instructeur.
+Het viel op dat er veel cognitieve en fysieke oefeningen beschikbaar zijn, maar dat de combinatie van beide vaak beperkt is. Een belangrijk kenmerk van "Aging Young" is dat zowel het fysieke gedeelte intensief genoeg moet zijn, als het cognitieve gedeelte prikkelend genoeg. In veel gevallen blijkt het cognitieve gedeelte voldoende prikkeling te bieden, maar blijft het fysieke aspect niet intensief genoeg. Dit kan verklaard worden door de context waarin deze producten of oefenmethoden doorgaans worden toegepast, vaak in zorginstellingen zoals verpleeghuizen. Daar zijn de bewoners vaak niet mobiel genoeg om intensieve fysieke oefeningen uit te voeren of bevinden zij zich al in een gevorderd stadium van dementie. Met de BRIQ willen we echter juist focussen op mensen die nog in staat zijn om intensieve fysieke activiteiten uit te voeren en die thuis wonen, zonder de hulp van een zorgverlener of instructeur.
 Een ander opvallend aspect was dat er vaak geen aandacht wordt besteed aan de motivatie van gebruikers om regelmatig met de producten of oefeningen te blijven werken, vooral wanneer er niemand aanwezig is om hen aan te moedigen of te begeleiden. Om hier meer inzicht in te krijgen, werd er tijdens de interviews (zie ‘user interviews’) verder onderzocht wat de drijvende kracht is achter de motivatie van gebruikers om actief betrokken te blijven bij deze producten.
 <p align="center">
   <img src="img/Benchmarking-1.jpg" width="49%">
@@ -235,7 +235,7 @@ Tijdens de eerste ontwikkelfase (Develop 1) werd een deel van de back-endlogica 
 
 De applicatie is modulair opgebouwd en bestaat uit meerdere onderling gekoppelde scripts. Het programma wordt opgestart via het script genaamd "main", dat als hoofdmodule fungeert. Bij het starten van dit script wordt eerst een splashscreen geactiveerd dat het logo op het scherm toont. Na afloop van deze animatie schakelt het systeem automatisch over naar het verbindingsscherm.
 
-In dit scherm worden twee knoppen weergegeven waarmee verbinding kan worden gemaakt met de draadloze oortjes. Bij het activeren van een knop zoekt het systeem automatisch het bijbehorende MAC-adres op via de Raspberry Pi en probeert hiermee verbinding te maken. Aangezien de microcomputer die in het Briq-project werd gebruikt niet in staat is om gelijktijdig meerdere audioapparaten aan te sturen, werd gekozen voor het gebruik van twee afzonderlijke Bluetooth-adapters. Elke adapter ontvangt een apart signaal en wordt door de microcomputer herkend als een individuele Bluetooth-verbinding.
+In dit scherm worden twee knoppen weergegeven waarmee verbinding kan worden gemaakt met de draadloze oortjes. Bij het activeren van een knop zoekt het systeem automatisch het bijbehorende MAC-adres op via de Raspberry Pi en probeert hiermee verbinding te maken. Aangezien de microcomputer die in het BRIQ-project werd gebruikt niet in staat is om gelijktijdig meerdere audioapparaten aan te sturen, werd gekozen voor het gebruik van twee afzonderlijke Bluetooth-adapters. Elke adapter ontvangt een apart signaal en wordt door de microcomputer herkend als een individuele Bluetooth-verbinding.
 
 Zodra beide oortjes met succes verbonden zijn, schakelt het programma over naar het keuzescherm voor de spelcategorieën. Na het selecteren van een categorie kan het spel vervolgens worden gestart.
 
@@ -307,7 +307,7 @@ In deze derde ontwikkelingsronde ligt de focus op het verbeteren van zowel de ge
 
 ### Materiaal en methoden
 #### Interface
-Om de Briq gebruiksvriendelijk te maken en bovendien frustraties weg te werken is een goede interface essentieel. Om die reden zijn er vier verschillende interfaces die getest worden. Per interface is er een andere insteek gebruikt. De eerste interface is gebaseerd op WhatsApp, een populaire app onder de ouderen (Sánchez-Juárez Pradal, 2019)[^3]. Het tweede prototype legt de focus op een interface die zeer basis is. Er zijn geen bepaalde aandachtstrekkers verwerkt in het scherm. Als derde interface wordt er onderzoek gedaan op google scholar naar papers over gebruiksvriendelijke interfaces voor ouderen (Lin, Hsieh, & Shiang, 2009; Zhao & Chen, 2020; Zhou et al., 2022)[^4][^5][^6]. Het vierde en laatste interface zwenkt meer af naar de sportcontext. Deze is gebaseerd op de populaire Strava app. Ook heeft deze interface nog een toevoeging, een coach die je door de verschillende schermen leidt. Voor een meer diepgaande analyse over de opbouw van de interface is deze raadpleegbaar in [bijlage 14](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EWJNR97-HidJr0l_aQn86SYBAPjInbjvQXtynCUaRM3Meg?e=vYPmrd). 
+Om de BRIQ gebruiksvriendelijk te maken en bovendien frustraties weg te werken is een goede interface essentieel. Om die reden zijn er vier verschillende interfaces die getest worden. Per interface is er een andere insteek gebruikt. De eerste interface is gebaseerd op WhatsApp, een populaire app onder de ouderen (Sánchez-Juárez Pradal, 2019)[^3]. Het tweede prototype legt de focus op een interface die zeer basis is. Er zijn geen bepaalde aandachtstrekkers verwerkt in het scherm. Als derde interface wordt er onderzoek gedaan op google scholar naar papers over gebruiksvriendelijke interfaces voor ouderen (Lin, Hsieh, & Shiang, 2009; Zhao & Chen, 2020; Zhou et al., 2022)[^4][^5][^6]. Het vierde en laatste interface zwenkt meer af naar de sportcontext. Deze is gebaseerd op de populaire Strava app. Ook heeft deze interface nog een toevoeging, een coach die je door de verschillende schermen leidt. Voor een meer diepgaande analyse over de opbouw van de interface is deze raadpleegbaar in [bijlage 14](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EWJNR97-HidJr0l_aQn86SYBAPjInbjvQXtynCUaRM3Meg?e=vYPmrd). 
 
 <p align="center">
   <img src="img/whatsapp1.png" height="200px">
@@ -347,7 +347,7 @@ In een volgende stap werd met behulp van Vizcom onderzocht welk gevoel het produ
   <img src="/img/braun_style.png" height="200px">
   <img src="/img/art_deco_style.png" height="200px">
 </p>
-Deze renders worden dan voorgesteld aan de doelgroep en met behulp van een decision matrix een beeld geschept over hoe zij de uitwerkingen van de producten inschatten en welk gevoel ze daarbij hebben. Met deze info kan dan aan de slag worden gegaan om een uiteindelijke behuizing te maken voor de Briq. 
+Deze renders worden dan voorgesteld aan de doelgroep en met behulp van een decision matrix een beeld geschept over hoe zij de uitwerkingen van de producten inschatten en welk gevoel ze daarbij hebben. Met deze info kan dan aan de slag worden gegaan om een uiteindelijke behuizing te maken voor de BRIQ. 
 
 ### Resultaten
 #### Interface
@@ -446,7 +446,7 @@ Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision m
 | D4.9   | De oortjes moeten licht zijn                                                          | User test      | 04-May   |
 
 ## Finaal prototype
-Na maanden van testen, bijsturen en ontwikkelen is het eindresultaat klaar: Briq – een speelse en doordachte trainingsmodule die fysieke activiteit en cognitieve stimulatie samenbrengt. Ontworpen voor 65-plussers, biedt Briq een laagdrempelige en motiverende manier om zowel lichaam als geest actief te houden. Het systeem legt de nadruk op eenvoud, plezier en sociale interactie, zonder in te boeten op functionaliteit of comfort.
+Na maanden van testen, bijsturen en ontwikkelen is het eindresultaat klaar: BRIQ – een speelse en doordachte trainingsmodule die fysieke activiteit en cognitieve stimulatie samenbrengt. Ontworpen voor 65-plussers, biedt BRIQ een laagdrempelige en motiverende manier om zowel lichaam als geest actief te houden. Het systeem legt de nadruk op eenvoud, plezier en sociale interactie, zonder in te boeten op functionaliteit of comfort.
 
 ### Centrale console
 De console vormt het centrale punt van het systeem. Via een eenvoudig keuzemenu selecteert de gebruiker een thema en start het spel. De grote, duidelijke knoppen en het lineaire verloop maken de bediening vlot. Het ontwerp is robuust en intuïtief, wat zorgt voor vertrouwen bij de gebruiker. De afsluitbare behuizing beschermt het systeem en maakt het geschikt voor gebruik in sportieve omgevingen.
@@ -479,7 +479,7 @@ Uiteindelijk zijn de accenten aangebracht op de console, het scherm er in verwer
 
 
 ### Draadloze oortjes
-Voor de auditieve begeleiding maakt Briq gebruik van bone conduction-oortjes. Deze technologie zorgt ervoor dat gesproken instructies helder en zonder afleiding worden weergegeven, zonder de oren af te sluiten. Het ergonomische ontwerp blijft goed zitten tijdens beweging en is ook bruikbaar in combinatie met een bril. De keuze voor draadloze oortjes draagt bij aan een opgeruimd en vrij gevoel tijdens het spel.
+Voor de auditieve begeleiding maakt BRIQ gebruik van bone conduction-oortjes. Deze technologie zorgt ervoor dat gesproken instructies helder en zonder afleiding worden weergegeven, zonder de oren af te sluiten. Het ergonomische ontwerp blijft goed zitten tijdens beweging en is ook bruikbaar in combinatie met een bril. De keuze voor draadloze oortjes draagt bij aan een opgeruimd en vrij gevoel tijdens het spel.
 
 ### CMF
 #### Color
@@ -492,7 +492,7 @@ Voor de behuizing van het product wordt hoogwaardig ABS-kunststof aanbevolen. AB
 Om het product een hoogwaardige uitstraling te geven, wordt gekozen voor een hoogglans afwerking voorzien van een UV-bestendige laklaag. Deze lak beschermt het oppervlak tegen verkleuring en materiaaldegradatie door langdurige blootstelling aan zonlicht, wat cruciaal is bij outdoor gebruik. De glanzende finish versterkt het premium karakter van het product en maakt het aantrekkelijk voor eindgebruikers. Een optie die niet verkend is maar wel nog toegepast kan worden is aan de onderzijde van het product een soft-touch coating worden aangebracht. Deze matte, rubberachtige textuur verhoogt de grip en het gebruikerscomfort, vooral tijdens actieve toepassingen.
 
 ### Conclusie
-Briq vormt het resultaat van een intensief en iteratief ontwerpproces, waarbij functionaliteit, gebruiksgemak en aantrekkelijkheid hand in hand zijn gegaan. Elk aspect van het systeem – van de centrale console tot de auditieve ondersteuning en de zorgvuldig gekozen materialen en afwerking – is ontworpen met oog voor de noden en mogelijkheden van de 65-plusser. Het prototype toont niet alleen de technische haalbaarheid van het concept, maar ook hoe design een rol kan spelen in het stimuleren van beweging, cognitieve prikkeling en sociale betrokkenheid. Met Briq wordt aangetoond dat innovatieve technologie en toegankelijk ontwerp elkaar kunnen versterken in het creëren van betekenisvolle gebruikerservaringen.
+BRIQ vormt het resultaat van een intensief en iteratief ontwerpproces, waarbij functionaliteit, gebruiksgemak en aantrekkelijkheid hand in hand zijn gegaan. Elk aspect van het systeem – van de centrale console tot de auditieve ondersteuning en de zorgvuldig gekozen materialen en afwerking – is ontworpen met oog voor de noden en mogelijkheden van de 65-plusser. Het prototype toont niet alleen de technische haalbaarheid van het concept, maar ook hoe design een rol kan spelen in het stimuleren van beweging, cognitieve prikkeling en sociale betrokkenheid. Met BRIQ wordt aangetoond dat innovatieve technologie en toegankelijk ontwerp elkaar kunnen versterken in het creëren van betekenisvolle gebruikerservaringen.
 <p align="center">
   <img src="/img/render briq zonder environment1.png" width="49%">  
   <img src="/img/close up1.png" width="49%"> 
@@ -542,7 +542,7 @@ Binnen de scope van dit project is bewust gekozen om de focus te leggen op de on
 Tijdens het testen werd gebruikgemaakt van betaalbare oortjes. Hoewel dit soms leidde tot instabiele verbindingen en verminderde geluidskwaliteit, heeft dit waardevolle inzichten opgeleverd over de vereisten voor de uiteindelijke hardwarekeuze. In een volgende iteratie zullen kwalitatieve oortjes worden geïntegreerd, afgestemd op langdurig gebruik en optimaal draagcomfort.
 
 
-De onderzoeksvraag is met vertrouwen beantwoord. Oudere gebruikers tonen enthousiasme en motivatie om Briq te gebruiken in een sociale omgeving, wat wijst op het potentieel van dit product om bij te dragen aan actieve veroudering. Door cognitieve stimulatie te combineren met fysieke beweging biedt Briq een waardevolle oplossing in de strijd tegen dementie. Het project legt een stevige basis voor verdere optimalisatie en opschaling, met de overtuiging dat gezond en plezierig ouder worden voor iedereen haalbaar is.
+De onderzoeksvraag is met vertrouwen beantwoord. Oudere gebruikers tonen enthousiasme en motivatie om BRIQ te gebruiken in een sociale omgeving, wat wijst op het potentieel van dit product om bij te dragen aan actieve veroudering. Door cognitieve stimulatie te combineren met fysieke beweging biedt BRIQ een waardevolle oplossing in de strijd tegen dementie. Het project legt een stevige basis voor verdere optimalisatie en opschaling, met de overtuiging dat gezond en plezierig ouder worden voor iedereen haalbaar is.
 
 
 
