@@ -530,11 +530,19 @@ Een belangrijk inzicht dat naar voren is gekomen, is dat de veelzijdigheid van B
 
 ### Semester 2
 #### Besturingsmodule
-Door tijdsgebrek is de gewenste interface niet geïmplementeerd in het pythonscript. Ook is het opstarten van de code nog niet volautomatisch. De bedoeling is dat de gebruiker de doos opent en meteen kan beginnen met de BRIQ te gebruiken. De vragen die tijdens het spel gesteld worden komen uit een vaste lijst van vragen. Een mogelijke oplossing om er toch voor te zorgen dat de vragen hedendaags blijven is de integratie van een AI model dat om de zoveel tijd een nieuwe lijst van vragen genereerd. Hierdoor blijft het product langdurig relevant, aangezien de gestelde vragen telkens verschillen en zelden identiek zijn.
+De huidige versie van de besturingsmodule legt een solide basis voor de verdere ontwikkeling van de interface. Hoewel het Python-script op dit moment nog handmatig gestart moet worden en de volledige interface nog niet geïntegreerd is, is het doel duidelijk: een systeem dat automatisch opstart en direct klaar is voor gebruik zodra de doos wordt geopend.
+
+De vragen die tijdens het spel worden gesteld zijn momenteel afkomstig uit een vaste lijst. Om de relevantie en dynamiek van het spel op lange termijn te garanderen, wordt er gekeken naar de integratie van een AI-model dat periodiek nieuwe vragen genereert. Dit zou niet alleen zorgen voor meer variatie, maar ook voor een verhoogde betrokkenheid van de gebruiker, omdat het spel zich steeds aanpast aan de tijd en context.
+
+Wat betreft de bluetoothconnectiviteit: veel standaard Windows- en Linux-systemen ondersteunen geen meerdere gelijktijdige bluetoothverbindingen. Een toekomstige uitbreiding voorziet daarom in de integratie van een bluetooth splitter, wat een vlotte en stabiele connectie met meerdere apparaten mogelijk maakt.
 
 #### Oortjes
-Vanwege de beperkte middelen is ervoor gekozen de focus te leggen op de centrale console in plaats van op de oortjes. De ontwikkeling van de oortjes zou namelijk te veel tijd en middelen vergen, waardoor de centrale console mogelijk onderbelicht zou blijven. Deze ontwikkeling vereist ook een expertise omwille van de kleine elektronica.
-Voor de testen zijn er oortjes aangekocht. De oortjes die hiervoor gebruikt zijn, zijn goedkoop. Dit zorgde ervoor dat er geen stabiele verbinding was en kwam ook de kwaliteit ten slechte. Dit aspect had vermeden kunnen worden tijdens de test door kwalitatievere items te kunnen gebruiken.
+Binnen de scope van dit project is bewust gekozen om de focus te leggen op de ontwikkeling van de centrale console, de kern van het systeem. De oortjes maken uiteraard een belangrijk deel uit van de gebruikerservaring, maar een op maat gemaakte oplossing vereiste gespecialiseerde kennis en extra middelen. Daarom is gekozen voor een bestaande oplossing, zodat de functionaliteit getest kon worden zonder het ontwikkelproces van de console te compromitteren.
+
+Tijdens het testen werd gebruikgemaakt van betaalbare oortjes. Hoewel dit soms leidde tot instabiele verbindingen en verminderde geluidskwaliteit, heeft dit waardevolle inzichten opgeleverd over de vereisten voor de uiteindelijke hardwarekeuze. In een volgende iteratie zullen kwalitatieve oortjes worden geïntegreerd, afgestemd op langdurig gebruik en optimaal draagcomfort.
+
+
+De onderzoeksvraag is met vertrouwen beantwoord. Oudere gebruikers tonen enthousiasme en motivatie om Briq te gebruiken in een sociale omgeving, wat wijst op het potentieel van dit product om bij te dragen aan actieve veroudering. Door cognitieve stimulatie te combineren met fysieke beweging biedt Briq een waardevolle oplossing in de strijd tegen dementie. Het project legt een stevige basis voor verdere optimalisatie en opschaling, met de overtuiging dat gezond en plezierig ouder worden voor iedereen haalbaar is.
 
 
 
