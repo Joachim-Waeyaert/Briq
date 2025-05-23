@@ -252,7 +252,7 @@ De oplossing voor dit probleem werd gevonden door het gebruik van de library 'Se
 
 De gewenste gebruikersinterface is ontworpen in Figma en grondig onderzocht tijdens de ontwerpfase van develop 3. Voor het prototypen en testen van de programmalogica is gekozen voor een vereenvoudigde interface, ontwikkeld met behulp van Tkinter. Dit om wat tijd te besparen in het testen van de code. 
 
-De huidige versie van de interface bevat nog niet het uiteindelijke ontwerp uit Figma, aangezien deze fase voornamelijk gericht is op het aantonen van de functionele werking van het programma. Het is de bedoeling dat uiteindelijk de Figma-interface volledig geïntegreerd wordt in de Python code.
+De huidige versie van de interface bevat nog niet het uiteindelijke ontwerp uit Figma, aangezien deze fase voornamelijk gericht is op het aantonen van de functionele werking van het programma en de tijd beperkt was. Het is de bedoeling dat uiteindelijk de Figma-interface volledig geïntegreerd wordt in de Python code.
 
 Om dieper in te gaan op de technische werking van het programma is een aparte handleiding opgesteld. Deze handleiding biedt een overzicht van de gebruikte code, legt stap voor stap de werking uit en bevat instructies voor installatie en gebruik. Die handleiding kunt u terugvinden onder [bijlage 16](https://ugentbe-my.sharepoint.com/:w:/g/personal/kasper_stas_ugent_be/EZiMYHiFnaRJllkjAzpcveQB6Tu8fkxD4TQldyxbMwVdAw?e=pHDd6y)
 
@@ -521,13 +521,22 @@ Briq vormt het resultaat van een intensief en iteratief ontwerpproces, waarbij f
 
 
 ## Kritische reflectie
+### Semester 1
 Sinds het samenstellen van de groepen is het project in een constante stroomversnelling terechtgekomen. Dankzij een gezamenlijke, kritische benadering heeft het gekozen concept doorlopend verfijning en verbetering ondergaan. Elk idee werd zorgvuldig geanalyseerd en getest, wat leidde tot een sterke basis voor verdere ontwikkeling. Ondanks onverwachte obstakels, zoals het last-minute afzeggen van de testgroep in een cruciale fase, is er adequaat en snel geschakeld naar een alternatief plan. Dit getuigt van een pragmatische houding en een flexibele werkwijze binnen het team.
 
 Hoewel het alternatief niet direct de beoogde doelgroep betrof, werden de resultaten zorgvuldig en met een kritische blik geëvalueerd. Deze aanpak benadrukt het belang van een wetenschappelijke en methodische werkwijze, waarbij zelfs in moeilijke omstandigheden gefocust blijft op de kern van het project. Het efficiënte samenwerken en het vermogen om obstakels snel te overwinnen, hebben ertoe bijgedragen dat het project soepel en doelgericht kon blijven verlopen.
 
 Een belangrijk inzicht dat naar voren is gekomen, is dat de veelzijdigheid van BRIQ – bedoeld voor alle netsporten – niet betekent dat testresultaten eenvoudigweg van de ene naar de andere sport overgezet kunnen worden. Zo brengt de kleinere omvang van een badmintonveld vergeleken met een tennisveld significante verschillen met zich mee in het testproces. Dit vraagt om een diepgaande analyse en een zorgvuldige benadering bij het trekken van conclusies en het formuleren van ontwerpvereisten. Het team moet blijven waken over de toepasbaarheid van deze eisen op meerdere netsporten en ervoor zorgen dat het uiteindelijke ontwerp robuust en veelzijdig genoeg is om aan de behoeften van verschillende doelgroepen te voldoen.
 
-Kortom, deze reflectie benadrukt niet alleen de kracht van samenwerking en flexibiliteit binnen het project, maar ook het belang van een kritische en toekomstgerichte benadering bij de ontwikkeling van een innovatief product als BRIQ.
+### Semester 2
+#### Besturingsmodule
+Door tijdsgebrek is de gewenste interface niet geïmplementeerd in het pythonscript. Ook is het opstarten van de code nog niet volautomatisch. De bedoeling is dat de gebruiker de doos opent en meteen kan beginnen met de BRIQ te gebruiken. De vragen die tijdens het spel gesteld worden komen uit een vaste lijst van vragen. Een mogelijke oplossing om er toch voor te zorgen dat de vragen hedendaags blijven is de integratie van een AI model dat om de zoveel tijd een nieuwe lijst van vragen genereerd. Hierdoor blijft het product langdurig relevant, aangezien de gestelde vragen telkens verschillen en zelden identiek zijn.
+
+#### Oortjes
+Vanwege de beperkte middelen is ervoor gekozen de focus te leggen op de centrale console in plaats van op de oortjes. De ontwikkeling van de oortjes zou namelijk te veel tijd en middelen vergen, waardoor de centrale console mogelijk onderbelicht zou blijven. Deze ontwikkeling vereist ook een expertise omwille van de kleine elektronica.
+Voor de testen zijn er oortjes aangekocht. De oortjes die hiervoor gebruikt zijn, zijn goedkoop. Dit zorgde ervoor dat er geen stabiele verbinding was en kwam ook de kwaliteit ten slechte. Dit aspect had vermeden kunnen worden tijdens de test door kwalitatievere items te kunnen gebruiken.
+
+
 
 ## Bijlagen
 - Bijlage 1: [Discoveryfase user interview protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/joachim_waeyaert_ugent_be/Eccp6-tuJ7RIgDxTFJafTsUBjha0G01C07kuwLYuzL_5hg?e=EyJoAE)
