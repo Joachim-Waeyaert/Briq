@@ -450,6 +450,33 @@ Na maanden van testen, bijsturen en ontwikkelen is het eindresultaat klaar: Briq
 
 ### Centrale console
 De console vormt het centrale punt van het systeem. Via een eenvoudig keuzemenu selecteert de gebruiker een thema en start het spel. De grote, duidelijke knoppen en het lineaire verloop maken de bediening vlot. Het ontwerp is robuust en intuïtief, wat zorgt voor vertrouwen bij de gebruiker. De afsluitbare behuizing beschermt het systeem en maakt het geschikt voor gebruik in sportieve omgevingen.
+De centrale console is gemaakt door middel van 3D printen. Door enkele problemen met het bed van de printer is het stuk verschoven tijdens het printen. Dit zorgde voor een _layer shift_. Omwille van deze reden is de print op deze laag los gemaakt en opnieuw bevestigd. 
+<p align="center">
+  <img src="img/fp_print.jpg" height="300px">
+  <img src="/img/fp_print_onderkant.jpg" height="300px">
+  <img src="/img/fp_print_bovenenonder.jpeg" height="300px"> 
+</p>
+
+<p align="center">
+  <img src="img/fp_destroy1.jpeg" height="300px">
+  <img src="/img/fp_destroy2.jpeg" height="300px">
+</p>
+
+Nadat de prints klaar waren is het stuk opgeschuurd en een vullingslaag op bevestigd waarna er opnieuw is geschuurd om een glad oppervlak te bekomen. Eens het oppervlak glad was is de kleur er opgespoten.
+<p align="center">
+  <img src="img/fp_making3.jpeg" height="300px">
+  <img src="/img/fp_making1.jpeg" height="300px">
+  <img src="/img/fp_making4.jpeg" height="300px"> 
+</p>
+
+Uiteindelijk zijn de accenten aangebracht op de console, het scherm er in verwerkt en het deksel met het scharnier bevestigd. Op deze manier is het finaal prototype tot leven gekomen.
+<p align="center">
+  <img src="img/fp_heroshot1.jpeg" height="300px">
+  <img src="/img/fp_heroshot2.jpeg" height="300px">
+  <img src="/img/fp_heroshot4.jpeg" height="300px"> 
+  <img src="/img/fp_heroshot3.jpeg" height="300px"> 
+</p>
+
 
 ### Draadloze oortjes
 Voor de auditieve begeleiding maakt Briq gebruik van bone conduction-oortjes. Deze technologie zorgt ervoor dat gesproken instructies helder en zonder afleiding worden weergegeven, zonder de oren af te sluiten. Het ergonomische ontwerp blijft goed zitten tijdens beweging en is ook bruikbaar in combinatie met een bril. De keuze voor draadloze oortjes draagt bij aan een opgeruimd en vrij gevoel tijdens het spel.
