@@ -294,7 +294,7 @@ Belangrijke succesfactoren bleken een universele pasvorm, eenvoudige en intuïti
 > - D4.6	De oortjes moeten compatibel zijn om te dragen met een bril.
 > - D4.7	De oortjes moeten intuïtief geplaatst worden.
 > - D4.8	De oortjes moeten universeel zijn.
-> - D4.9	De oortjes moeten licht zijn.
+> - D4.9	De oortjes mogen maximaal 7 gram wegen.
 
 
 ## Develop 3 (N=4)
@@ -443,7 +443,7 @@ Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision m
 | D4.6   | De oortjes moeten compatibel zijn om te dragen met een bril.                           | User test      | 04-May   |
 | D4.7   | De oortjes moeten intuïtief geplaatst worden.                                          | User test      | 04-May   |
 | D4.8   | De oortjes moeten universeel zijn.                                                     | User test      | 04-May   |
-| D4.9   | De oortjes moeten licht zijn.                                                          | User test      | 04-May   |
+| D4.9   | De oortjes mogen maximaal 7 gram wegen.                                                          | User test      | 04-May   |
 
 ## Finaal prototype
 Na maanden van testen, bijsturen en ontwikkelen is het eindresultaat klaar: BRIQ – een speelse en doordachte trainingsmodule die fysieke activiteit en cognitieve stimulatie samenbrengt. Ontworpen voor 65-plussers, biedt BRIQ een laagdrempelige en motiverende manier om zowel lichaam als geest actief te houden. Het systeem legt de nadruk op eenvoud, plezier en sociale interactie, zonder in te boeten op functionaliteit of comfort.
