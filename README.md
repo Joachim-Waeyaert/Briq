@@ -166,7 +166,7 @@ Uit deze twee gebruikerstesten zijn er enkele belangrijke elementen voortgekomen
 > Design Requirements:
 > - D3.1	De strafmechanismen mogen geen grote impact hebben op het spel.
 > - D3.2	De puntenregistratie moet soepel en foutloos verlopen.
-> - D3.3	De spraakmodule moet luid en duidelijk zijn.
+> - D3.3	De spraakmodule moet in één keer verstaanbaar zijn via het oortje zonder herhaling.
 > - D3.4	De vragen mogen maximaal één regel lang zijn.
 > - D3.5	Tussen de vragen mag er maximaal tien seconden pauze zitten.
 > - D3.6	Het vermelden van de uitdaging moet duidelijk zijn
@@ -426,7 +426,7 @@ Hoewel sommige concepten lager scoren op elegantie en stijl, toont de decision m
 | **Groep 3** |  **Programma**                                                                         |                |          |
 | D3.1   | De strafmechanismen mogen geen grote impact hebben op het spel.                        | Concept test   | 08-Dec   |
 | D3.2   | De puntenregistratie moet soepel en foutloos verlopen.                                 | Concept test   | 08-Dec   |
-| D3.3   | De spraakmodule moet luid en duidelijk zijn.                                           | Concept test   | 08-Dec   |
+| D3.3   | De spraakmodule moet in één keer verstaanbaar zijn via het oortje zonder herhaling.                                           | Concept test   | 08-Dec   |
 | D3.4   | De vragen mogen maximaal één regel lang zijn.                                          | Concept test   | 08-Dec   |
 | D3.5   | Tussen de vragen mag er maximaal tien seconden pauze zitten.                           | Concept test   | 27-Dec   |
 | D3.6   | Het vermelden van de uitdaging moet duidelijk zijn.                                    | Concept test   | 27-Dec   |
