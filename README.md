@@ -481,14 +481,18 @@ Uiteindelijk zijn de accenten aangebracht op de console, het scherm er in verwer
 ### Draadloze oortjes
 Voor de auditieve begeleiding maakt Briq gebruik van bone conduction-oortjes. Deze technologie zorgt ervoor dat gesproken instructies helder en zonder afleiding worden weergegeven, zonder de oren af te sluiten. Het ergonomische ontwerp blijft goed zitten tijdens beweging en is ook bruikbaar in combinatie met een bril. De keuze voor draadloze oortjes draagt bij aan een opgeruimd en vrij gevoel tijdens het spel.
 
-### Spelervaring
-Briq combineert quizvragen met beweging, bijvoorbeeld tijdens het spelen van een netsport. Bij een goed antwoord gaat het spel naar het andere team; een fout antwoord resulteert in een korte, lichte uitdaging. Deze spelopzet stimuleert niet alleen het geheugen en reactievermogen, maar ook het groepsgevoel en de motivatie om te blijven meedoen. Door competitie en samenwerking te combineren ontstaat er een spelervaring die cognitief en fysiek prikkelt, zonder te overweldigen.
+### CMF
+#### Color
+Voor dit product wordt een diep metallic blauw voorgesteld, geïnspireerd op het retroblauw dat onder andere bekend is van Smeg-producten. Deze kleur combineert een frisse en sportieve uitstraling met een moderne esthetiek. De metallic component voegt een premium gevoel toe en zorgt voor een aantrekkelijke reflectie in zonlicht, wat relevant is bij gebruik in buitensportcontexten zoals tennis. Bovendien is blauw een tijdloos en genderneutraal kleurenschema dat zowel visueel aanspreekt als seizoen-onafhankelijk inzetbaar is. Dit maakt het tot een duurzame en toegankelijke keuze voor een brede gebruikersgroep.
 
-### Gebruiksvriendelijkheid
-De interface is bewust eenvoudig gehouden. Grote knoppen, visuele en auditieve feedback en een herkenbare structuur zorgen ervoor dat gebruikers snel begrijpen hoe het systeem werkt. De interacties zijn lineair en duidelijk – een bewuste keuze om verwarring te vermijden. Briq is gericht op het versterken van zelfvertrouwen bij de gebruiker door technologie als hulpmiddel aan te bieden, niet als hindernis.
+#### Material
+Voor de behuizing van het product wordt hoogwaardig ABS-kunststof aanbevolen. ABS staat bekend om zijn sterkte, slagvastheid en goede verwerkbaarheid via spuitgieten, wat resulteert in een hoog detailniveau en een solide bouwkwaliteit. Beide materialen zijn geschikt voor draagbare toepassingen en dragen bij aan de duurzaamheid en ergonomie van het ontwerp.
+
+#### Finish 
+Om het product een hoogwaardige uitstraling te geven, wordt gekozen voor een hoogglans afwerking voorzien van een UV-bestendige laklaag. Deze lak beschermt het oppervlak tegen verkleuring en materiaaldegradatie door langdurige blootstelling aan zonlicht, wat cruciaal is bij outdoor gebruik. De glanzende finish versterkt het premium karakter van het product en maakt het aantrekkelijk voor eindgebruikers. Een optie die niet verkend is maar wel nog toegepast kan worden is aan de onderzijde van het product een soft-touch coating worden aangebracht. Deze matte, rubberachtige textuur verhoogt de grip en het gebruikerscomfort, vooral tijdens actieve toepassingen.
 
 ### Conclusie
-Briq biedt een slimme, sociale én toegankelijke manier om ouderen actief te houden. Het systeem maakt preventieve stimulatie niet alleen haalbaar, maar ook aantrekkelijk. Door de combinatie van fysieke beweging, cognitieve uitdagingen en eenvoudige interactie toont Briq aan dat technologie perfect kan inspelen op de noden van een ouder wordende doelgroep – met plezier en gebruiksgemak als kernwaarden.
+Briq vormt het resultaat van een intensief en iteratief ontwerpproces, waarbij functionaliteit, gebruiksgemak en aantrekkelijkheid hand in hand zijn gegaan. Elk aspect van het systeem – van de centrale console tot de auditieve ondersteuning en de zorgvuldig gekozen materialen en afwerking – is ontworpen met oog voor de noden en mogelijkheden van de 65-plusser. Het prototype toont niet alleen de technische haalbaarheid van het concept, maar ook hoe design een rol kan spelen in het stimuleren van beweging, cognitieve prikkeling en sociale betrokkenheid. Met Briq wordt aangetoond dat innovatieve technologie en toegankelijk ontwerp elkaar kunnen versterken in het creëren van betekenisvolle gebruikerservaringen.
 
 ## Bill of materials
 1. Hardware: LED-strips, speakers, microcontroller (arduino), voeding, basis arduino kit
