@@ -373,6 +373,7 @@ In onderstaande tabel staan de totaalsom van elk kenmer per concept. Deze zijn o
   <img src="/img/dev3_ut2.jpg" height="300px">
   <img src="/img/dev3_ut3.jpg" height="300px"> 
 </p>
+
 ### Conclusies & implicaties
 #### Interface
 Uit bovenstaande resultaten wordt duidelijk dat de interfaces die het best scoren degene zijn met grote knoppen en weinig afleidende informatie op het scherm. Een groot verschil tussen deze twee interfaces is het statussymbool van de bluetoothverbinding. Bij de paperinterface is dit een klein bolletje dat van rood naar groen verandert indien verbonden. Bij de niet afleidende interface is dit een grote cirkel. Uit de observatie wordt duidelijk dat deze cirkel een signaal afgeeft dat de gebruiker hierop moet tikken. 
