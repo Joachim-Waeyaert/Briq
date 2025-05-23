@@ -21,6 +21,7 @@ Door deze drie aspecten te combineren met een multisensorische aanpak, kan demen
 > - Ruwe data zoals foto's, video-opnames en diepgaandere dataverwerking zijn te vinden in de bijhorende protocollen en reports.
 > - Volledige python codes zijn terug te vinden in de map [src](/src).
 > - De 3D-modellen zijn terug te vinden in de map [cad](/cad)
+> - De figma bestanden zijn terug te vinden in de map [figma](/figma).
 
 
 ## Introductie
