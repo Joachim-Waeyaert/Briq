@@ -484,7 +484,7 @@ Voor de auditieve begeleiding maakt BRIQ gebruik van bone conduction-oortjes. De
 
 ### CMF
 #### Color
-Voor dit product wordt een diep metallic blauw voorgesteld, geïnspireerd op het retroblauw dat onder andere bekend is van Smeg-producten. Deze kleur combineert een frisse en sportieve uitstraling met een moderne esthetiek. De metallic component voegt een premium gevoel toe en zorgt voor een aantrekkelijke reflectie in zonlicht, wat relevant is bij gebruik in buitensportcontexten zoals tennis. Bovendien is blauw een tijdloos en genderneutraal kleurenschema dat zowel visueel aanspreekt als seizoen-onafhankelijk inzetbaar is. Dit maakt het tot een duurzame en toegankelijke keuze voor een brede gebruikersgroep.
+Voor dit product wordt een diep metallic blauw voorgesteld, geïnspireerd op het retroblauw dat onder andere bekend is van Smeg-producten. Deze kleur combineert een frisse en sportieve uitstraling met een moderne esthetiek. De metallic component voegt een premium gevoel toe en zorgt voor een aantrekkelijke reflectie in zonlicht, wat relevant is bij gebruik in buitensportcontexten zoals tennis. Bovendien is blauw een tijdloos kleurenschema dat zowel visueel aanspreekt als seizoen-onafhankelijk inzetbaar is. Dit maakt het tot een duurzame en toegankelijke keuze voor een brede gebruikersgroep.
 
 #### Material
 Voor de behuizing van het product wordt hoogwaardig ABS-kunststof aanbevolen. ABS staat bekend om zijn sterkte, slagvastheid en goede verwerkbaarheid via spuitgieten, wat resulteert in een hoog detailniveau en een solide bouwkwaliteit. Beide materialen zijn geschikt voor draagbare toepassingen en dragen bij aan de duurzaamheid en ergonomie van het ontwerp.
